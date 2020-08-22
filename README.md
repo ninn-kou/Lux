@@ -6,9 +6,10 @@ TOTO: rename this Repo.
 ## Main propose
 
 - A repo contains Learning notes of computer science & Mathematics.
-- Algorithms (LeetCode...) into this Repo? or a sparate one.
+- Algorithms (LeetCode...) into this Repo? or a separate one.
 
 > I believe put these Learning resources together would be better.
+>
 > LeetCode: 1 & 7 -> markdown + codes.
 
 - Some little programs (do I need a separate repo?)
