@@ -17,3 +17,5 @@ TOTO: rename this Repo.
 - CSS, H5, LaTeX and markdown for notes taking.
 
 - !!! SSH and GitHub Learning. (Should I put these "TODO" into my plan?)
+
+- Choose a license.
