@@ -10,7 +10,7 @@ TOTO: rename this Repo.
 
 > I believe put these Learning resources together would be better.
 >
-> LeetCode: 1 & 7 -> markdown + codes.
+> LeetCode: -> markdown + codes (+ diagrams).
 
 - Some little programs (do I need a separate repo?)
 - Timeline or plan for the Term break (before 23:59, Sunday 23 August).
