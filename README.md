@@ -19,3 +19,5 @@ TOTO: rename this Repo.
 - !!! SSH and GitHub Learning. (Should I put these "TODO" into my plan?)
 
 - Choose a license.
+
+- Planning on Saturday! (Today)
