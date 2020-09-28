@@ -53,3 +53,27 @@ Here are only four lines. However, it is not an easy job to understand them 100 
 #### 1.6.2 ... main(void) ...
 
 #### 1.6.3 "return 0;"
+
+## 2. C Foundations
+
+### 2.1 Basic Data Types
+
+### 2.2 If Statements
+
+### 2.3 Loop Statements
+
+## 3. Functions in C Standard Libraries
+
+## 4. Pointer and Addresses
+
+## 5. Multiple Files in C
+
+## 6. Arrays and Strings
+
+## 7. Linked Lists
+
+## 8. Two ADTs
+
+### 8.1 Stacks
+
+### 8.2 Queues
