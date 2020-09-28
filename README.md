@@ -1,8 +1,8 @@
-# unnamed-temp
+# Lux: My Computing Science Study Voyage
 
 TODO: need to finish README.md
 
-TODO: rename this Repo.
+OK | TODO: rename this Repo.
 
 UPDATE: refer to the notes plan on Montblanc.
 
@@ -22,5 +22,3 @@ UPDATE: refer to the notes plan on Montblanc.
 - !!! SSH and GitHub Learning. (Should I put these "TODO" into my plan?)
 
 - Choose a license.
-
-- Planning on Saturday! (Today)
