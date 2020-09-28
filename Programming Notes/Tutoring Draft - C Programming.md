@@ -66,7 +66,7 @@ Here are only four lines. However, it is not an easy job to understand them 100 
 
 ## 4. Pointer and Addresses
 
-## 5. Multiple Files in C
+## 5. Multiple Files and Arguments
 
 ## 6. Arrays and Strings
 
