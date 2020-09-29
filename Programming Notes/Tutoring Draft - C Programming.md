@@ -2,7 +2,7 @@
 
 ## 1. "Hello World!"
 
-This part is an introduction to get in touch with my notes. I tried to help a first-year beginner student from UNSW to understand some foundational properties in C programming. So there is nothing deeply and many questions remaining to solve in the following study voyage.
+This part is an introduction to get in touch with my notes. I tried to help a first-year beginner student from University of New South Wales to understand some foundational properties in C programming. So there is nothing deeply and many questions remaining to solve in the following study voyage.
 
 TODO: Make sure here are some links to the following parts to explain knowledge we skip in Part 1, including
     - Preprocessor Directives
@@ -68,10 +68,9 @@ Another exciting aspect is the definition of your functions. We could understand
 ```C
 // Calculate the distance between two points (row1, col1) and (row2, col2).
 double distance(int row1, int col1, int row2, int col2) {
-
- int row_dist = row2 - row1;
- int col_dist = col2 - col1;
- return sqrt((row_dist * row_dist) + (col_dist * col_dist));
+    int row_dist = row2 - row1;
+    int col_dist = col2 - col1;
+    return sqrt((row_dist * row_dist) + (col_dist * col_dist));
 }
 ```
 
@@ -105,6 +104,8 @@ if () {
 
 ## 4. Pointers and Addresses
 
+### 4.1 A Pointer Example
+
 To create a pointer, we need to **declare it with a \***. **Also, all pointers should be initialized with an address to any data or put it empty with a `NULL`.**
 
 ```C
@@ -112,6 +113,48 @@ int num = 65535;
 int *pointer = &num;
 printf("The value at %p is %d.\n", pointer, *pointer);
 ```
+
+**Output on my MacBook Pro:**
+
+```
+The value at 0x7ffee3559928 is 65535.
+```
+
+### 4.2 Demonstrations
+
+When we declare a pointer, we need a star mark '\*' to tell the computer that the variable is a pointer, which contains the address of the other variable we want. **After declaration**, the pointer variable without star `pointer` express the address, but the pointer with a star '*' `*pointer` define the value of the variable which was pointed to.
+
+```C
+// Pointer declaration.
+// The '*' here means that the data "pointer" is a pointer to an integer (int value).
+// The '&' here means the address of the variable.
+int *pointer = &value.
+
+// After declaration.
+// "Pointer" is a variable which stores the address of another variable.
+// The below printf function would print an address (0x7ffee3559928) in memory.
+printf("%p\n", pointer);
+```
+
+Besides, we could know that the pointer aims to the same address with the original variable. If we could visit and change the content of the variable which was aimed at? Here is an example with a declared pointer.
+
+```C
+*pointer = 32767;
+```
+
+**Output on my MacBook Pro:**
+
+```
+The value at 0x7ffeeb706928 is 32767.
+```
+
+### 4.3 No Dangling Pointer
+
+If the pointed object has been freed or deleted, but no change to the pointer itself, we caused a "dangling pointer". This is a dangerous behavior when computing because even the content changed, the address stayed here. We don't know what would be allocated into this address, and then, if we do anything to the pointer, something might be wrong.
+
+Here are two tips to avoid this situation. The first one is, never leaves a pointer alone. When we declare it, it is better to link it with an address; but if there is not a suitable object for this pointer, we also need to put it as `NULL`. Otherwise, the pointer would point to an address randomly, and any operation is dangerous for this time.
+
+Secondly, every pointer should be a `NULL` after using. It is beneficial, and it could avoid most memory leak errors by incorrect addresses.
 
 ## 5. Multiple Files and Arguments
 
