@@ -54,21 +54,82 @@ Here are only four lines. However, it is not an easy job to understand them 100 
 
 #### 1.6.3 "return 0;"
 
+Here are two questions that might be confusing for beginners in C computing.
+
+- 1. Why do we need a "return"?
+- 2. Why the value we returned is "0"?
+
+The answer to these two questions could be so easy but memorable. Here is a clear but detailed response to the first question: "Because the type of the main function is not `void`." Every function which is not a "void" **must** return at least one corresponding value type; definitely, the main function is also a function, so there has to be a `return` sentence.
+
+However, for the second question, why do we return a unique number zero? Could we return 1, -1, 65535 or any other integer? The answer is you can, but the value you returned would not be a little effect to your program; because when the program executes the word "return" in the main function, the program will end.
+
+Another exciting aspect is the definition of your functions. We could understand every function as a signal variable to its type. For example, look at the function below.
+
+```C
+// Calculate the distance between two points (row1, col1) and (row2, col2).
+double distance(int row1, int col1, int row2, int col2) {
+
+ int row_dist = row2 - row1;
+ int col_dist = col2 - col1;
+ return sqrt((row_dist * row_dist) + (col_dist * col_dist));
+}
+```
+
+This is a part of my work in the first assignment for COMP1511, UNSW 19T3. No matter how many logic calculations I did in this function, it always returns a double type float number which shows the distance between two points. So to make the process of learning more comfortable, we could imagine a "magic double number", which would be changed automatically by the distance of two points.
+
+```C
+double distance = // Magic changing!;
+```
+
+Just like the explanation above, we could try to use a single data type when we are thinking, instead of a long and complicated function.
+
+All in all, the question of the second question is very incredible. Because the main function is an `int` function, so computer scientists put a value '0' into it, just in case.
+
 ## 2. C Foundations
 
 ### 2.1 Basic Data Types
 
 ### 2.2 If Statements
 
+```C
+if () {
+
+}
+```
+
 ### 2.3 Loop Statements
+
+### 2.4 Struct
 
 ## 3. Functions in C Standard Libraries
 
-## 4. Pointer and Addresses
+## 4. Pointers and Addresses
+
+To create a pointer, we need to **declare it with a \***. **Also, all pointers should be initialized with an address to any data or put it empty with a `NULL`.**
+
+```C
+int num = 65535;
+int *pointer = &num;
+printf("The value at %p is %d.\n", pointer, *pointer);
+```
 
 ## 5. Multiple Files and Arguments
 
+```C
+int main(int argc, char *argv[]) {
+    return 0;
+}
+```
+
 ## 6. Arrays and Strings
+
+Pointers and arrays are **similar** but **not same**. Just refer to *Chapter 4, Expert C Programming* by Peter van der Linden for more details.
+
+```C
+int array[][];
+int *array[];
+int **array;
+```
 
 ## 7. Linked Lists
 
