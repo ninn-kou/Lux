@@ -91,8 +91,12 @@ All in all, the question of the second question is very incredible. Because the 
 ### 2.2 If Statements
 
 ```C
-if () {
-
+if (expression_1) {
+    // Statements would be executed if the expression_1 is TRUE.
+} else if (expression_2) {
+    // Statements would be executed if the expression_1 is FALSE but the expression_2 is TRUE.
+} else {
+    // Statements would be executed if both the expression_1 and the expression_2 are FALSE.
 }
 ```
 
