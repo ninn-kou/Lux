@@ -102,7 +102,29 @@ if (expression_1) {
 
 ### 2.3 Loop Statements
 
-### 2.4 Struct
+Here are two options if you need a loop: a `while` statement or a `for` statement. However, before I show the syntax of them, we need to know some basic properties of a loop. Most C programming cases, we need a variable "counter" to calculate the number we execute this loop, and by comparing the value of the counter and the condition to control statements. However, if there is another easy way to determine if the loop is required to continue, we definitely do not need the counter. One most important thing is if you used a counter, **DO NOT FORGET to operate it after each loop!** Otherwise, you might fall into the mire, which is a forever-running program. A `while` loop just like this:
+
+```C
+while (expression) {
+    // Statements would be executed multiple times until the expression become FALSE.
+    // Because of this, do not forget to do some operation to change your comparison.
+    // Such as an `i++;` or an 'i--;` if the expression looks like the type `i < VALUE`.
+}
+```
+
+In addition, when you try to use a `for` loop, be careful with what you wrote. The first part in the pair of brackets `()` is used to initialize the loop. You can declare a variable here, or just put a new value into an existed variable. The second part is a condition, just like what we do in the `while` part. And the last part is used to change the variable, an `i++;' is commonly appeared here. If you want to change several values at once, try to use a comma `,` to separate them.
+
+```C
+for (init; expression; increment) {
+ // Do something repeat until the expression become FALSE.
+}
+```
+
+**Hint: The symbol you used to separate these three parts is a `;` rather than a ','.**
+
+### 2.4 Switch, `continue` And `break`
+
+### 2.5 Struct
 
 ## 3. Functions in C Standard Libraries
 
