@@ -17,4 +17,4 @@ TODO: need to finish README.md
 
 - !!! SSH and GitHub Learning. (Should I put these "TODO" into my plan?)
 
-- Choose a license. Maybe MIT?
+- Choose a license. Maybe MIT LICENSE?
