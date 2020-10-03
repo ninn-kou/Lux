@@ -2,10 +2,6 @@
 
 TODO: need to finish README.md
 
-OK | TODO: rename this Repo.
-
-UPDATE: refer to the notes plan on Montblanc.
-
 ## Main propose
 
 - A repo contains Learning notes of computer science & Mathematics.
@@ -21,4 +17,4 @@ UPDATE: refer to the notes plan on Montblanc.
 
 - !!! SSH and GitHub Learning. (Should I put these "TODO" into my plan?)
 
-- Choose a license.
+- Choose a license. Maybe MIT?
