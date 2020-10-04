@@ -38,6 +38,10 @@ Here are only four lines. However, it is not an easy job to understand them 100 
 
 ### 1.3 \#include <...>
 
+When you are writing an essay, you may need others' opinions or data to support your viewpoints. So you try to add some quotation into the article; However, if you use them, do not forget to put them on your reference list. In programming, here are some existed tools that had been written for use. For example, if you want to calculate square root for an integer, there is no need to pay attention into the complicated job, you need to do `sqrt(i)`, and then you can obtain the result you want.
+
+However, where does the`sqrt()` function come from? How could your computer recognize this order? They are from another file called `math.h`, which is another C standard library. In conclusion, it just likes the hammer. If you tried to fix a broken table, raise your hammer on the nail, hit it. DO NOT TRY TO MAKE A HAMMER BY YOURSELF!
+
 ### 1.4 Why Do We Need the "stdio.h"?
 
 ### 1.5 What Is the "printf(...)"?
