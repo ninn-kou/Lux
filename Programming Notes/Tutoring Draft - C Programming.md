@@ -52,11 +52,9 @@ However, where does the`sqrt()` function come from? How could your computer reco
 
 ### 1.6 Main Function
 
-#### 1.6.1 int ...
+#### 1.6.1 `int main(void)`
 
-#### 1.6.2 ... main(void) ...
-
-#### 1.6.3 "return 0;"
+#### 1.6.2 `return 0`
 
 Here are two questions that might be confusing for beginners in C computing.
 
