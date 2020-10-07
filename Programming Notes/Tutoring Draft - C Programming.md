@@ -50,6 +50,8 @@ However, where does the`sqrt()` function come from? How could your computer reco
 
 #### 1.5.2 What is the "\n"?
 
+`\n` likes a mark to tell your computer that you need to print a new line here.
+
 - `\r`: CR (Carriage Return) → Used as a new line character in Mac OS before X;
 - `\n`: LF (Line Feed) → Used as a new line character in Unix/Mac OS X;
 - `\r\n`: CR + LF → Used as a new line character in Windows.
