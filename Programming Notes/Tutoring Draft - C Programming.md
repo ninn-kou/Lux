@@ -52,6 +52,8 @@ However, where does the`sqrt()` function come from? How could your computer reco
 
 `\n` likes a mark to tell your computer that you need to print a new line here.
 
+>A carriage return (\r) makes the cursor jump to the first column (begin of the line) while the newline (\n) jumps to the next line and eventually to the beginning of that line. So to be sure to be at the first position within the next line one uses both.
+
 - `\r`: CR (Carriage Return) → Used as a new line character in Mac OS before X;
 - `\n`: LF (Line Feed) → Used as a new line character in Unix/Mac OS X;
 - `\r\n`: CR + LF → Used as a new line character in Windows.
