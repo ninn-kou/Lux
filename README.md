@@ -10,6 +10,8 @@ TODO: need to finish README.md
 > I believe put these Learning resources together would be better.
 >
 > LeetCode: -> markdown + codes (+ diagrams).
+>
+> Mathematics: -> markdown + KaTeX.
 
 - Some little programs (do I need a separate repo?)
 - Timeline or plan for the Term break (before 23:59, Sunday 23 August).
