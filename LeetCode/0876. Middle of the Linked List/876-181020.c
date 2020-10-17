@@ -8,7 +8,7 @@ struct ListNode {
     int val;
     struct ListNode *next;
 };
- */
+*/
 
 // Fast and slow pointers to obtain the 1/2 route.
 struct ListNode *middleNode(struct ListNode *head) {
