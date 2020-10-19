@@ -23,3 +23,7 @@
 #### Tutoring Draft - C Programming
 
 #### Introduction to Programming
+
+## Copyright
+
+*All rights reserved until further notice to change it.*
