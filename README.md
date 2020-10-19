@@ -1,22 +1,25 @@
 # Lux: My Computing Science Study Voyage
 
-TODO: need to finish README.md
+## Table of Contents
 
-## Main propose
+### LeetCode Problems & Solutions
 
-- A repo contains Learning notes of computer science & Mathematics.
-- Algorithms (LeetCode...) into this Repo? or a separate one.
+**Tuesday, 20 October, 2020 Version.** For last release please refer to the file [LeetCode.md](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/LeetCode.md).
 
-> I believe put these Learning resources together would be better.
->
-> LeetCode: -> markdown + codes (+ diagrams).
->
-> Mathematics: -> markdown + KaTeX.
+### Mathematics Notes
 
-- Some little programs (do I need a separate repo?)
-- Timeline or plan for the Term break (before 23:59, Sunday 23 August).
-- CSS, H5, LaTeX and markdown for notes taking.
+#### Linear Algebra
 
-- !!! SSH and GitHub Learning. (Should I put these "TODO" into my plan?)
+#### Calculus
 
-- Choose a license. Maybe MIT LICENSE?
+#### Discrete Mathematics
+
+#### Information, Codes and Ciphers
+
+### Programming Notes
+
+#### Shell Commands
+
+#### Tutoring Draft - C Programming
+
+#### Introduction to Programming
