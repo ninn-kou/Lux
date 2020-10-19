@@ -1,5 +1,7 @@
 # LeetCode
 
+TODO: Create the `/src` folder and use relative path to find files.
+
 ## ToC and Tags
 
 - 1. Two Sum
