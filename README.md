@@ -24,7 +24,7 @@
 
 #### Introduction to Programming
 
-### My Base Projects
+### My Basics Projects
 
 Here are some mini-programs for development training.
 
