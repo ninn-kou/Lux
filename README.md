@@ -24,6 +24,10 @@
 
 #### Introduction to Programming
 
+### My Base Projects
+
+Here are some mini-programs for development training.
+
 ## Copyright
 
 *All rights reserved until further notice to change it.*
