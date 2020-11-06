@@ -1,6 +1,9 @@
 \documentclass{article}
 
 \usepackage{amsmath}
+\usepackage[english]{babel}
+
+\newtheorem{theorem}{Theorem}[section]
 
 \begin{document}
 
@@ -15,26 +18,80 @@
 
 \section{Compression Coding}
 
-\subsection{* Instantaneous and UD codes}
+\subsection{Instantaneous and UD codes}
 
-\subsection{Illustration of parts of the proof}
+\subsubsection{Definition}
 
-\subsection{Examples for radix 3}
+\begin{align*}
+	\text{a source } S \qquad &\text{ with } q \text{ source symbols} \qquad & s_{1},s_{2},\cdots,s_{q},\\
+	&\text{ with probabilities} \qquad &  p_{1},p_{2},\cdots,p_{q},\\
+	\text{encoded by a code } C \qquad &\text{ with } q \text{ codewords} \qquad & c_{1},c_{2},\cdots,c_{q},\\
+	&\text{ of lengths} \qquad & l_{1},l_{2},\cdots,l_{q}.
+\end{align*}
 
-\subsection{MinimalUD-codes}
+\begin{itemize}
+	\item with a radix $r$ codewords,
+	\item variable length codes,
+	\item not channel noise for source coding.
+\end{itemize}
 
-\subsection{* Huffman’s algorithm (binary case)}
+\subsubsection{UD and I-code}
 
-\subsection{Radix r Huffman codes}
+A code $C$ is
 
-\subsection{Extensions}
+\begin{description}
+	\item[UD] uniquely decodable codes if it can always be decoded unambiguously,
+	\item[I-code] instantaneous if no codeword is the prefix of others.
+\end{description}
 
-\subsection{* Markov sources}
+\subsubsection{Comma Codes}
 
-\subsection{Huffman coding for stationary Markov sources}
+The standard comma code of length $n$ is
 
-\subsection{* Other Text Compression Methods}
+\begin{itemize}
+	\item a code which every codeword has length $\leq n$,
+	\item a code which every codeword contains at most one $0$,
+	\item and if a codeword contains $0$ then $0$ must be the final symbol in the codeword.
+\end{itemize}
 
-\subsection{Other types of Compression}
+\subsubsection{Decision Trees}
+
+\subsubsection{The Kraft-McMillan Theorem}
+
+\begin{theorem}[The Kraft-McMillan Theorem]
+	\mbox{}\\
+	A UD-code of radix $r$ with $q$ codewords $c_{1}, c_{2},\cdots,c_{q}$ of lengths $l_{1} \leq l_{2} \leq \cdots \leq l_{q}$ exists \\
+	if and only if \qquad an I-code with the same parameters exists \\
+	if and only if
+	\[K=\sum_{i=1}^{q}\frac{1}{r^{l_{i}}}\leq1. \]
+\end{theorem}
+
+\subsubsection{Length and Variance}
+
+The expected or \textbf{average length} of codewords is given by
+	\[L=\sum_{i=1}^{q}p_{i}l_{i}\]
+	and the \textbf{variance} is given by
+	\[V=\sum_{i=1}^{q}p_{i}l_{i}^{2}-L^{2}.\]
+
+Our aim is to minimise $L$ for a given source $S$ and, if more than one code $C$ gives this value, to minimise $V$.
+
+\begin{theorem}[Minimal UD-codes]
+	\mbox{}\\
+	Let $C$ be a UD-code with minimal expected length $L$ for the given source $S$. Then, after permuting codewords of equally likely symbols if necessary,
+	\begin{itemize}
+		\item $l_{1} \leq l_{2} \leq \cdots \leq l_{q}$ and
+		\item $l_{q-1}=l_{1}$.
+	\end{itemize}
+	Furthermore, if C is instantaneous, then
+	\begin{itemize}
+		\item $c_{q-1}$ and $c_{q}$ differ only in their last place.
+	\end{itemize}
+	If $C$ is binary, then
+	\begin{itemize}
+		\item $K=\sum_{i=1}^{q}2^{-l_{i}}=1.$
+	\end{itemize}
+\end{theorem}
+
+\subsection{Huffman's Algorithm}
 
 \end{document}
