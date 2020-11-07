@@ -1,9 +1,11 @@
 \documentclass{article}
 
 \usepackage{amsmath}
+\usepackage{hyperref}
 \usepackage[english]{babel}
 
 \newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
 
 \begin{document}
 
@@ -18,7 +20,7 @@
 
 \section{Compression Coding}
 
-\subsection{Instantaneous and UD codes}
+\subsection{Variable Length Encoding}
 
 \subsubsection{Definition}
 
@@ -93,5 +95,42 @@ Our aim is to minimise $L$ for a given source $S$ and, if more than one code $C$
 \end{theorem}
 
 \subsection{Huffman's Algorithm}
+
+\subsubsection{Huffman Coding}
+
+To compute Huffman prefix-free code:
+
+\begin{itemize}
+	\item Count character frequencies ps for each symbol $s$ in file.
+	\item Start with a forest of trees, each consisting of a single vertex corresponding to each symbol $s$ with weight $p_{s}$.
+	\item Repeat:
+		\begin{itemize}
+			\item select two trees with min weight $p_{1}$ and $p_{2}$
+			\item merge into single tree with weight $p_{1}+p_{2}$
+		\end{itemize}
+\end{itemize}
+
+\paragraph{Applications} JPEG, MP3, MPEG, PKZIP.
+
+\begin{theorem}[Huffman Code Theorem]
+	\mbox{}\\
+	For the given source $S$, the Huffman algorithm produces a minimum average length UD-code which is an instantaneous code.
+\end{theorem}
+
+\begin{proposition}[Knuth]
+	\mbox{}\\
+	For a Huffman code created by the given algorithm, the average code word length is sum of all the probabilities at child nodes.
+\end{proposition}
+
+\subsubsection{Properties of Huffman Codes}
+
+\begin{enumerate}
+	\item The place high strategy always produces a minimum variance Huffman code .
+	\item If there are $2^{n}$ equally likely source symbols then the Huffman code is a block code of length $n$.
+	\item If for all $j$, $3p_{j} \geq 2 \sum_{k=j+1}^{q}p_{k}$ then the Huffman code is a comma code.
+	\item Small changes in the pi can change the Huffman code substantially, but have little effect on the average length $L$. This effect is smaller with smaller variance.
+\end{enumerate}
+
+\section*{Resources}
 
 \end{document}
