@@ -1,11 +1,13 @@
 \documentclass{article}
 
-\usepackage{amsmath}
+\usepackage{amsmath, amsthm, amssymb, amsfonts}
 \usepackage{hyperref}
+\usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{proposition}[theorem]{Proposition}
+\newtheorem*{remark}{Remark}
 
 \begin{document}
 
@@ -14,9 +16,13 @@
 \date{\today}
 \maketitle
 
-\setcounter{section}{2}
+\newpage
+
+\tableofcontents
 
 \newpage
+
+\setcounter{section}{2}
 
 \section{Compression Coding}
 
@@ -96,12 +102,16 @@ Our aim is to minimise $L$ for a given source $S$ and, if more than one code $C$
 
 \subsection{Huffman's Algorithm}
 
+\begin{quotation}
+	Huffman’s algorithm for computing minimum-redundancy prefix-free codes has almost legendary status in the computing disciplines. Its elegant blend of simplicity and applicability has made it a favourite example in algorithms courses, and as a result, it is perhaps one of the most commonly implemented algorithmic techniques. \cite{umelHuf}
+\end{quotation}
+
 \subsubsection{Huffman Coding}
 
-To compute Huffman prefix-free code:
+In 1952, David A. Huffman \cite{huf52} published a new lossless data compression method as an Sc.D student at MIT. Here is a demonstration to compute Huffman prefix-free code which is provided by Princeton University in the course COS226 \cite{huffAlgo}:
 
 \begin{itemize}
-	\item Count character frequencies ps for each symbol $s$ in file.
+	\item Count character frequencies $p_{s}$ for each symbol $s$ in file.
 	\item Start with a forest of trees, each consisting of a single vertex corresponding to each symbol $s$ with weight $p_{s}$.
 	\item Repeat:
 		\begin{itemize}
@@ -131,6 +141,47 @@ To compute Huffman prefix-free code:
 	\item Small changes in the pi can change the Huffman code substantially, but have little effect on the average length $L$. This effect is smaller with smaller variance.
 \end{enumerate}
 
-\section*{Resources}
+\subsubsection{Radix $r$ Huffman Codes}
+
+For $r$ radix Huffman codes, which $r \geq 3$, we have a better strategy by adding some dummy variables \cite{rRadixHuff}.
+
+For a $r$ radix encoding, the procedure is similar except $r$ least probable symbols are merged at each step. Since the total number of symbols may not be enough to allow $r$ variables to be merged at each step, we might need to add some dummy symbols with $0$ probability before constructing the Huffman tree.
+
+How many dummy symbols need to be added? Since the first iteration merges $r$ symbols and then each iteration combines $r-1$ symbols with a merged symbols, if the procedure is to last for $k$ (some integer number of) iterations, then the total number of source symbols needed is $1+k(r-1)$. So before beginning the Huffman procedure, we add enough dummy symbols so that the total number of symbols look like $1+k(r-1)$ for the smallest possible value of $k$.
+
+\begin{remark}
+	\mbox{}
+	\begin{enumerate}
+		\item If more than two symbols have the same probability at any iteration, then the Huffman coding may not be unique (depending on the order in which they are merged). However, all Huffman codings on that alphabet are optimal in the sense they will yield the same expected code length.	
+		\item 	One might think of another alternate procedure to assign small code lengths by building a tree top-down instead, e.g. divide the symbols into two sets with almost equal probabilities and repeating. While intuitively appealing, this procedure is suboptimal and leads to a larger expected code length than the Huffman encoding. You should try this on the symbol distribution described above.
+	\end{enumerate}
+\end{remark}
+
+\subsubsection{Extensions of Huffman Coding}
+
+\subsection{Markov Sources}
+
+\subsubsection{Definition}
+
+\subsubsection{Huffman Coding for Stationary Markov Sources}
+
+\subsection{Arithmetic Coding}
+
+\subsubsection{Encoding}
+
+\subsubsection{Decoding}
+
+\subsection{Dictionary Methods}
+
+\subsubsection{Encoding}
+
+\subsubsection{Decoding}
+
+\subsection{Other Types of Compression}
+
+\newpage
+
+\bibliographystyle{IEEEtran}
+\bibliography{refBibFile.bib}
 
 \end{document}
