@@ -27,7 +27,7 @@
 
 \section{All TODOs}
 
-Updated before start the part \emph{3.4 Arithmetic Coding}.
+Updated before start the part \emph{3.4.1 Definition of Arithmetic Coding}.
 
 \subsection{Unfinished Contents}
 
@@ -228,6 +228,12 @@ The matrix $M = (p_{ij})$ is called the transition matrix of the Markov process,
 \subsubsection{Huffman Coding for Stationary Markov Sources}
 
 \subsection{Arithmetic Coding}
+
+\subsubsection{Definition}
+
+Arithmetic coding is very efficient and approaches the entropy limit faster than Huffman coding without any contradiction because the arithmetic coding is not a UD-code. The idea is to assign a subinterval of $[0,1) \subseteq \mathbb{R}$ to the message and successively narrow this subinterval down as each symbol is encoded. The message must end with a stop symbol $\bullet$, which could be displayed as 
+    \[s_{a}s_{b}s_{c}s_{d}s_{e} \cdots s_{n} \bullet,\]
+    and after the subinterval corresponding to the message plus $\bullet$ is found, then any suitable \emph{single number} in the subinterval is transmitted -- this is the actual code number or codeword.
 
 \subsubsection{Encoding}
 
