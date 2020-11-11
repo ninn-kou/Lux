@@ -1,6 +1,7 @@
 \documentclass{article}
 
 \usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
@@ -27,7 +28,7 @@
 
 \section{All TODOs}
 
-Updated before start the part \emph{3.4.1 Definition of Arithmetic Coding}.
+Updated before start the part \emph{3.5 Dictionary Methods}.
 
 \subsection{Unfinished Contents}
 
@@ -37,15 +38,16 @@ Finish this part at first and then add more items into \emph{0.2 Example and Dia
     \item 3.1.4 Decision Trees
     \item 3.2.4 Extensions of Huffman Coding
     \item 3.3.3 Huffman Coding for Stationary Markov Sources
+    \item 3.4.3 Decoding: add a list to show steps like the one in 3.4.2 part.
 \end{itemize}
 
 \subsection{Examples and Diagrams}
 
 \begin{itemize}
-    \item 3.1.3 Comma Codes
-    \item 3.2.1 Huffman Coding
-    \item 3.2.3 Radix $r$ Huffman Codes
-    \item 3.3.1 Definition of Markov Sources
+    \item 3.2.3 Eg and Dia: Radix $r$ Huffman Codes
+    \item 3.3.1 Eg: Definition of Markov Sources
+    \item 3.3.3 Eg: with Huffman coding for Markov Sources
+    \item 3.4.x Eg: Arithmetic encoding and decoding
 \end{itemize}
 
 \subsection{Proofs}
@@ -108,7 +110,7 @@ The standard comma code of length $n$ is
     A UD-code of radix $r$ with $q$ codewords $c_{1}, c_{2},\cdots,c_{q}$ of lengths $l_{1} \leq l_{2} \leq \cdots \leq l_{q}$ exists \\
     if and only if \qquad an I-code with the same parameters exists \\
     if and only if
-    \[K=\sum_{i=1}^{q}\frac{1}{r^{l_{i}}}\leq1.\]
+    \[K=\sum_{i=1}^{q}\dfrac{1}{r^{l_{i}}}\leq1.\]
 \end{theorem}
 
 \subsubsection{Length and Variance}
@@ -158,6 +160,12 @@ In 1952, David A. Huffman \cite{Huffman_1952} published a new lossless data comp
 \end{itemize}
 
 \paragraph{Applications} JPEG, MP3, MPEG, PKZIP.
+
+\begin{figure*}
+    \center
+    \includegraphics{img/C3_figure_1}
+    \caption{Huffman Coding Diagram \cite{Huffman_1952}}
+\end{figure*}
 
 \begin{theorem}[Huffman Code Theorem]
     \mbox{}\\
@@ -231,13 +239,54 @@ The matrix $M = (p_{ij})$ is called the transition matrix of the Markov process,
 
 \subsubsection{Definition}
 
-Arithmetic coding is very efficient and approaches the entropy limit faster than Huffman coding without any contradiction because the arithmetic coding is not a UD-code. The idea is to assign a subinterval of $[0,1) \subseteq \mathbb{R}$ to the message and successively narrow this subinterval down as each symbol is encoded. The message must end with a stop symbol $\bullet$, which could be displayed as 
+Arithmetic coding is very efficient and approaches the entropy limit faster than Huffman coding without any contradiction because the arithmetic coding is not a UD-code. The idea is to assign a subinterval of $[0, 1) \subseteq \mathbb{R}$ to the message and successively narrow this subinterval down as each symbol is encoded. The message must end with a stop symbol $\bullet$, which could be displayed as 
     \[s_{a}s_{b}s_{c}s_{d}s_{e} \cdots s_{n} \bullet,\]
     and after the subinterval corresponding to the message plus $\bullet$ is found, then any suitable \emph{single number} in the subinterval is transmitted -- this is the actual code number or codeword.
 
 \subsubsection{Encoding}
 
+Firstly, to each symbol is associated a subinterval of $[0, 1)$ whose length is proportional to the relative frequency of the symbol. These subintervals are chosen so they do not overlap, but fill $[0, 1)$.
+
+If the ``message so far'' subinterval is $[s, s+w)$ where $s$ is the start, $w$ is the width and the next symbol has associated subinterval $[s^{\prime}, s^{\prime}+w^{\prime})$ then the new message subinterval is the $[s^{\prime}, s^{\prime}+w^{\prime})$ part of $[s, s+w)$.
+
+That is, the new message subinterval becomes \[[s+s^{\prime}w, (s+s^{\prime}w)+w^{\prime}w).\]
+
+It could be shown as a list step by step:
+
+\begin{itemize}
+    \item \textbf{Crop} $[0, 1)$ as current interval.
+    \item \textbf{Partition} the current interval $[0, 1)$ into subintervals of length $p_{1} \cdots p_{q}$, which $p_{q}$ is a stop symbol $\bullet$.
+    \item \textbf{Crop} the $i_{1}^{\mathrm{th}}$ subinterval as the current interval.
+    \item \textbf{Partition} the current interval $[\mathrm{new\ start}, \mathrm{new\ end})$ into subintervals of length $p_{1} \cdots p_{q}$, which $p_{q}$ is a stop symbol $\bullet$.
+    \item \textbf{Crop} the $i_{2}^{\mathrm{th}}$ subinterval as the current interval, which is also a sub-subinterval of the initial interval $[0, 1)$.
+    \item \textbf{Repeat} this process until the whole message has been encoded.
+\end{itemize}
+
+\begin{figure*}
+    \center
+    \includegraphics{img/C3_figure_2}
+    \caption{Arithmetic Coding Diagram \cite{Langdon_1984}}
+\end{figure*}
+
 \subsubsection{Decoding}
+
+We reverse the above, by finding which of the symbol subintervals contains
+the code number. This then gives the first symbol of the message.
+
+The code number is then re-scaled to that interval as follows.
+If $x$ is the code number and it lies in the subinterval $[s, s+w)$,
+then the rescaled code number is $\dfrac{x-s}{w}$. The process is repeated until
+the stop symbol $\bullet$ is encountered.
+
+\begin{remark}
+    \mbox{}
+    \begin{enumerate}
+        \item Without the stop symbol, decoding would usually go on forever.
+        \item It is possible to implement arithmetic coding and decoding using integer arithmetic, and if we use binary representation for the subintervals then it can actually be done using binary arithmetic.  Successive digits can be transmitted as soon as they are finalized; that is, when both start and end points of the interval agree to sufficiently many significant places.  Decoding can also be done as the digits arrive.  Hence arithmetic coding does not need much memory.
+        \item We have described a static version of arithmetic coding.  But the process can also be made adaptive by continually adjusting the start/width values for symbols while decoding takes place.
+    \end{enumerate}    
+\end{remark}
+
 
 \subsection{Dictionary Methods}
 
