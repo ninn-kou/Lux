@@ -16,6 +16,8 @@
 
 #### Information, Codes and Ciphers
 
+- [ ] Chapter 3: Compression Coding
+
 ### Programming Notes
 
 #### Shell Commands
@@ -27,6 +29,8 @@
 ### My Basics Projects
 
 Here are some mini-programs for development training.
+
+- [X] Bin2dec: Binary to Decimal Converter
 
 ## Copyright
 
