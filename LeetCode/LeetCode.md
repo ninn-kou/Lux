@@ -4,10 +4,16 @@ TODO: Create the `/src` folder and use relative path to find files.
 
 ## ToC and Tags
 
+### TODO
+
+- [ ] 60\. Permutation Sequence
+- [ ] 203\. Remove Linked List Elements
+- [ ] 665\. Non-decreasing Array
+
+### Easy
+
 - [X] 1\. [Two Sum](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0001.%20Two%20Sum/1.%20Two%20Sum.md)
-- [X] 50\. [Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md)
 - [X] 58\. [Length of Last Word](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0058.%20Length%20of%20Last%20Word/58.%20Length%20of%20Last%20Word.md)
-- [X] 75\. [Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md)
 - [X] 121\. [Best Time to Buy and Sell Stock](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [X] 125\. [Valid Palindrome](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0125.%20Valid%20Palindrome/125.%20Valid%20Palindrome.md)
 - [X] 206\. [Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md)
@@ -22,3 +28,10 @@ TODO: Create the `/src` folder and use relative path to find files.
 - [X] 1480\. [Running Sum of 1d Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1480.%20Running%20Sum%20of%201d%20Array/1480.%20Running%20Sum%20of%201d%20Array.md)
 - [X] 1486\. [XOR Operation in an Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/1486.%20XOR%20Operation%20in%20an%20Array.md)
 - [X] 1512\. [Number of Good Pairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1512.%20Number%20of%20Good%20Pairs/1512.%20Number%20of%20Good%20Pairs.md)
+
+### Medium
+
+- [X] 50\. [Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md)
+- [X] 75\. [Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md)
+
+### Hard
