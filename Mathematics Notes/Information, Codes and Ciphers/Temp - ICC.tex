@@ -28,7 +28,7 @@
 
 \section{All TODOs}
 
-Updated before start the part \emph{3.5 Dictionary Methods}.
+Updated when \emph{3.X Compression Coding} finished as Version 1.
 
 \subsection{Unfinished Contents}
 
@@ -39,6 +39,7 @@ Finish this part at first and then add more items into \emph{0.2 Example and Dia
     \item 3.2.4 Extensions of Huffman Coding
     \item 3.3.3 Huffman Coding for Stationary Markov Sources
     \item 3.4.3 Decoding: add a list to show steps like the one in 3.4.2 part.
+    \item 3.6.x Other types of Compression
 \end{itemize}
 
 \subsection{Examples and Diagrams}
@@ -48,6 +49,7 @@ Finish this part at first and then add more items into \emph{0.2 Example and Dia
     \item 3.3.1 Eg: Definition of Markov Sources
     \item 3.3.3 Eg: with Huffman coding for Markov Sources
     \item 3.4.x Eg: Arithmetic encoding and decoding
+    \item 3.5.x Eg: Dictionary Methods
 \end{itemize}
 
 \subsection{Proofs}
@@ -287,18 +289,49 @@ the stop symbol $\bullet$ is encountered.
     \end{enumerate}    
 \end{remark}
 
-
 \subsection{Dictionary Methods}
 
 \subsubsection{Definition}
+
+\paragraph{Examples} \textbf{Ziv, LZ77, LZ78 and LZW} are four dictionary compressing methods.
+Dictionary-based algorithms do not encode single symbols as variable-length bit strings; they encode variable-length strings of symbols as single tokens:
+
+\begin{itemize}
+    \item The tokens form an index into a phrase dictionary.
+    \item If the tokens are smaller than the phrases they replace, compression occurs.
+\end{itemize}
+
+Consider the Random House Dictionary of the English Language, Second edition, Unabridged. Using this dictionary, the string
+    \[\text{A good example of how dictionary based compression works}\]
+can be coded as
+    \[1/1 \quad 822/3 \quad 674/4 \quad 1343/60 \quad 928/75 \quad 550/32 \quad 173/46 \quad 421/2\]
+
+\paragraph{Coding} Uses the dictionary as a simple lookup table.
+
+\begin{itemize}
+    \item Each word is coded as x/y, where, x gives the page in the dictionary and y gives the number of the word on that page.
+    \item The dictionary has 2,200 pages with less than 256 entries per page: Therefore x requires 12 bits and y requires 8 bits, i.e., 20 bits per word (2.5 bytes per word).
+    \item Using ASCII coding the above string requires 48 bytes, whereas our encoding requires only $20\ (2.5 \times 8)$ bytes: 50\% compression. \cite{utexasMbs}
+\end{itemize}
 
 \paragraph{Applications} GZIP, GIF, POSTSCRIPT.
 
 \subsubsection{Encoding}
 
+Start with an empty dictionary and set $r = m$. (Here $r$ is the part of the message which we have not yet encoded.) Let “$+$” denote concatenation of symbols. Repeat the following steps until $r$ is empty:
+\begin{enumerate}
+    \item Let s be the longest prefix of $r$ which corresponds to a dictionary entry. If there is no such prefix then set $s = \emptyset$. (By prefix we mean a subsequence of $r$ which begins at the first symbol.)
+    \item Suppose that $s$ is in line $l$ of the dictionary, and put $l = 0$ if $s = \emptyset$. Add a new dictionary entry for $s + c$, where $c$ is the next symbol after $s$ in $r$. Output $(l, c)$ to the encoding and delete $s + c$ from $r$.
+\end{enumerate}
+
 \subsubsection{Decoding}
 
-\subsection{Other Types of Compression}
+\begin{enumerate}
+    \item Start with an empty dictionary.
+    \item If the next code pair is $(l, c)$ then output $D(l) + c$ to the message, where $D(l)$ denotes entry $l$ of the dictionary and $D(0) = \emptyset$.
+    \item Also add $D(l) + c$ to the dictionary. Repeat until all code pairs have been processed.
+    \item The dictionary after the decoding process is exactly the same as the dictionary after the encoding process.
+\end{enumerate}
 
 \newpage
 
