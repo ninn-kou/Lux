@@ -2,20 +2,32 @@
 
 \usepackage{amsmath, amsthm, amssymb, amsfonts}
 \usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{float}
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{principle}[theorem]{Principle}
 \newtheorem*{remark}{Remark}
+
+\geometry{
+    textheight=9in,
+    textwidth=5.5in,
+    top=1in,
+    headheight=12pt,
+    headsep=25pt,
+    footskip=30pt
+}
 
 \begin{document}
 
 \title{Information, Codes and Ciphers \\
        \vspace{.625em} Summary Notes \footnote{Based on MATH3411, UNSW 20T3.}}
 \author{Hao Ren}
-\date{\today}
+\date{November 2, 2020}
 \maketitle
 
 \newpage
@@ -61,9 +73,9 @@ Finish this part at first and then add more items into \emph{0.2 Example and Dia
     \item Proposition 3.4 Knuth
 \end{itemize}
 
-\setcounter{section}{2}
-
 \newpage
+
+\setcounter{section}{2}
 
 \section{Compression Coding}
 
@@ -161,13 +173,14 @@ In 1952, David A. Huffman \cite{Huffman_1952} published a new lossless data comp
         \end{itemize}
 \end{itemize}
 
-\paragraph{Applications} JPEG, MP3, MPEG, PKZIP.
-
-\begin{figure*}
+\begin{figure}[htbp]
     \center
-    \includegraphics{img/C3_figure_1}
+    \includegraphics[scale=1.35]{img/C3_figure_1}
     \caption{Huffman Coding Diagram \cite{Huffman_1952}}
-\end{figure*}
+\end{figure}
+
+
+\paragraph{Applications} JPEG, MP3, MPEG, PKZIP.
 
 \begin{theorem}[Huffman Code Theorem]
     \mbox{}\\
@@ -264,11 +277,11 @@ It could be shown as a list step by step:
     \item \textbf{Repeat} this process until the whole message has been encoded.
 \end{itemize}
 
-\begin{figure*}
+\begin{figure}[htbp]
     \center
-    \includegraphics{img/C3_figure_2}
+    \includegraphics[scale=1.35]{img/C3_figure_2}
     \caption{Arithmetic Coding Diagram \cite{Langdon_1984}}
-\end{figure*}
+\end{figure}
 
 \subsubsection{Decoding}
 
@@ -332,6 +345,50 @@ Start with an empty dictionary and set $r = m$. (Here $r$ is the part of the mes
     \item Also add $D(l) + c$ to the dictionary. Repeat until all code pairs have been processed.
     \item The dictionary after the decoding process is exactly the same as the dictionary after the encoding process.
 \end{enumerate}
+
+\newpage
+
+\setcounter{section}{6}
+
+\section{Cryptography (Ciphers)}
+
+\subsection{Introduction}
+
+A \textbf{message} m from among a set $M$ of all possible messages is \textbf{encrypted} (or enciphered or encoded), using one of a set $\{E_{k}\}$ of \textbf{encryption functions} (or cryptographic transformations)
+    \[E_{k}: M \rightarrow C\]
+    into an \textbf{encrypted message} $c \in C$, where $C$ is the set of all possible encrypted messages.
+
+The encryption function $E_{k}$ depends on the particular \textbf{key} $k$ chosen from a set $K$ of all possible keys.
+
+The encrypted message $c$ is then transmitted to the receiver, who decrypts it using the decryption function
+    \[D_{k}: C \rightarrow M\]
+    using the same key $k$. Here Dk is the inverse of $E_{k}$, which means that
+    \[D_{k}(c)=D_{k}(E_{k}(m))=m\]
+We also call $m$ the \textbf{plaintext} and $c$ the \textbf{cipher text}.
+
+\begin{figure}[htbp]
+    \center
+    \includegraphics[width=\textwidth]{img/C7_figure_1}
+    \caption{Cryptography}
+\end{figure}
+
+\begin{principle}[Kerckhoffs's Principle of Cryptography \cite{Kerckhoffs_1883}]
+    \mbox{}\\
+    \begin{enumerate}
+        \item The system must be practically, if not mathematically, indecipherable;
+        \item It should not require secrecy, and it should not be a problem if it falls into enemy hands;
+        \item It must be possible to communicate and remember the key without using written notes, and correspondents must be able to change or modify it at will;
+        \item It must be applicable to telegraph communications;
+        \item It must be portable, and should not require several persons to handle or operate;
+        \item Lastly, given the circumstances in which it is to be used, the system must be easy to use and should not be stressful to use or require its users to know and comply with a long list of rules.
+    \end{enumerate}
+\end{principle}
+
+Claude Shannon reformulated this principle as "one ought to design systems under the assumption that the enemy will immediately gain full familiarity with them", which called
+
+\paragraph{Shannon's Maxim} "The enemy knows the system."
+
+\subsection{Some Classical Cryptosystems}
 
 \newpage
 
