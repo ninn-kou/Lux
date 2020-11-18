@@ -2,6 +2,7 @@
 
 \usepackage{amsmath, amsthm, amssymb, amsfonts}
 \usepackage{graphicx}
+\usepackage{setspace}
 \usepackage{geometry}
 \usepackage{float}
 \usepackage{hyperref}
@@ -13,6 +14,7 @@
 \newtheorem{principle}[theorem]{Principle}
 \newtheorem*{remark}{Remark}
 
+\setstretch{1.2}
 \geometry{
     textheight=9in,
     textwidth=5.5in,
@@ -198,7 +200,6 @@ In 1952, David A. Huffman \cite{Huffman_1952} published a new lossless data comp
 \end{enumerate}
 
 \subsubsection{Radix $r$ Huffman Codes}
-
 For $r$ radix Huffman codes, which $r \geq 3$, we have a better strategy by adding some dummy variables \cite{cmuLec8}.
 
 For a $r$ radix encoding, the procedure is similar except $r$ least probable symbols are merged at each step. Since the total number of symbols may not be enough to allow $r$ variables to be merged at each step, we might need to add some dummy symbols with $0$ probability before constructing the Huffman tree.
@@ -384,11 +385,47 @@ Claude Shannon reformulated this principle as "one ought to design systems under
 
 \subsubsection{Caesar Cipher}
 
-{\tt
-\obeylines\obeyspaces
-    plain   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-    cipher  C D E F G H I J K L M N O P Q R S T U V W X Y Z A B
-}
+Cyclically shift each letter $k$ places forward, e.g. for $k = 3$, which is also used by Roman dictator Gaius Julius Caesar himself.
+
+\begin{center}
+    \texttt{
+         plain  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\\
+        cipher  D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+    }
+\end{center}
+
+If letters are represented by $\mathbb{Z}_{26}$, then we have, for key $k$,
+
+\begin{align*}
+    E_{k}(i) &= i+k \pmod{26} \text{\quad for all } i\\
+    \text{and \quad} D_{k}(j) &= j-k \pmod{26} \text{\quad for all } j.\\
+\end{align*}
+
+There are only 26 keys $k$, so this cipher is easily broken by simply trying all possible keys until it makes sense.
+
+\subsubsection{Monoalphabetic Substitution Cipher}
+
+Replace each letter by another character, such as
+
+\begin{center}
+    \texttt{
+         plain  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\\
+        cipher  P Q S T U V W X Y Z C O D E B R A K I N G F H J L M
+    }
+\end{center}
+
+The keyword \texttt{"CODEBREAKING"} starting at \texttt{K} leads to a more memorable permutation, but the code would be easier to break.
+
+Let $\pi$ be the permutation of $\mathbb{Z}_{26}$ used, then
+
+\begin{align*}
+    E_{k}(i) &= \pi(i) \text{\quad\quad \,for all } i\\
+    \text{and \quad} D_{k}(j) &= \pi^{-1}(j) \text{\quad for all } j.\\
+\end{align*}
+
+If we only use alphabetical characters as key $k$, there are still $26! \approx 4 \times 10^{26}$ possible keys so it is impossible to try them all.
+
+\subsubsection{Transposition Cipher}
 
 \newpage
 
