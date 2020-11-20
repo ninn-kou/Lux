@@ -33,5 +33,6 @@ TODO: Create the `/src` folder and use relative path to find files.
 
 - [X] 50\. [Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md)
 - [X] 75\. [Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md)
+- [X] 1227\. [Airplane Seat Assignment Probability](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1227.%20Airplane%20Seat%20Assignment%20Probability/1227.%20Airplane%20Seat%20Assignment%20Probability.md)
 
 ### Hard
