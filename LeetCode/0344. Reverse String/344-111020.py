@@ -1,7 +1,9 @@
-# Hao Ren
-# 11 October, 2020
-# 344. Reverse String
-# Python: One line solution. Just a joke.
+"""
+Hao Ren
+11 October, 2020
+344. Reverse String
+Python: One line solution. Just a joke.
+"""
 
 class Solution(object):
     def reverseString(self, s):
