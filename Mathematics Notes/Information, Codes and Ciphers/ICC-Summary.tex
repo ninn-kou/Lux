@@ -389,8 +389,8 @@ Cyclically shift each letter $k$ places forward, e.g. for $k = 3$, which is also
 
 \begin{center}
     \texttt{
-         plain  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\\
-        cipher  D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+         plain \quad A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\\
+        cipher \quad D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
     }
 \end{center}
 
@@ -409,8 +409,8 @@ Replace each letter by another character, such as
 
 \begin{center}
     \texttt{
-         plain  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\\
-        cipher  P Q S T U V W X Y Z C O D E B R A K I N G F H J L M
+         plain \quad A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\\
+        cipher \quad P Q S T U V W X Y Z C O D E B R A K I N G F H J L M
     }
 \end{center}
 
@@ -427,9 +427,32 @@ If we only use alphabetical characters as key $k$, there are still $26! \approx 
 
 \subsubsection{Transposition Cipher}
 
+Mix up the order of the letters by dividing them up into blocks of length $l$ and applying a permutation $\pi \in \mathrm{Sym}(l)$ to the letter order. For example, with blocks of length $5$ we could use the permutation
+    \[\pi = 
+    \begin{pmatrix}
+        1 &2 &3 &4 &5\\
+        3 &1 &4 &5 &2
+    \end{pmatrix}
+    \quad
+    \text{map 1st letter} \to \text{3rd letter, 2nd} \to \text{1st, and so on.}
+    \]
+
+The $\text{Sym}(r)$ means the symmetric group. \cite{wiki:sym}
+
+\begin{center}
+    \texttt{
+         plain \quad T H I S I \; S A N E X \; A M P L E\\
+        cipher \quad H I T I S \; A X S N E \;  M E A P L
+    }
+\end{center}
+
+Frequency counts of pairs or triples and common sense allow these ciphers to be easily broken.
+
+\subsubsection{Combined Systems}
+
 \newpage
 
 \bibliographystyle{IEEEtran}
-\bibliography{refBibFile.bib}
+\bibliography{References.bib}
 
 \end{document}
