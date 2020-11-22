@@ -6,6 +6,7 @@ TODO: Create the `/src` folder and use relative path to find files.
 
 ### TODO
 
+- [ ] 2\. Add Two Numbers
 - [ ] 60\. Permutation Sequence
 - [ ] 203\. Remove Linked List Elements
 - [ ] 665\. Non-decreasing Array
