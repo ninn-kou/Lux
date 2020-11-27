@@ -15,14 +15,16 @@ TODO: Re-style this documents.
 
 ### Basic Commands
 
-- `ls`
 - `cd`
 - `cp`
 - `mkdir`
 - `ls`
+  - `ls -a`
 - `ssh`
 - `git`
 - `rm`
+  - `rm -r`
+  - `rm -f`
 - `mv`
 
 ### Remove Specific Files Recursively
