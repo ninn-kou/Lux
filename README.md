@@ -1,5 +1,7 @@
 # Lux: My Computing Science Study Voyage
 
+TODO: "Programming Notes" remake for new contents, and a new structure.
+
 ## Table of Contents
 
 [TOC]
