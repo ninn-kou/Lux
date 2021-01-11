@@ -1,17 +1,21 @@
-# C Programming Notes
+# Programming Fundamentals
+
+This file is the personal `C` notes of Hao Ren which is based on the course COMP1511 in 2019 Term 3, UNSW. Here might be some imprecise descriptions, even some errors. And here are also some unfinished part, we could learn them in further study career.
+
+> An introduction to problem-solving via programming, which aims to have students develop proficiency in using a high-level programming language. Topics: algorithms, program structures (statements, sequence, selection, iteration, functions), data types (numeric, character), data structures (arrays, tuples, pointers, lists), storage structures (memory, addresses), introduction to the analysis of algorithms, testing, code quality, teamwork, and reflective practice. The course includes extensive practical work in labs and programming projects.
 
 ## 1. "Hello World!"
 
-This part is an introduction to get in touch with my notes. I tried to help a first-year beginner student from University of New South Wales to understand some foundational properties in C programming. So there is nothing deeply and many questions remaining to solve in the following study voyage.
+This part is an introduction to get in touch with my notes. I tried to help a first-year beginner student from the University of New South Wales to understand some foundational properties in C programming. So there is nothing profoundly and many questions remaining to solve in the following study voyage.
 
 TODO: Make sure here are some links to the following parts to explain knowledge we skip in Part 1, including
-    - Preprocessor Directives
-    - C Standard Libraries
-    - Inner Functions
-    - Type of Functions
-    - ASCII Code
-    - Basic Data Type
-    - Return Value
+  - Preprocessor Directives
+  - C Standard Libraries
+  - Inner Functions
+  - Type of Functions
+  - ASCII Code
+  - Basic Data Type
+  - Return Value
 
 ### 1.1 Comments
 
@@ -29,18 +33,18 @@ Now, look at our first short executable program, and try to understand it line b
 ```C
 #include <stdio.h>
 int main(void) {
-    printf("Hello World!\n);
-    return 0;
+ printf("Hello World!\n);
+ return 0;
 }
 ```
 
-Here are only four lines. However, it is not an easy job to understand them 100 percent. I will try to put some self-thinking demonstration in the parts below.
+Here are only four lines. However, it is not an easy job to understand them 100 per cent. I will try to put some self-thinking demonstration in the parts below.
 
 ### 1.3 \#include <...>
 
 When you are writing an essay, you may need others' opinions or data to support your viewpoints. So you try to add some quotation into the article; However, if you use them, do not forget to put them on your reference list. In programming, here are some existed tools that had been written for use. For example, if you want to calculate square root for an integer, there is no need to pay attention into the complicated job, you need to do `sqrt(i)`, and then you can obtain the result you want.
 
-However, where does the`sqrt()` function come from? How could your computer recognize this order? They are from another file called `math.h`, which is another C standard library. In conclusion, it just likes the hammer. If you tried to fix a broken table, raise your hammer on the nail, hit it. DO NOT TRY TO MAKE A HAMMER BY YOURSELF!
+However, where does the `sqrt()` function come from? How could your computer recognize this order? They are from another file called `math.h`, which is another C standard library. In conclusion, it just likes the hammer. If you tried to fix a broken table, raise your hammer on the nail, hit it. DO NOT TRY TO MAKE A HAMMER BY YOURSELF!
 
 ### 1.4 Why Do We Need the "stdio.h"?
 
@@ -78,13 +82,13 @@ Another exciting aspect is the definition of your functions. We could understand
 ```C
 // Calculate the distance between two points (row1, col1) and (row2, col2).
 double distance(int row1, int col1, int row2, int col2) {
-    int row_dist = row2 - row1;
-    int col_dist = col2 - col1;
-    return sqrt((row_dist * row_dist) + (col_dist * col_dist));
+ int row_dist = row2 - row1;
+ int col_dist = col2 - col1;
+ return sqrt((row_dist * row_dist) + (col_dist * col_dist));
 }
 ```
 
-This is a part of my work in the first assignment for COMP1511, UNSW 19T3. No matter how many logic calculations I did in this function, it always returns a double type float number which shows the distance between two points. So to make the process of learning more comfortable, we could imagine a "magic double number", which would be changed automatically by the distance of two points.
+This is a part of my work in the first assignment for COMP1511, UNSW 19T3. No matter how many logic calculations I did in this function, it always returns a double type float number which shows the distance between two points. To make the process of learning more comfortable, we could imagine a "magic double number", which would be changed automatically by the distance of two points.
 
 ```C
 double distance = // Magic changing!;
@@ -102,27 +106,27 @@ All in all, the question of the second question is very incredible. Because the 
 
 ```C
 if (expression_1) {
-    // Statements would be executed if the expression_1 is TRUE.
+ // Statements would be executed if the expression_1 is TRUE.
 } else if (expression_2) {
-    // Statements would be executed if the expression_1 is FALSE but the expression_2 is TRUE.
+ // Statements would be executed if the expression_1 is FALSE but the expression_2 is TRUE.
 } else {
-    // Statements would be executed if both the expression_1 and the expression_2 are FALSE.
+ // Statements would be executed if both the expression_1 and the expression_2 are FALSE.
 }
 ```
 
 ### 2.3 Loop Statements
 
-Here are two options if you need a loop: a `while` statement or a `for` statement. However, before I show the syntax of them, we need to know some basic properties of a loop. Most C programming cases, we need a variable "counter" to calculate the number we execute this loop, and by comparing the value of the counter and the condition to control statements. However, if there is another easy way to determine if the loop is required to continue, we definitely do not need the counter. One most important thing is if you used a counter, **DO NOT FORGET to operate it after each loop!** Otherwise, you might fall into the mire, which is a forever-running program. A `while` loop just like this:
+Here are two options if you need a loop: a `while` statement or a `for` statement. However, before I show the syntax of them, we need to know some basic properties of a loop. Most C programming cases, we need a variable "counter" to calculate the number we execute this loop and compare the value of the counter and the condition to control statements. However, if there is another easy way to determine if the loop is required to continue, we do not need the counter. One most important thing is if you used a counter, **DO NOT FORGET to operate it after each loop!** Otherwise, you might fall into the mire, which is a forever-running program. A `while` loop just like this:
 
 ```C
 while (expression) {
-    // Statements would be executed multiple times until the expression become FALSE.
-    // Because of this, do not forget to do some operation to change your comparison.
-    // Such as an `i++;` or an 'i--;` if the expression looks like the type `i < VALUE`.
+ // Statements would be executed multiple times until the expression become FALSE.
+ // Because of this, do not forget to do some operation to change your comparison.
+ // Such as an `i++;` or an 'i--;` if the expression looks like the type `i < VALUE`.
 }
 ```
 
-In addition, when you try to use a `for` loop, be careful with what you wrote. The first part in the pair of brackets `()` is used to initialize the loop. You can declare a variable here, or just put a new value into an existed variable. The second part is a condition, just like what we do in the `while` part. And the last part is used to change the variable, an `i++;' is commonly appeared here. If you want to change several values at once, try to use a comma `,` to separate them.
+In addition, when you try to use a `for` loop, be careful with what you wrote. The first part is the pair of brackets `()` is used to initialize the loop. You can declare a variable here, or just put a new value into an existed variable. The second part is a condition, just like what we do in the `while` part. And the last part is used to change the variable, an `i++;' is commonly appeared here. If you want to change several values at once, try to use a comma `,` to separate them.
 
 ```C
 for (init; expression; increment) {
@@ -186,9 +190,9 @@ The value at 0x7ffeeb706928 is 32767.
 
 ### 4.3 No Dangling Pointer
 
-If the pointed object has been freed or deleted, but no change to the pointer itself, we caused a "dangling pointer". This is a dangerous behavior when computing because even the content changed, the address stayed here. We don't know what would be allocated into this address, and then, if we do anything to the pointer, something might be wrong.
+If the pointed object has been freed or deleted, but no change to the pointer itself, we caused a "dangling pointer". This is a dangerous behaviour when computing because even the content changed, the address stayed here. We don't know what would be allocated into this address, and then, if we do anything to the pointer, something might be wrong.
 
-Here are two tips to avoid this situation. The first one is, never leaves a pointer alone. When we declare it, it is better to link it with an address; but if there is not a suitable object for this pointer, we also need to put it as `NULL`. Otherwise, the pointer would point to an address randomly, and any operation is dangerous for this time.
+Here are two tips to avoid this situation. The first one is, never leaves a pointer alone. When we declare it, it is better to link it with an address; but if there is no suitable object for this pointer, we also need to put it as `NULL`. Otherwise, the pointer would point to an address randomly, and any operation is dangerous for this time.
 
 Secondly, every pointer should be a `NULL` after using. It is beneficial, and it could avoid most memory leak errors by incorrect addresses.
 
@@ -196,13 +200,13 @@ Secondly, every pointer should be a `NULL` after using. It is beneficial, and it
 
 ```C
 int main(int argc, char *argv[]) {
-    return 0;
+ return 0;
 }
 ```
 
 ## 6. Arrays and Strings
 
-Pointers and arrays are **similar** but **not same**. Just refer to *Chapter 4, Expert C Programming* by Peter van der Linden for more details.
+Pointers and arrays are **similar** but **not same**. Refer to *Chapter 4, Expert C Programming* by Peter van der Linden for more details.
 
 ```C
 int array[][];
