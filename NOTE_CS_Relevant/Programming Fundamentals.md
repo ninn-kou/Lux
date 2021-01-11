@@ -4,6 +4,36 @@ This file is the personal `C` notes of Hao Ren which is based on the course COMP
 
 > An introduction to problem-solving via programming, which aims to have students develop proficiency in using a high-level programming language. Topics: algorithms, program structures (statements, sequence, selection, iteration, functions), data types (numeric, character), data structures (arrays, tuples, pointers, lists), storage structures (memory, addresses), introduction to the analysis of algorithms, testing, code quality, teamwork, and reflective practice. The course includes extensive practical work in labs and programming projects.
 
+* [Programming Fundamentals](#programming-fundamentals)
+  * [1\. "Hello World\!"](#1-hello-world)
+    * [1\.1 Comments](#11-comments)
+    * [1\.2 The First C Program](#12-the-first-c-program)
+    * [1\.3 \#include &lt;\.\.\.&gt;](#13-include-)
+    * [1\.4 Why Do We Need the "stdio\.h"?](#14-why-do-we-need-the-stdioh)
+    * [1\.5 What Is the "printf(\.\.\.)"?](#15-what-is-the-printf)
+      * [1\.5\.1 An Inner Function in stdio\.h](#151-an-inner-function-in-stdioh)
+      * [1\.5\.2 What is the "\\n"?](#152-what-is-the-n)
+    * [1\.6 Main Function](#16-main-function)
+      * [1\.6\.1 int main(void)](#161-int-mainvoid)
+      * [1\.6\.2 return 0](#162-return-0)
+  * [2\. C Foundations](#2-c-foundations)
+    * [2\.1 Basic Data Types](#21-basic-data-types)
+    * [2\.2 If Statements](#22-if-statements)
+    * [2\.3 Loop Statements](#23-loop-statements)
+    * [2\.4 Switch, continue And break](#24-switch-continue-and-break)
+    * [2\.5 Struct](#25-struct)
+  * [3\. Functions in C Standard Libraries](#3-functions-in-c-standard-libraries)
+  * [4\. Pointers and Addresses](#4-pointers-and-addresses)
+    * [4\.1 A Pointer Example](#41-a-pointer-example)
+    * [4\.2 Demonstrations](#42-demonstrations)
+    * [4\.3 No Dangling Pointer](#43-no-dangling-pointer)
+  * [5\. Multiple Files and Arguments](#5-multiple-files-and-arguments)
+  * [6\. Arrays and Strings](#6-arrays-and-strings)
+  * [7\. Linked Lists](#7-linked-lists)
+  * [8\. Two ADTs](#8-two-adts)
+    * [8\.1 Stacks](#81-stacks)
+    * [8\.2 Queues](#82-queues)
+
 ## 1. "Hello World!"
 
 This part is an introduction to get in touch with my notes. I tried to help a first-year beginner student from the University of New South Wales to understand some foundational properties in C programming. So there is nothing profoundly and many questions remaining to solve in the following study voyage.
