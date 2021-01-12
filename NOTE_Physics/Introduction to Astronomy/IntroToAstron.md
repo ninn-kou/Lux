@@ -15,7 +15,6 @@
 **Other "Astro" Words**: Astrology<sup>(Not Science)</sup>, Astrophysics, Astrobiology, Astrometry and Astronautics.
 
 **Timeline:**
-
 | Timeline          | Where / Who                   | What                                                                           |
 |-------------------|-------------------------------|--------------------------------------------------------------------------------|
 | Before 3000 BC    | Mesopotamia / Sumerians       | developed **the first form of writing** (cuneiform);                           |
@@ -58,7 +57,7 @@
     <img src="./img/1-1-4.gif" alt="The Elliptical Orbit Animation">
 
 **[4] The Phases of Venus:**
-    <img src="./img/1-1-5.png" alt="The Phases of Venus" width="640">
+    <img src="./img/1-1-5.png" alt="The Phases of Venus" width="480">
 
 **[5] The Universal Force of Gravitation:**
 
@@ -98,6 +97,111 @@ So in the 2000 years or so since the time of the ancient Greeks, we have gone fr
 ### 1.2 Introduction to Astrobiology
 
 > Why life might be common, or might be rare. The science of astrobiology. Where and how can we search for life in the universe?
+
+**Astrobiology** is the science of life in the universe.
+
+**Life Might be Common** because of the vastness of the universe. The universe contains many billions of galaxies, and each galaxies contains many billions of stars.
+
+**Life Might be Rare of Unique** because even the simplest living cell is extremely complex. According to one scientist it would be *"like a tornado blowing through a junkyard and assembling a Boeing 747"*.
+
+**Number of planets with life $=$ Number of habitable planets $\times$ Probability of life's origin**
+
+- For the number of habitable planets, we need to understand planets:
+  - we need to understand how they formed,
+  - whether they are likely to be habitable,
+  - and how they evolve.
+- This involves the sciences of:
+  - astronomy,
+  - planetary science,
+  - and geology.
+- But in order to get the probability of life's origin we need to understand life:
+  - we need to understand how life works,
+  - how it originates,
+  - and how it evolves.
+- So there we're looking at another set of sciences:
+  - biology,
+  - biochemistry,
+  - and palaeontology.
+
+**Life of Earth:**
+| Time              | Life of Earth                                                |
+|-------------------|--------------------------------------------------------------|
+| 3.5 billion years | in the form of microbial life – bacteria and similar things. |
+| 500 million years | but complex life – macro organisms like animals and plants.  |
+| 50,000 years      | modern humans.                                               |
+| over 50 years     | technology to travel in space or to send signals in space.   |
+
+**Little Green Bacteria:** If we can find just one example of life on another planet, say Mars, and show that it formed independently of life on Earth, even if it's only microbes, this proves that life forms easily, given the right conditions.
+
+**Astrobiology and Astrobiologists:**
+  - Astrobiology inherently involves an interdisciplinary approach.
+  - One study is to <u>look at possible locations for life in our Solar system</u>, and these are actually growing as we learn more about the Solar system.
+  - Astrobiologists are involved in the <u>search for planets around other stars</u>, and the study of these planets. **We went past 3499 such planets known in 2017, and this number is growing all the time.**
+  - Astrobiology also involves the <u>study of the early history of life on Earth</u>.
+  - And astrobiology also includes the <u>study of life in extreme conditions</u>.
+
+**Follow the Water:**
+  - Water is an abundant molecule in the Universe.
+  - Liquid water is a great solvent for chemical reactions.
+  - It is easier to identify life that is similar to our own.
+
+**Water and Life:**
+Everywhere we look on Earth, liquid water seems to be the only fundamental requirement for life. Living cells themselves are essentially drops of water contained in a cell membrane, and all of the chemistry fundamental to life, occurs in solution in water. Life can be found in extreme conditions (called extremophiles), from superheated water near hydrothermal vents, to near-freezing water in the Antarctic, but the one fundamental requirement is that water has to remain liquid.
+
+- **Mars:**
+  - <img src="./img/1-2-1.jpg" alt="Mars" width="240">
+  - Evidence of water comes from features on the surface of the planet which look very much like dry river beds even in the distant past.
+  - **NASA's Mars Phoenix Lander:** The Mars Phoenix spacecraft landed in the Mars polar regions in 2007, and it found clear evidence for ice under the surface and test the material was water ice.
+  - **Mars Rovers:** We believe that a long time ago, 3.5 billions years or more, Mars did have water flowing on the surface, and at that time would have been a promising location for life to exist.
+  - **Mars Spirit and Opportunity:** They arrived on the surface in 2004, and Opportunity is operated until 2018 despite being only designed for a mission a few months long.
+  - **Mars Curiosity:** The Mars Science Laboratory (Curiosity) which is the largest rover to date arrived on the surface, delivered by sky crane, in 2011.
+  - **ExoMars:** In planning by the European Space Agency which will also be a rover that will be sent to Mars and will include a drill that can collect samples from below the surface of the planet, the place where we think life is more likely to be preserved.
+- **Europa:**
+  - Europa is Jupiter's moon that the existence of the ice surface with an ocean beneath was being trusted by astrobiologists.
+  - The ocean beneath perhaps under several kilometres of ice – we don't quite know what the thickness is.
+  - The relatively smooth cracked surface is evidence that Europa doesn't seem to have many craters like many of the objects in the outer-Solar system have, which means its body is relatively young.
+  - What we think is happening is that the surface cracks and the ocean comes up from beneath the surface and refreezes making a fresh surface, and that can only occur if there is ocean underneath the ice.
+  - Geysers erupting from the surface have been confirmed to be water, which adds further weight.
+  - So what might be possible, eventually, is that we might be able to send probes that would melt their way through the ice, descend into the ocean, and explore the oceans underneath the ice. But that's probably some way into the future.
+  - Currently planned missions aim to confirm the existence of the ocean and determine the thickness of the ice.
+- **Extrasolar Planets and the Kepler Satellite:**
+  - Extrasolar planets (or exoplanets) are planets that orbit other stars. **In 2014 we passed 1500 found exoplanets.**
+  - Kepler satellite was launched to find planets around other stars that could be habitable planets.
+  - Kepler observed simultaneously 100,000 stars and looked for a dip in the light as a planet passed in front.
+  - Eg: Kepler-452b
+
+**The Habitable Zone:**
+"Habitable" planets are those that have suitable conditions on their surface for liquid water to exist. We call this region around the star the "habitable zone". In our Solar system, currently, Mars is too cold and Venus is too hot. The habitable zone is sometimes also referred to as "the Goldilocks zone" after the fairytale of Goldilocks and the three bears. **The Solar system's habitable zone encompasses only Earth. Venus is too hot and Mars too cold for liquid water.**
+
+**The Direct Detection of Earth-Like Planets:**
+Kepler's method is an *indirect way of detecting planets*, and the next step is to use either giant ground based telescopes or space based instruments to look directly at other star systems and try to look in particular for biosignatures in the atmospheres of planets. Biosignatures such as oxygen are indicators of life. **Oxygen is only present in the Earth's atmosphere because its made by living organisms. Plants and other photosynthetic bacteria produce oxygen.**
+
+| Detection Systems                           | Type                   | What                                                     |
+|---------------------------------------------|------------------------|----------------------------------------------------------|
+| OverWhelmingly Large Telescope (OWL)        | Ground-based Telescope | was estimated that an aperture of 100 m would be needed; |
+|                                             |                        | ESO decided that such a telescope was beyond what was currently feasible and are proceeding with their E-ELT telescope with smaller 39 m aperture. |
+| European Extremely Large Telescopes (E-ELT) | Ground-based Telescope | is proceeding currently with an aperture of 39 m.        |
+| Very Large Telescope (VLT)                  | Ground-based Telescope | was being operating now by ESO. (In using.)              |
+| NASA - Terrestrial Planet Finder (TPF)      | Instruments in Space   | There were two different variants of this using two different techniques. But both have the aim of detaching terrestrial like planets and searching them for biosignatures that would indicate the presence of life. |
+|                                             |                        | these missions also have proved too difficult and expensive, and are no longer being actively developed. |
+|                                             | TPF-Coronograph        | TPF-C Large (8$\times$3.5 m) using a coronograph;        |
+|                                             |                        | and the idea of the coronograph is to get rid of the star and reveal the light of the planet, which might be a billion times or more fainter than the star. |
+|                                             | TPF-Interferometer     | multiple 3 to 4 m telescopes flying in formation;        |
+|                                             |                        | combining light of planets together using a technique called interferometry, which again has the goal of getting rid of the light of the star to reveal the planet. |
+
+
+With either of the TPF or OWL systems, the aim would be to both detect the planet, and also  search for indications of the presence of life. In all 3 planets we detect the presence of a feature due to carbon dioxide. Carbon dioxide shows that the planets have atmospheres with carbon dioxide in them, but in the case of the Earth, and only the Earth, we see some additional features. We see a feature due to water vapour, which shows the presence of water on the Earth, and for the Earth we see a feature due to the absorption of ozone. Ozone is only there because there is oxygen in the atmosphere, oxygen gets converted into ozone. **And therefore ozone is an indicator of a planet with life.** So that's how this technique can be used to detect the possible presence of life on a distant extrasolar planet.
+
+**Search for Extraterrestrial Intelligence (SETI):** by looking for signals sent by intelligent civilizations elsewhere in the galaxy to search for life.
+
+| SETI Projects                    | What                                                                           |
+|----------------------------------|--------------------------------------------------------------------------------|
+| Project Phoenix                  | involved searching 800 nearby stars using 3 different radio telescopes;        |
+|                                  | and the result is that no extraterrestrial signals were detected.              |
+| Parkes Radio Telescope           | located in Australia which was used as a part of *Project Phoenix*.            |
+| Allen Telescope Array            | has very high sensitivity by using a large number of smaller dishes rather than a single big dish. |
+| The Square Kilometre Array (SKA) | is a huge radio telescope being developed as part of an international project. |
+| Breakthrough Listen              | has just been start.                                                           |
 
 ### 1.3 Key Concepts
 
