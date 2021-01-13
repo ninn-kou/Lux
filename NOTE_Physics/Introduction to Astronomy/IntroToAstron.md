@@ -88,7 +88,7 @@ Not only was the Earth no longer at the centre of the universe, but even the Sun
 Our own Milky Way galaxy is part of a small group of galaxies called the Local Group, and this is part of a much larger group of galaxies called the local super cluster.
 
 **Anglo-Australian Telescope (AAT)** used an instrument called the **Two-degree Field (2dF)**. 2dF was able to measure the spectra of 400 galaxies at one time. From the spectrum it is possible to determine the distance to each galaxy, and so plot these galaxies on a 3D map.
-    <img src="./img/1-1-8.jpg" alt="2dF" width="640">
+    <img src="./img/1-1-8.jpg" alt="2dF" width="480">
 
 **Hubble Space Telescope:** More distant galaxies can be seen in deep exposures with it.
 
@@ -206,6 +206,80 @@ With either of the TPF or OWL systems, the aim would be to both detect the plane
 ### 1.3 Key Concepts
 
 > Forces and Energy, Gravity, Orbits and Kepler’s laws. Atoms and nuclei. Light and other electromagnetic waves.
+
+*Forget the lecture notes. This notes is much better than it in physics.*
+
+**Newton's Laws of Motion:**
+  - **Newton's first law:** The first law states that as object at rest will stay at rest, and an object in motion will stay in motion unless acted on by a net external force. $$\mathbf{\sum{F}} = 0 \quad\leftrightarrow\quad \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = 0$$
+  - **Newton's second law:** The second law states that the rate of change of momentum of a body over time is directly proportional to the force applied, and occurs in the same direction as the applied force. $$\mathbf{F} = \dfrac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}$$ For objects and systems with constant mass, it can be re-stated in terms of an object's acceleration. $$\mathbf{F} = \dfrac{\mathrm{d}(m\mathbf{v})}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = m\mathbf{a},$$ where $\mathbf{F}$ is the net force applied, m is the mass of the body, and $\mathbf{a}$ is the body's acceleration. Thus, the net force applied to a body produces a proportional acceleration.
+  **Variable-mass systems** is the motion for a body whose mass $m$ varies with time, the formula is $$\mathbf{F} + \mathbf{u}\dfrac{\mathrm{d}m}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t},$$ where $\mathbf{u}$ is the **exhaust velocity** of the escaping or incoming mass relative to the body. E.g. a rocket burning fuel and ejecting spent gases (*The Tsiolkovsky Rocket Equation*).
+  - **Newton's third law:** The third law states that all forces between two objects exist in equal magnitude and opposite direction, which could be state as $$\mathbf{F}_{A}= -\mathbf{F}_{B}.$$
+
+**The Universal Law of Gravitation:**
+Gravity is a universal force that acts between any pair of objects in the universe which depends on the mass of the two objects, and on their distance apart – varying as the inverse square of the distance. $$\mathbf{F} = G\dfrac{m_{1}m_{2}}{r^{2}},$$ where $\mathbf{F}$ is the gravitational force acting between two objects, $m_{1}$ and $m_{2}$ are the masses of the objects, $r$ is the distance between the centers of their masses, and $G = 6.67 \times 10^{-11} \mathrm{N \cdot m^{2}/kg^{2}}$ is the gravitational constant. The first implicit measurement with an accuracy within about 1% is attributed to Henry Cavendish in a 1798 experiment.
+
+**Formulas of the Circular Motion:**
+|                                    | Formulas                                                                              |
+|------------------------------------|---------------------------------------------------------------------------------------|
+| Angular Velocity                   | $\mathbf{\omega} = \dfrac{2\pi}{T} = 2 \pi f = \dfrac{\mathrm{d}\theta}{\mathrm{d}t}$ |
+| Linear Velocity                    | $\mathbf{v} = \dfrac{2 \pi r}{T} = \mathbf{\omega} r$                                 |
+| Swept Angle                        | $\theta = 2 \pi \dfrac{t}{T} = \mathbf{\omega} t$                                     |
+| Angular Acceleration               | $\mathbf{\alpha} = \dfrac{\mathrm{d}\mathbf{\omega}}{\mathrm{d}t}$                    |
+| Acceleration by Direction Changing | $\mathbf{a_{c}} = \dfrac{\mathbf{v}^{2}}{r} = \mathbf{\omega} ^{2}r$                  |
+| Centrifugal Force                  | $\mathbf{F_{c}} = \dot{p} \overset{{\dot{m}}=0}{=} m \mathbf{a_{c}} = \dfrac{m \mathbf{v}^{2}}{r}$ |
+| Vector Cross Product Velocity      | $\mathbf{v} = \mathbf{\omega} \times \mathbf{r}$                             |
+| Vector Cross Product Acceleration  | $\mathbf{a} = \mathbf{\omega} \times \mathbf{v}$                             |
+
+**Orbits:**
+There are a few common ways of understanding orbits:
+- A force, such as gravity, pulls an object into a curved path as it attempts to fly off in a straight line.
+- As the object is pulled toward the massive body, it falls toward that body. However, if it has enough tangential velocity it will not fall into the body but will instead continue to follow the curved trajectory caused by that body indefinitely. The object is then said to be orbiting the body.
+- First Cosmic Velocity: known as the orbital velocity, will bring a rocket or other projectile into orbit around the Earth. The gravity of the earth on an object is exactly equal to the centripetal force of the object in motion, so we can state that $$G\dfrac{Mm}{R^{2}} = m\dfrac{\mathbf{v}_{1}^{2}}{R^{2}} \quad\leftrightarrow\quad \mathbf{v}_{1} = \sqrt{\dfrac{GM}{R}} = 7.9 \mathrm{km/s},$$ for the earth.
+- Second Cosmic Velocity: known as the escape velocity. The potential energy on the surface of earth is $-G\dfrac{Mm}{R}$; and the velocity when the object escape from the earth is zero. So the mechanical energy, which is the sum of kinetic energy and potential energy, should also be zero. The formula is $$\dfrac{1}{2} m \mathbf{v}_{2}^{2} - \dfrac{GMm}{R} = 0 \quad\leftrightarrow\quad \mathbf{v}_{2} = \sqrt{\dfrac{2GM}{R}} = \sqrt{2gR} = 11.2 \mathrm{km/s}$$ for the earth.
+- Third Cosmic Velocity: known as the minimum velocity to escape from the solar system. When the earth revolves around the sun, all objects on the earth have an initial velocity which is $29.8 \mathrm{km/s}$. So the total energy that object needed is $$\frac{1}{2}m \mathbf{v}_{3}^{2} = \frac{1}{2}m \mathbf{v}_{2}^{2} +\frac{1}{2}m \Delta \mathbf{v}^{2} \quad\leftrightarrow\quad \mathbf{v}_{3} = \sqrt{11.2^{2} + 12.3^{2}} = 16.7 \mathrm{km/s}.$$
+
+**Kepler's Laws of Planetary Motion:**
+  - **First law:** The orbit of every planet is an ellipse with the Sun at one of the two foci.
+  - **Second law:** A line joining a planet and the Sun sweeps out equal areas during equal intervals of time. <img src="./img/1-3-1.gif" alt="Kepler's Second Law">
+  - **Third law:** The ratio of the square of an object's orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary. By expressing the angular velocity in terms of the orbital period we find $$mr(\dfrac{2 \pi}{T})^{2} = G\dfrac{mM}{r^{2}} \quad\rightarrow\quad T^{2} = \dfrac{4 \pi ^{2}}{GM}r^{3} \quad\rightarrow\quad T^{2}\propto r^{3}.$$ A more detailed derivation can be done with general elliptical orbits, instead of circles, as well as orbiting the center of mass, instead of just the large mass. This results in replacing a circular radius, $r$, with the semi-major axis, $a$, of the elliptical relative motion of one mass relative to the other, as well as replacing the large mass $M$ with $M + m$. The full corresponding formula is $$\dfrac{a^{3}}{T^{2}} = \dfrac{G(M+m)}{4 \pi ^{2}} \approx \dfrac{GM}{4 \pi ^{2}} \approx 7.496 \times 10^{-6} (\dfrac{{\text{AU}}^{3}}{{\text{days}}^{2}}) \text{ is constant.}$$
+
+**Energy:** defined as the “capacity to do work”. The formula is $$W = \mathbf{F} \times \mathbf{x},$$ which $W$ is the work, $F$ is the force applied on the object, and $x$ is the displacement. In addition, energy comes in many different types, such as Mechanical Energy, Thermal Energy, Chemical Energy, Electromagnetic Energy and Nuclear Energy……
+
+**Momentum ($\mathbf{p}$) and Impulse ($\mathbf{I}$):** $$\mathbf{p} = m \mathbf{v} = \mathbf{I} = \int \mathbf{F} \mathrm{d}t.$$
+
+**Conservation of Energy:** Energy cannot be created or destroyed. It can only be converted from one form to another.
+
+**Conservation of Momentum:** In a closed system (one that does not exchange any matter with its surroundings and is not acted on by external forces) the total momentum is constant. $$m_{1} \mathbf{u}_{1} + m_{2} \mathbf{u}_{2} = m_{1} \mathbf{v}_{1} + m_{2} \mathbf{v}_{2}.$$
+
+The mechanical energy of a system is the sum of the **potential energy** (which is measured by the position of the parts of the system) and the **kinetic energy** (which is also called the energy of motion): $$E_{\mathrm{mechanical}} = E_{\mathrm{potential}} + E_{\mathrm{kinetic}},$$ it remains constant in time as long as the system is free of friction and other non-conservative forces.
+
+Atoms:
+  - Atomic Nucleus (+):
+    - Protons (+) - positively charged particles.
+    - Neutrons - electrically neutral particles.
+  - Electrons (-) - very light negatively charged particles.
+<img src="./img/1-3-2.jpg" alt="Nuclear Notation" width="640">
+
+**Isotopes:** Atoms that have the same number of protons in the nucleus but a different number of neutrons.
+
+Molecules: Atoms combine together to form molecules.
+
+**Different Phases of Matters:**
+<img src="./img/1-3-3.jpg" alt="Phases of Water" width="480">
+
+**Ideal Gas Law:** $$PV=nRT$$ where $P$, $V$ and $T$ are the pressure, volume and temperature; $n$ is the amount of substance; and $R$ is the ideal gas constant.
+
+**Electromagnetic Radiation:** $$f = \frac{1}{T} = \frac{\mathbf{v}}{\lambda},$$ where $f$ is the frequency, $T$ is the period, $\mathbf{v}$ is the velocity of wave and $\lambda$ is the wavelength.
+<img src="./img/1-3-4.png" alt="Electromagnetic Radiation" width="640">
+
+**The amplitude** of a periodic variable is a measure of its change in a single period (such as time or spatial period). There are various definitions of amplitude, which are all functions of the magnitude of the differences between the variable's extreme values.
+
+Standing Wave is a wave which oscillates in time but whose peak amplitude profile does not move in space. The peak amplitude of the wave oscillations at any point in space is constant with time, and the oscillations at different points throughout the wave are in phase. The locations at which the absolute value of the amplitude is minimum are called nodes, and the locations where the absolute value of the amplitude is maximum are called antinodes.
+
+One of the main sources of the electromagnetic radiation is so called thermal radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.
+
+**Wien Displacement Law**
+This law tell us how the maximum of thermal radiation at given temperature depends on its wavelength. All bodies give out thermal radiation across the whole electromagnetic spectrum, but the actual intensity in different parts of this spectrum is determined by a temperature only. This distribution is called a Planck blackbody function, which you can see below. Its shape changes when temperature of the body changes. According to Wien Displacement Law the maximum wavelength of thermal radiation is inversely proportional to the temperature of the object. The curve has maximum at shorter wavelengths and the intensity of this maximum gets higher when the temperature goes up; and the maximum is at longer wavelengths and its intensity gets lower when the temperature goes down.
 
 ### 1.4 Techniques of Astronomy
 
