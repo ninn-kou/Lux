@@ -64,7 +64,7 @@
 **Measuring the Distance between Stars:** Stellar parallax.
     <img src="./img/1-1-6.gif" alt="Stellar parallax">
 
-Not only was the Earth no longer at the centre of the universe, but even the Sun itself was just one of billions of stars making up our Milky Way galaxy. In fact it is now thought there are several hundred billions of stars in the Milky Way. With modern telescopes we can see galaxies out to distances of billions of light years, which means there are many billions of galaxies within our universe.
+*Not only was the Earth no longer at the centre of the universe, but even the Sun itself was just one of billions of stars making up our Milky Way galaxy. In fact it is now thought there are several hundred billions of stars in the Milky Way. With modern telescopes we can see galaxies out to distances of billions of light years, which means there are many billions of galaxies within our universe.*
 
 **Astronomical Unit (AU):** The distance between the Sun and the Earth about $150,000,000$ km ($1.5 \times 10^{11}$ m).
 
@@ -85,14 +85,14 @@ Not only was the Earth no longer at the centre of the universe, but even the Sun
   - *Clusters of Galaxies* where galaxies are clumped together in groups nonrandomly.
   - *Super Clusters* where the clusters of galaxies are grouped together.
 
-Our own Milky Way galaxy is part of a small group of galaxies called the Local Group, and this is part of a much larger group of galaxies called the local super cluster.
+*Our own Milky Way galaxy is part of a small group of galaxies called the Local Group, and this is part of a much larger group of galaxies called the local super cluster.*
 
 **Anglo-Australian Telescope (AAT)** used an instrument called the **Two-degree Field (2dF)**. 2dF was able to measure the spectra of 400 galaxies at one time. From the spectrum it is possible to determine the distance to each galaxy, and so plot these galaxies on a 3D map.
     <img src="./img/1-1-8.jpg" alt="2dF" width="480">
 
 **Hubble Space Telescope:** More distant galaxies can be seen in deep exposures with it.
 
-So in the 2000 years or so since the time of the ancient Greeks, we have gone from a universe that had the Earth at its centre, to a universe in which the Earth is just one planet orbiting a fairly ordinary star, which itself is just one of the hundreds of billions of stars in our galaxy, with our galaxy being just one of hundreds of billions within the universe as a whole.
+*So in the 2000 years or so since the time of the ancient Greeks, we have gone from a universe that had the Earth at its centre, to a universe in which the Earth is just one planet orbiting a fairly ordinary star, which itself is just one of the hundreds of billions of stars in our galaxy, with our galaxy being just one of hundreds of billions within the universe as a whole.*
 
 ### 1.2 Introduction to Astrobiology
 
@@ -176,6 +176,7 @@ Everywhere we look on Earth, liquid water seems to be the only fundamental requi
 **The Direct Detection of Earth-Like Planets:**
 Kepler's method is an *indirect way of detecting planets*, and the next step is to use either giant ground based telescopes or space based instruments to look directly at other star systems and try to look in particular for biosignatures in the atmospheres of planets. Biosignatures such as oxygen are indicators of life. **Oxygen is only present in the Earth's atmosphere because its made by living organisms. Plants and other photosynthetic bacteria produce oxygen.**
 
+**Telescopes:**
 | Detection Systems                           | Type                   | What                                                     |
 |---------------------------------------------|------------------------|----------------------------------------------------------|
 | OverWhelmingly Large Telescope (OWL)        | Ground-based Telescope | was estimated that an aperture of 100 m would be needed; |
@@ -253,7 +254,7 @@ There are a few common ways of understanding orbits:
 
 The mechanical energy of a system is the sum of the **potential energy** (which is measured by the position of the parts of the system) and the **kinetic energy** (which is also called the energy of motion): $$E_{\mathrm{mechanical}} = E_{\mathrm{potential}} + E_{\mathrm{kinetic}},$$ it remains constant in time as long as the system is free of friction and other non-conservative forces.
 
-Atoms:
+**Atoms:**
   - Atomic Nucleus (+):
     - Protons (+) - positively charged particles.
     - Neutrons - electrically neutral particles.
@@ -262,7 +263,7 @@ Atoms:
 
 **Isotopes:** Atoms that have the same number of protons in the nucleus but a different number of neutrons.
 
-Molecules: Atoms combine together to form molecules.
+**Molecules:** Atoms combine together to form molecules.
 
 **Different Phases of Matters:**
 <img src="./img/1-3-3.jpg" alt="Phases of Water" width="480">
@@ -274,9 +275,9 @@ Molecules: Atoms combine together to form molecules.
 
 **The amplitude** of a periodic variable is a measure of its change in a single period (such as time or spatial period). There are various definitions of amplitude, which are all functions of the magnitude of the differences between the variable's extreme values.
 
-Standing Wave is a wave which oscillates in time but whose peak amplitude profile does not move in space. The peak amplitude of the wave oscillations at any point in space is constant with time, and the oscillations at different points throughout the wave are in phase. The locations at which the absolute value of the amplitude is minimum are called nodes, and the locations where the absolute value of the amplitude is maximum are called antinodes.
+**Standing Wave** is a wave which oscillates in time but whose peak amplitude profile does not move in space. The peak amplitude of the wave oscillations at any point in space is constant with time, and the oscillations at different points throughout the wave are in phase. The locations at which the absolute value of the amplitude is minimum are called nodes, and the locations where the absolute value of the amplitude is maximum are called antinodes.
 
-One of the main sources of the electromagnetic radiation is so called thermal radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.
+**Thermal radiation** is one of the main sources of the electromagnetic radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.*
 
 **Wien Displacement Law**
 This law tell us how the maximum of thermal radiation at given temperature depends on its wavelength. All bodies give out thermal radiation across the whole electromagnetic spectrum, but the actual intensity in different parts of this spectrum is determined by a temperature only. This distribution is called a Planck blackbody function, which you can see below. Its shape changes when temperature of the body changes. According to Wien Displacement Law the maximum wavelength of thermal radiation is inversely proportional to the temperature of the object. The curve has maximum at shorter wavelengths and the intensity of this maximum gets higher when the temperature goes up; and the maximum is at longer wavelengths and its intensity gets lower when the temperature goes down.
