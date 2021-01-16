@@ -78,12 +78,12 @@
 **Scale of the Milky Way Galaxy:** The Sun is about  25,000 light years from the centre of the galaxy. The Milky Way galaxy is a disk about 100,000 light years across, and it contains about 200 billion stars.
 
 **Scale of Galaxies and Clusters:** There are dwarf galaxies containing only 100 million stars, and giant galaxies containing as many as 1 trillion stars.
-  - *Elliptical Galaxies*, which are just an elliptically shaped cloud of stars.
-  - *Spiral Galaxies* (our Milky Way galaxy is one), and these have a pattern of spiral arms. The spiral arms are the regions where new stars are forming.
-  - *Barred Spirals* where the spiral arms appear to originate from a bar spanning across the centre.
-  - *Irregular Galaxies* that have no particular shape. The **Large Magellanic Cloud** in one of these.
-  - *Clusters of Galaxies* where galaxies are clumped together in groups nonrandomly.
-  - *Super Clusters* where the clusters of galaxies are grouped together.
+- *Elliptical Galaxies*, which are just an elliptically shaped cloud of stars.
+- *Spiral Galaxies* (our Milky Way galaxy is one), and these have a pattern of spiral arms. The spiral arms are the regions where new stars are forming.
+- *Barred Spirals* where the spiral arms appear to originate from a bar spanning across the centre.
+- *Irregular Galaxies* that have no particular shape. The **Large Magellanic Cloud** in one of these.
+- *Clusters of Galaxies* where galaxies are clumped together in groups nonrandomly.
+- *Super Clusters* where the clusters of galaxies are grouped together.
 
 *Our own Milky Way galaxy is part of a small group of galaxies called the Local Group, and this is part of a much larger group of galaxies called the local super cluster.*
 
@@ -107,21 +107,21 @@
 **Number of planets with life $=$ Number of habitable planets $\times$ Probability of life's origin**
 
 - For the number of habitable planets, we need to understand planets:
-  - we need to understand how they formed,
-  - whether they are likely to be habitable,
-  - and how they evolve.
+    - we need to understand how they formed,
+    - whether they are likely to be habitable,
+    - and how they evolve.
 - This involves the sciences of:
-  - astronomy,
-  - planetary science,
-  - and geology.
+    - astronomy,
+    - planetary science,
+    - and geology.
 - But in order to get the probability of life's origin we need to understand life:
-  - we need to understand how life works,
-  - how it originates,
-  - and how it evolves.
+    - we need to understand how life works,
+    - how it originates,
+    - and how it evolves.
 - So there we're looking at another set of sciences:
-  - biology,
-  - biochemistry,
-  - and palaeontology.
+    - biology,
+    - biochemistry,
+    - and palaeontology.
 
 **Life of Earth:**
 | Time              | Life of Earth                                                |
@@ -134,41 +134,41 @@
 **Little Green Bacteria:** If we can find just one example of life on another planet, say Mars, and show that it formed independently of life on Earth, even if it's only microbes, this proves that life forms easily, given the right conditions.
 
 **Astrobiology and Astrobiologists:**
-  - Astrobiology inherently involves an interdisciplinary approach.
-  - One study is to <u>look at possible locations for life in our Solar system</u>, and these are actually growing as we learn more about the Solar system.
-  - Astrobiologists are involved in the <u>search for planets around other stars</u>, and the study of these planets. **We went past 3499 such planets known in 2017, and this number is growing all the time.**
-  - Astrobiology also involves the <u>study of the early history of life on Earth</u>.
-  - And astrobiology also includes the <u>study of life in extreme conditions</u>.
+- Astrobiology inherently involves an interdisciplinary approach.
+- One study is to <u>look at possible locations for life in our Solar system</u>, and these are actually growing as we learn more about the Solar system.
+- Astrobiologists are involved in the <u>search for planets around other stars</u>, and the study of these planets. **We went past 3499 such planets known in 2017, and this number is growing all the time.**
+- Astrobiology also involves the <u>study of the early history of life on Earth</u>.
+- And astrobiology also includes the <u>study of life in extreme conditions</u>.
 
 **Follow the Water:**
-  - Water is an abundant molecule in the Universe.
-  - Liquid water is a great solvent for chemical reactions.
-  - It is easier to identify life that is similar to our own.
+- Water is an abundant molecule in the Universe.
+- Liquid water is a great solvent for chemical reactions.
+- It is easier to identify life that is similar to our own.
 
 **Water and Life:**
 Everywhere we look on Earth, liquid water seems to be the only fundamental requirement for life. Living cells themselves are essentially drops of water contained in a cell membrane, and all of the chemistry fundamental to life, occurs in solution in water. Life can be found in extreme conditions (called extremophiles), from superheated water near hydrothermal vents, to near-freezing water in the Antarctic, but the one fundamental requirement is that water has to remain liquid.
 
 - **Mars:**
-  - <img src="./img/1-2-1.jpg" alt="Mars" width="240">
-  - Evidence of water comes from features on the surface of the planet which look very much like dry river beds even in the distant past.
-  - **NASA's Mars Phoenix Lander:** The Mars Phoenix spacecraft landed in the Mars polar regions in 2007, and it found clear evidence for ice under the surface and test the material was water ice.
-  - **Mars Rovers:** We believe that a long time ago, 3.5 billions years or more, Mars did have water flowing on the surface, and at that time would have been a promising location for life to exist.
-  - **Mars Spirit and Opportunity:** They arrived on the surface in 2004, and Opportunity is operated until 2018 despite being only designed for a mission a few months long.
-  - **Mars Curiosity:** The Mars Science Laboratory (Curiosity) which is the largest rover to date arrived on the surface, delivered by sky crane, in 2011.
-  - **ExoMars:** In planning by the European Space Agency which will also be a rover that will be sent to Mars and will include a drill that can collect samples from below the surface of the planet, the place where we think life is more likely to be preserved.
+    - <img src="./img/1-2-1.jpg" alt="Mars" width="240">
+    - Evidence of water comes from features on the surface of the planet which look very much like dry river beds even in the distant past.
+    - **NASA's Mars Phoenix Lander:** The Mars Phoenix spacecraft landed in the Mars polar regions in 2007, and it found clear evidence for ice under the surface and test the material was water ice.
+    - **Mars Rovers:** We believe that a long time ago, 3.5 billions years or more, Mars did have water flowing on the surface, and at that time would have been a promising location for life to exist.
+    - **Mars Spirit and Opportunity:** They arrived on the surface in 2004, and Opportunity is operated until 2018 despite being only designed for a mission a few months long.
+    - **Mars Curiosity:** The Mars Science Laboratory (Curiosity) which is the largest rover to date arrived on the surface, delivered by sky crane, in 2011.
+    - **ExoMars:** In planning by the European Space Agency which will also be a rover that will be sent to Mars and will include a drill that can collect samples from below the surface of the planet, the place where we think life is more likely to be preserved.
 - **Europa:**
-  - Europa is Jupiter's moon that the existence of the ice surface with an ocean beneath was being trusted by astrobiologists.
-  - The ocean beneath perhaps under several kilometres of ice – we don't quite know what the thickness is.
-  - The relatively smooth cracked surface is evidence that Europa doesn't seem to have many craters like many of the objects in the outer-Solar system have, which means its body is relatively young.
-  - What we think is happening is that the surface cracks and the ocean comes up from beneath the surface and refreezes making a fresh surface, and that can only occur if there is ocean underneath the ice.
-  - Geysers erupting from the surface have been confirmed to be water, which adds further weight.
-  - So what might be possible, eventually, is that we might be able to send probes that would melt their way through the ice, descend into the ocean, and explore the oceans underneath the ice. But that's probably some way into the future.
-  - Currently planned missions aim to confirm the existence of the ocean and determine the thickness of the ice.
+    - Europa is Jupiter's moon that the existence of the ice surface with an ocean beneath was being trusted by astrobiologists.
+    - The ocean beneath perhaps under several kilometres of ice – we don't quite know what the thickness is.
+    - The relatively smooth cracked surface is evidence that Europa doesn't seem to have many craters like many of the objects in the outer-Solar system have, which means its body is relatively young.
+    - What we think is happening is that the surface cracks and the ocean comes up from beneath the surface and refreezes making a fresh surface, and that can only occur if there is ocean underneath the ice.
+    - Geysers erupting from the surface have been confirmed to be water, which adds further weight.
+    - So what might be possible, eventually, is that we might be able to send probes that would melt their way through the ice, descend into the ocean, and explore the oceans underneath the ice. But that's probably some way into the future.
+    - Currently planned missions aim to confirm the existence of the ocean and determine the thickness of the ice.
 - **Extrasolar Planets and the Kepler Satellite:**
-  - Extrasolar planets (or exoplanets) are planets that orbit other stars. **In 2014 we passed 1500 found exoplanets.**
-  - Kepler satellite was launched to find planets around other stars that could be habitable planets.
-  - Kepler observed simultaneously 100,000 stars and looked for a dip in the light as a planet passed in front.
-  - Eg: Kepler-452b
+    - Extrasolar planets (or exoplanets) are planets that orbit other stars. **In 2014 we passed 1500 found exoplanets.**
+    - Kepler satellite was launched to find planets around other stars that could be habitable planets.
+    - Kepler observed simultaneously 100,000 stars and looked for a dip in the light as a planet passed in front.
+    - Eg: Kepler-452b
 
 **The Habitable Zone:**
 "Habitable" planets are those that have suitable conditions on their surface for liquid water to exist. We call this region around the star the "habitable zone". In our Solar system, currently, Mars is too cold and Venus is too hot. The habitable zone is sometimes also referred to as "the Goldilocks zone" after the fairytale of Goldilocks and the three bears. **The Solar system's habitable zone encompasses only Earth. Venus is too hot and Mars too cold for liquid water.**
@@ -211,10 +211,10 @@ With either of the TPF or OWL systems, the aim would be to both detect the plane
 *Forget the lecture notes. This notes is much better than it in physics.*
 
 **Newton's Laws of Motion:**
-  - **Newton's first law:** The first law states that as object at rest will stay at rest, and an object in motion will stay in motion unless acted on by a net external force. $$\mathbf{\sum{F}} = 0 \quad\leftrightarrow\quad \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = 0$$
-  - **Newton's second law:** The second law states that the rate of change of momentum of a body over time is directly proportional to the force applied, and occurs in the same direction as the applied force. $$\mathbf{F} = \dfrac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}$$ For objects and systems with constant mass, it can be re-stated in terms of an object's acceleration. $$\mathbf{F} = \dfrac{\mathrm{d}(m\mathbf{v})}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = m\mathbf{a},$$ where $\mathbf{F}$ is the net force applied, m is the mass of the body, and $\mathbf{a}$ is the body's acceleration. Thus, the net force applied to a body produces a proportional acceleration.
-  **Variable-mass systems** is the motion for a body whose mass $m$ varies with time, the formula is $$\mathbf{F} + \mathbf{u}\dfrac{\mathrm{d}m}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t},$$ where $\mathbf{u}$ is the **exhaust velocity** of the escaping or incoming mass relative to the body. E.g. a rocket burning fuel and ejecting spent gases (*The Tsiolkovsky Rocket Equation*).
-  - **Newton's third law:** The third law states that all forces between two objects exist in equal magnitude and opposite direction, which could be state as $$\mathbf{F}_{A}= -\mathbf{F}_{B}.$$
+- **Newton's first law:** The first law states that as object at rest will stay at rest, and an object in motion will stay in motion unless acted on by a net external force. $$\mathbf{\sum{F}} = 0 \quad\leftrightarrow\quad \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = 0$$
+- **Newton's second law:** The second law states that the rate of change of momentum of a body over time is directly proportional to the force applied, and occurs in the same direction as the applied force. $$\mathbf{F} = \dfrac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}$$ For objects and systems with constant mass, it can be re-stated in terms of an object's acceleration. $$\mathbf{F} = \dfrac{\mathrm{d}(m\mathbf{v})}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = m\mathbf{a},$$ where $\mathbf{F}$ is the net force applied, m is the mass of the body, and $\mathbf{a}$ is the body's acceleration. Thus, the net force applied to a body produces a proportional acceleration.
+- **Variable-mass systems** is the motion for a body whose mass $m$ varies with time, the formula is $$\mathbf{F} + \mathbf{u}\dfrac{\mathrm{d}m}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t},$$ where $\mathbf{u}$ is the **exhaust velocity** of the escaping or incoming mass relative to the body. E.g. a rocket burning fuel and ejecting spent gases (*The Tsiolkovsky Rocket Equation*).
+- **Newton's third law:** The third law states that all forces between two objects exist in equal magnitude and opposite direction, which could be state as $$\mathbf{F}_{A}= -\mathbf{F}_{B}.$$
 
 **The Universal Law of Gravitation:**
 Gravity is a universal force that acts between any pair of objects in the universe which depends on the mass of the two objects, and on their distance apart – varying as the inverse square of the distance. $$\mathbf{F} = G\dfrac{m_{1}m_{2}}{r^{2}},$$ where $\mathbf{F}$ is the gravitational force acting between two objects, $m_{1}$ and $m_{2}$ are the masses of the objects, $r$ is the distance between the centers of their masses, and $G = 6.67 \times 10^{-11} \mathrm{N \cdot m^{2}/kg^{2}}$ is the gravitational constant. The first implicit measurement with an accuracy within about 1% is attributed to Henry Cavendish in a 1798 experiment.
@@ -240,9 +240,9 @@ There are a few common ways of understanding orbits:
 - Third Cosmic Velocity: known as the minimum velocity to escape from the solar system. When the earth revolves around the sun, all objects on the earth have an initial velocity which is $29.8 \mathrm{km/s}$. So the total energy that object needed is $$\frac{1}{2}m \mathbf{v}_{3}^{2} = \frac{1}{2}m \mathbf{v}_{2}^{2} +\frac{1}{2}m \Delta \mathbf{v}^{2} \quad\leftrightarrow\quad \mathbf{v}_{3} = \sqrt{11.2^{2} + 12.3^{2}} = 16.7 \mathrm{km/s}.$$
 
 **Kepler's Laws of Planetary Motion:**
-  - **First law:** The orbit of every planet is an ellipse with the Sun at one of the two foci.
-  - **Second law:** A line joining a planet and the Sun sweeps out equal areas during equal intervals of time. <img src="./img/1-3-1.gif" alt="Kepler's Second Law">
-  - **Third law:** The ratio of the square of an object's orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary. By expressing the angular velocity in terms of the orbital period we find $$mr(\dfrac{2 \pi}{T})^{2} = G\dfrac{mM}{r^{2}} \quad\rightarrow\quad T^{2} = \dfrac{4 \pi ^{2}}{GM}r^{3} \quad\rightarrow\quad T^{2}\propto r^{3}.$$ A more detailed derivation can be done with general elliptical orbits, instead of circles, as well as orbiting the center of mass, instead of just the large mass. This results in replacing a circular radius, $r$, with the semi-major axis, $a$, of the elliptical relative motion of one mass relative to the other, as well as replacing the large mass $M$ with $M + m$. The full corresponding formula is $$\dfrac{a^{3}}{T^{2}} = \dfrac{G(M+m)}{4 \pi ^{2}} \approx \dfrac{GM}{4 \pi ^{2}} \approx 7.496 \times 10^{-6} (\dfrac{{\text{AU}}^{3}}{{\text{days}}^{2}}) \text{ is constant.}$$
+- **First law:** The orbit of every planet is an ellipse with the Sun at one of the two foci.
+- **Second law:** A line joining a planet and the Sun sweeps out equal areas during equal intervals of time. <img src="./img/1-3-1.gif" alt="Kepler's Second Law">
+- **Third law:** The ratio of the square of an object's orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary. By expressing the angular velocity in terms of the orbital period we find $$mr(\dfrac{2 \pi}{T})^{2} = G\dfrac{mM}{r^{2}} \quad\rightarrow\quad T^{2} = \dfrac{4 \pi ^{2}}{GM}r^{3} \quad\rightarrow\quad T^{2}\propto r^{3}.$$ A more detailed derivation can be done with general elliptical orbits, instead of circles, as well as orbiting the center of mass, instead of just the large mass. This results in replacing a circular radius, $r$, with the semi-major axis, $a$, of the elliptical relative motion of one mass relative to the other, as well as replacing the large mass $M$ with $M + m$. The full corresponding formula is $$\dfrac{a^{3}}{T^{2}} = \dfrac{G(M+m)}{4 \pi ^{2}} \approx \dfrac{GM}{4 \pi ^{2}} \approx 7.496 \times 10^{-6} (\dfrac{{\text{AU}}^{3}}{{\text{days}}^{2}}) \text{ is constant.}$$
 
 **Energy:** defined as the “capacity to do work”. The formula is $$W = \mathbf{F} \times \mathbf{x},$$ which $W$ is the work, $F$ is the force applied on the object, and $x$ is the displacement. In addition, energy comes in many different types, such as Mechanical Energy, Thermal Energy, Chemical Energy, Electromagnetic Energy and Nuclear Energy……
 
@@ -255,10 +255,10 @@ There are a few common ways of understanding orbits:
 The mechanical energy of a system is the sum of the **potential energy** (which is measured by the position of the parts of the system) and the **kinetic energy** (which is also called the energy of motion): $$E_{\mathrm{mechanical}} = E_{\mathrm{potential}} + E_{\mathrm{kinetic}},$$ it remains constant in time as long as the system is free of friction and other non-conservative forces.
 
 **Atoms:**
-  - Atomic Nucleus (+):
+- Atomic Nucleus (+):
     - Protons (+) - positively charged particles.
     - Neutrons - electrically neutral particles.
-  - Electrons (-) - very light negatively charged particles.
+- Electrons (-) - very light negatively charged particles.
 <img src="./img/1-3-2.jpg" alt="Nuclear Notation" width="640">
 
 **Isotopes:** Atoms that have the same number of protons in the nucleus but a different number of neutrons.
