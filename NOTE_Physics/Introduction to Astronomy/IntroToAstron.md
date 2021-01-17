@@ -279,8 +279,11 @@ The mechanical energy of a system is the sum of the **potential energy** (which 
 
 **Thermal radiation** is one of the main sources of the electromagnetic radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.*
 
-**Wien Displacement Law**
 This law tell us how the maximum of thermal radiation at given temperature depends on its wavelength. All bodies give out thermal radiation across the whole electromagnetic spectrum, but the actual intensity in different parts of this spectrum is determined by a temperature only. This distribution is called a Planck blackbody function, which you can see below. Its shape changes when temperature of the body changes. According to Wien Displacement Law the maximum wavelength of thermal radiation is inversely proportional to the temperature of the object. The curve has maximum at shorter wavelengths and the intensity of this maximum gets higher when the temperature goes up; and the maximum is at longer wavelengths and its intensity gets lower when the temperature goes down.
+**Wien Displacement Law:**
+Wien's displacement law states that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. The shift of that peak is a direct consequence of the Planck radiation law, which describes the spectral brightness of black-body radiation as a function of wavelength at any given temperature.
+
+According to Wien Displacement Law the maximum wavelength of thermal radiation is inversely proportional to the temperature of the object. The curve has maximum at shorter wavelengths and the intensity of this maximum gets higher when the temperature goes up; and the maximum is at longer wavelengths and its intensity gets lower when the temperature goes down. We can state that $$\lambda_{peak} = \dfrac{b}{T},$$ where T is the absolute temperature. $b$ is a constant of proportionality called Wien's displacement constant, approach to $2.898 \times 10^{-3}$ m⋅K.
 
 ### 1.4 Techniques of Astronomy
 
