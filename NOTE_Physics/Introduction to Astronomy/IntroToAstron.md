@@ -279,7 +279,6 @@ The mechanical energy of a system is the sum of the **potential energy** (which 
 
 **Thermal radiation** is one of the main sources of the electromagnetic radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.*
 
-This law tell us how the maximum of thermal radiation at given temperature depends on its wavelength. All bodies give out thermal radiation across the whole electromagnetic spectrum, but the actual intensity in different parts of this spectrum is determined by a temperature only. This distribution is called a Planck blackbody function, which you can see below. Its shape changes when temperature of the body changes. According to Wien Displacement Law the maximum wavelength of thermal radiation is inversely proportional to the temperature of the object. The curve has maximum at shorter wavelengths and the intensity of this maximum gets higher when the temperature goes up; and the maximum is at longer wavelengths and its intensity gets lower when the temperature goes down.
 **Wien Displacement Law:**
 Wien's displacement law states that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. The shift of that peak is a direct consequence of the Planck radiation law, which describes the spectral brightness of black-body radiation as a function of wavelength at any given temperature.
 
@@ -288,6 +287,58 @@ According to Wien Displacement Law the maximum wavelength of thermal radiation i
 ### 1.4 Techniques of Astronomy
 
 > Telescopes and instruments for different wavelength regions. Observing methods. Spectra and the Doppler shift. Effect of the atmosphere. Observations from space.
+
+**Telescopes:**
+1. Refracting Telescopes:
+    - <img src="./img/1-4-1.jpg" alt="Refracting Telescopes" width="480">
+    - The 1 m refractor telescope at Yerkes Observatory in Chicago is the largest such telescope.
+    - It is really not feasible to make refracting telescopes any bigger than about 1 m in aperture, because the lens simply deforms under **its own weight**.
+2. Reflecting Telescopes:
+    - <img src="./img/1-4-2.jpg" alt="Reflecting Telescopes" width="480">
+    - Reflecting telescopes use a curved mirror instead of a lens to focus light.
+    - Larger mirror could be made and hold steadily compared with the lens by support edges.
+3. Others:
+    - Telescopes were first used by Galileo in 1609, and it is a refracting telescope.
+    - The **aperture** is the diameter of a primary mirror or primary lens of the telescope.
+    - **The light collecting power** of the telescope is determined by the area of its collecting mirror or lens, which in turn depends on the aperture of the telescope.
+    - For example, a lens that’s twice as big will collect four times as much light because its area is four times larger.
+    - **The resolving power** of the telescope, which is the telescope’s ability to see fine detail, is also depending on the aperture.
+    - Astronomers are always wanting to build bigger telescopes.
+
+**Large Optical Telescopes:**
+| Year       | Name                       | Aoerture       | Image                                                |
+|------------|----------------------------|----------------|------------------------------------------------------|
+| 1917       | Mount Wilson 100"          | 2.5 m (100")   | <img src="./img/1-4-3.jpg" alt="Wilson" width="480"> |
+| 1948       | Hale Telescope             | 5 m (200")     | <img src="./img/1-4-4.jpg" alt="Hale" width="480">   |
+| 1996       | Keck Telescopes            | 10 m           | <img src="./img/1-4-5.jpg" alt="Keck" width="480">   |
+| Developing | Extremely Large Telescopes | 20, 30 or 40 m |                                                      |
+| 1974       | Anglo Australian Telescope | 3.9 m          | <img src="./img/1-4-6.jpg" alt="AAT" width="480">    |
+
+**Observation Techniques History:**
+- Visual Observation: It is subjective and could be influenced by pre-conceptions, by optical illusions, and just by poor eyesight. Eg. Percival Lowell found the *not existed* canals on the Mars.
+- Photography: Long exposures could be used to record much fainter objects.
+- Electronic Devices: Use Charge Coupled Devices (CCDs) which has better sensitivity and could be stored in computers.
+
+**CCD Cameras: in Astronomy Observation:**
+- A focal length far longer than any normal camera lens. Eg. Keck Telescope has a focus 15 m (150,000 m).
+- Using arrays of detectors to obtain images with vast numbers of pixels could be hundreds of mega-pixels.
+- Astronomical Telescope has usually been cooled with liquid nitrogen or closed cycle coolers to shallow temperatures. So an astronomical CCD is generally mounted in a dewar.
+
+*Imaging observations can be used to study the structure of objects such as galaxies and nebulae. The images can be used to measure the brightness of stars and by using images made at different wavelengths through different filters we can measure the colours of stars – this is a technique that is called photometry. You can use the images to measure positions of objects and this is useful, for example, for looking for the motion of the objects that can be due to stellar parallaxes or proper motion.*
+
+**Spectrographs:** The spectrograph is sitting at the base of the telescope receiving the light from the telescope. And it consists of a slit, which is a narrow opening that allows the light from a single star to pass through into the spectrograph. the light from the slit goes to a collimator which makes the rays of light parallel, and then that parallel beam of light is fed to the diffraction grating, and the dispersed spectrum comes off the diffraction grating and goes to another curved mirror – which is a camera mirror – and focusses the spectrum onto a CCD detector. The CCD then records an image of the spectrum of the light of the star.
+<img src="./img/1-4-7.jpg" alt="Spectrographs" width="480">
+
+**Theorem of Spectral Lines:**
+The importance of a spectrum is that we can see the signatures of individual atoms and molecules through what are called spectral lines.
+
+Spectral lines are discrete wavelengths at which a particular atom or molecule can emit or absorb radiation and they are related to energy levels in the atom or molecule. Electrons in an atom can gain or loose only a specified amount of energy.
+
+This specific amounts of energy are govern by the rules of quantum mechanics. Each atom or molecule has a set of energy levels that an electron can jump onto. As a result of these quantum rules electron can only absorb or emit exactly as much energy as it is needed to account for a difference between two different energy levels.
+
+When the electron in an atom jumps between one energy level and another it can emit light of a particular wavelength and it can absorb light of a particular wavelength. When light is emitted this means that the electron lost energy and jumped to a lower energy level. When the light is absorbed the electron gained energy and it is now on a higher energy level.
+
+These spectral lines show as the dark or bright lines across the spectrum.
 
 ## 2. The Solar System
 
