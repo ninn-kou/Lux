@@ -8,13 +8,16 @@
 
 > The components of the universe (stars, planets and galaxies), the scale of the universe, a brief historical guide to the study of astronomy.
 
+#### Astronomy
+
 **Astronomy** is the scientific study of celestial objects — e.g. Planets, Stars, Galaxies, and the Universe as a whole.
 
 **Tools:** Telescopes, Spacecraft, Computers, The Internet and Laboratories……
 
 **Other "Astro" Words**: Astrology<sup>(Not Science)</sup>, Astrophysics, Astrobiology, Astrometry and Astronautics.
 
-**Timeline:**
+#### Timeline
+
 | Timeline          | Where / Who                   | What                                                                           |
 |-------------------|-------------------------------|--------------------------------------------------------------------------------|
 | Before 3000 BC    | Mesopotamia / Sumerians       | developed **the first form of writing** (cuneiform);                           |
@@ -61,23 +64,36 @@
 
 **[5] The Universal Force of Gravitation:**
 
-**Measuring the Distance between Stars:** Stellar parallax.
-    <img src="./img/1-1-6.gif" alt="Stellar parallax">
+#### Measuring the Distance between Stars
 
-*Not only was the Earth no longer at the centre of the universe, but even the Sun itself was just one of billions of stars making up our Milky Way galaxy. In fact it is now thought there are several hundred billions of stars in the Milky Way. With modern telescopes we can see galaxies out to distances of billions of light years, which means there are many billions of galaxies within our universe.*
+**Stellar parallax.** <img src="./img/1-1-6.gif" alt="Stellar parallax">
 
-**Astronomical Unit (AU):** The distance between the Sun and the Earth about $150,000,000$ km ($1.5 \times 10^{11}$ m).
+Not only was the Earth no longer at the centre of the universe, but even the Sun itself was just one of billions of stars making up our Milky Way galaxy. In fact it is now thought there are several hundred billions of stars in the Milky Way. With modern telescopes we can see galaxies out to distances of billions of light years, which means there are many billions of galaxies within our universe.
 
-**Light Speed:** $3 \times 10^{8}$ m/s.
+#### Astronomical Unit (AU)
 
-**Light Year:** The **distance** that light travels in one year, about $9,460,700,000,000$ km ($63,241$ AUs).
+The distance between the Sun and the Earth about $150,000,000$ km ($1.5 \times 10^{11}$ m).
 
-**Scale of the Solar System:** It takes light about 8 minutes 20 seconds to get from the Sun to the Earth, and 4 hours to get from the Earth out to the orbit of Neptune.
-    <img src="./img/1-1-7.png" alt="The Solar System" width="640">
+#### Light Speed
 
-**Scale of the Milky Way Galaxy:** The Sun is about  25,000 light years from the centre of the galaxy. The Milky Way galaxy is a disk about 100,000 light years across, and it contains about 200 billion stars.
+$3 \times 10^{8}$ m/s.
 
-**Scale of Galaxies and Clusters:** There are dwarf galaxies containing only 100 million stars, and giant galaxies containing as many as 1 trillion stars.
+#### Light Year
+
+The **distance** that light travels in one year, about $9,460,700,000,000$ km ($63,241$ AUs).
+
+#### Scale of the Solar System
+
+It takes light about 8 minutes 20 seconds to get from the Sun to the Earth, and 4 hours to get from the Earth out to the orbit of Neptune.
+<img src="./img/1-1-7.png" alt="The Solar System" width="640">
+
+#### Scale of the Milky Way Galaxy
+
+The Sun is about  25,000 light years from the centre of the galaxy. The Milky Way galaxy is a disk about 100,000 light years across, and it contains about 200 billion stars.
+
+#### Scale of Galaxies and Clusters
+
+There are dwarf galaxies containing only 100 million stars, and giant galaxies containing as many as 1 trillion stars.
 - *Elliptical Galaxies*, which are just an elliptically shaped cloud of stars.
 - *Spiral Galaxies* (our Milky Way galaxy is one), and these have a pattern of spiral arms. The spiral arms are the regions where new stars are forming.
 - *Barred Spirals* where the spiral arms appear to originate from a bar spanning across the centre.
@@ -87,18 +103,25 @@
 
 *Our own Milky Way galaxy is part of a small group of galaxies called the Local Group, and this is part of a much larger group of galaxies called the local super cluster.*
 
-**Anglo-Australian Telescope (AAT)** used an instrument called the **Two-degree Field (2dF)**. 2dF was able to measure the spectra of 400 galaxies at one time. From the spectrum it is possible to determine the distance to each galaxy, and so plot these galaxies on a 3D map.
-    <img src="./img/1-1-8.jpg" alt="2dF" width="480">
+#### Anglo-Australian Telescope (AAT)
+It used an instrument called the **Two-degree Field (2dF)**. 2dF was able to measure the spectra of 400 galaxies at one time. From the spectrum it is possible to determine the distance to each galaxy, and so plot these galaxies on a 3D map.
+<img src="./img/1-1-8.jpg" alt="2dF" width="480">
 
-**Hubble Space Telescope:** More distant galaxies can be seen in deep exposures with it.
+#### Hubble Space Telescope
 
-*So in the 2000 years or so since the time of the ancient Greeks, we have gone from a universe that had the Earth at its centre, to a universe in which the Earth is just one planet orbiting a fairly ordinary star, which itself is just one of the hundreds of billions of stars in our galaxy, with our galaxy being just one of hundreds of billions within the universe as a whole.*
+More distant galaxies can be seen in deep exposures with it.
+
+#### Summary
+
+So in the 2000 years or so since the time of the ancient Greeks, we have gone from a universe that had the Earth at its centre, to a universe in which the Earth is just one planet orbiting a fairly ordinary star, which itself is just one of the hundreds of billions of stars in our galaxy, with our galaxy being just one of hundreds of billions within the universe as a whole.
 
 ### 1.2 Introduction to Astrobiology
 
 > Why life might be common, or might be rare. The science of astrobiology. Where and how can we search for life in the universe?
 
-**Astrobiology** is the science of life in the universe.
+#### Astrobiology
+
+Astrobiology is the science of life in the universe.
 
 **Life Might be Common** because of the vastness of the universe. The universe contains many billions of galaxies, and each galaxies contains many billions of stars.
 
@@ -123,7 +146,8 @@
     - biochemistry,
     - and palaeontology.
 
-**Life of Earth:**
+#### Life of Earth
+
 | Time              | Life of Earth                                                |
 |-------------------|--------------------------------------------------------------|
 | 3.5 billion years | in the form of microbial life – bacteria and similar things. |
@@ -131,21 +155,26 @@
 | 50,000 years      | modern humans.                                               |
 | over 50 years     | technology to travel in space or to send signals in space.   |
 
-**Little Green Bacteria:** If we can find just one example of life on another planet, say Mars, and show that it formed independently of life on Earth, even if it's only microbes, this proves that life forms easily, given the right conditions.
+#### Little Green Bacteria
 
-**Astrobiology and Astrobiologists:**
+If we can find just one example of life on another planet, say Mars, and show that it formed independently of life on Earth, even if it's only microbes, this proves that life forms easily, given the right conditions.
+
+#### Astrobiology and Astrobiologists
+
 - Astrobiology inherently involves an interdisciplinary approach.
 - One study is to <u>look at possible locations for life in our Solar system</u>, and these are actually growing as we learn more about the Solar system.
 - Astrobiologists are involved in the <u>search for planets around other stars</u>, and the study of these planets. **We went past 3499 such planets known in 2017, and this number is growing all the time.**
 - Astrobiology also involves the <u>study of the early history of life on Earth</u>.
 - And astrobiology also includes the <u>study of life in extreme conditions</u>.
 
-**Follow the Water:**
+#### Follow the Water
+
 - Water is an abundant molecule in the Universe.
 - Liquid water is a great solvent for chemical reactions.
 - It is easier to identify life that is similar to our own.
 
-**Water and Life:**
+#### Water and Life Searching
+
 Everywhere we look on Earth, liquid water seems to be the only fundamental requirement for life. Living cells themselves are essentially drops of water contained in a cell membrane, and all of the chemistry fundamental to life, occurs in solution in water. Life can be found in extreme conditions (called extremophiles), from superheated water near hydrothermal vents, to near-freezing water in the Antarctic, but the one fundamental requirement is that water has to remain liquid.
 
 - **Mars:**
@@ -170,13 +199,16 @@ Everywhere we look on Earth, liquid water seems to be the only fundamental requi
     - Kepler observed simultaneously 100,000 stars and looked for a dip in the light as a planet passed in front.
     - Eg: Kepler-452b
 
-**The Habitable Zone:**
+#### The Habitable Zone
+
 "Habitable" planets are those that have suitable conditions on their surface for liquid water to exist. We call this region around the star the "habitable zone". In our Solar system, currently, Mars is too cold and Venus is too hot. The habitable zone is sometimes also referred to as "the Goldilocks zone" after the fairytale of Goldilocks and the three bears. **The Solar system's habitable zone encompasses only Earth. Venus is too hot and Mars too cold for liquid water.**
 
-**The Direct Detection of Earth-Like Planets:**
+#### The Direct Detection of Earth-Like Planets
+
 Kepler's method is an *indirect way of detecting planets*, and the next step is to use either giant ground based telescopes or space based instruments to look directly at other star systems and try to look in particular for biosignatures in the atmospheres of planets. Biosignatures such as oxygen are indicators of life. **Oxygen is only present in the Earth's atmosphere because its made by living organisms. Plants and other photosynthetic bacteria produce oxygen.**
 
-**Telescopes:**
+#### Telescopes for Life Searching
+
 | Detection Systems                           | Type                   | What                                                     |
 |---------------------------------------------|------------------------|----------------------------------------------------------|
 | OverWhelmingly Large Telescope (OWL)        | Ground-based Telescope | was estimated that an aperture of 100 m would be needed; |
@@ -190,10 +222,11 @@ Kepler's method is an *indirect way of detecting planets*, and the next step is 
 |                                             | TPF-Interferometer     | multiple 3 to 4 m telescopes flying in formation;        |
 |                                             |                        | combining light of planets together using a technique called interferometry, which again has the goal of getting rid of the light of the star to reveal the planet. |
 
-
 With either of the TPF or OWL systems, the aim would be to both detect the planet, and also  search for indications of the presence of life. In all 3 planets we detect the presence of a feature due to carbon dioxide. Carbon dioxide shows that the planets have atmospheres with carbon dioxide in them, but in the case of the Earth, and only the Earth, we see some additional features. We see a feature due to water vapour, which shows the presence of water on the Earth, and for the Earth we see a feature due to the absorption of ozone. Ozone is only there because there is oxygen in the atmosphere, oxygen gets converted into ozone. **And therefore ozone is an indicator of a planet with life.** So that's how this technique can be used to detect the possible presence of life on a distant extrasolar planet.
 
-**Search for Extraterrestrial Intelligence (SETI):** by looking for signals sent by intelligent civilizations elsewhere in the galaxy to search for life.
+#### Search for Extraterrestrial Intelligence (SETI)
+
+By looking for signals sent by intelligent civilizations elsewhere in the galaxy to search for life.
 
 | SETI Projects                    | What                                                                           |
 |----------------------------------|--------------------------------------------------------------------------------|
@@ -210,16 +243,19 @@ With either of the TPF or OWL systems, the aim would be to both detect the plane
 
 *Forget the lecture notes. This notes is much better than it in physics.*
 
-**Newton's Laws of Motion:**
+#### Newton's Laws of Motion
+
 - **Newton's first law:** The first law states that as object at rest will stay at rest, and an object in motion will stay in motion unless acted on by a net external force. $$\mathbf{\sum{F}} = 0 \quad\leftrightarrow\quad \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = 0$$
 - **Newton's second law:** The second law states that the rate of change of momentum of a body over time is directly proportional to the force applied, and occurs in the same direction as the applied force. $$\mathbf{F} = \dfrac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}$$ For objects and systems with constant mass, it can be re-stated in terms of an object's acceleration. $$\mathbf{F} = \dfrac{\mathrm{d}(m\mathbf{v})}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t} = m\mathbf{a},$$ where $\mathbf{F}$ is the net force applied, m is the mass of the body, and $\mathbf{a}$ is the body's acceleration. Thus, the net force applied to a body produces a proportional acceleration.
 - **Variable-mass systems** is the motion for a body whose mass $m$ varies with time, the formula is $$\mathbf{F} + \mathbf{u}\dfrac{\mathrm{d}m}{\mathrm{d}t} = \dfrac{\mathrm{d}\mathbf{v}}{\mathrm{d}t},$$ where $\mathbf{u}$ is the **exhaust velocity** of the escaping or incoming mass relative to the body. E.g. a rocket burning fuel and ejecting spent gases (*The Tsiolkovsky Rocket Equation*).
 - **Newton's third law:** The third law states that all forces between two objects exist in equal magnitude and opposite direction, which could be state as $$\mathbf{F}_{A}= -\mathbf{F}_{B}.$$
 
-**The Universal Law of Gravitation:**
+#### The Universal Law of Gravitation
+
 Gravity is a universal force that acts between any pair of objects in the universe which depends on the mass of the two objects, and on their distance apart – varying as the inverse square of the distance. $$\mathbf{F} = G\dfrac{m_{1}m_{2}}{r^{2}},$$ where $\mathbf{F}$ is the gravitational force acting between two objects, $m_{1}$ and $m_{2}$ are the masses of the objects, $r$ is the distance between the centers of their masses, and $G = 6.67 \times 10^{-11} \mathrm{N \cdot m^{2}/kg^{2}}$ is the gravitational constant. The first implicit measurement with an accuracy within about 1% is attributed to Henry Cavendish in a 1798 experiment.
 
-**Formulas of the Circular Motion:**
+#### Formulas of the Circular Motion
+
 |                                    | Formulas                                                                              |
 |------------------------------------|---------------------------------------------------------------------------------------|
 | Angular Velocity                   | $\mathbf{\omega} = \dfrac{2\pi}{T} = 2 \pi f = \dfrac{\mathrm{d}\theta}{\mathrm{d}t}$ |
@@ -231,55 +267,82 @@ Gravity is a universal force that acts between any pair of objects in the univer
 | Vector Cross Product Velocity      | $\mathbf{v} = \mathbf{\omega} \times \mathbf{r}$                             |
 | Vector Cross Product Acceleration  | $\mathbf{a} = \mathbf{\omega} \times \mathbf{v}$                             |
 
-**Orbits:**
+#### Orbits
+
 There are a few common ways of understanding orbits:
 - A force, such as gravity, pulls an object into a curved path as it attempts to fly off in a straight line.
 - As the object is pulled toward the massive body, it falls toward that body. However, if it has enough tangential velocity it will not fall into the body but will instead continue to follow the curved trajectory caused by that body indefinitely. The object is then said to be orbiting the body.
-- First Cosmic Velocity: known as the orbital velocity, will bring a rocket or other projectile into orbit around the Earth. The gravity of the earth on an object is exactly equal to the centripetal force of the object in motion, so we can state that $$G\dfrac{Mm}{R^{2}} = m\dfrac{\mathbf{v}_{1}^{2}}{R^{2}} \quad\leftrightarrow\quad \mathbf{v}_{1} = \sqrt{\dfrac{GM}{R}} = 7.9 \mathrm{km/s},$$ for the earth.
-- Second Cosmic Velocity: known as the escape velocity. The potential energy on the surface of earth is $-G\dfrac{Mm}{R}$; and the velocity when the object escape from the earth is zero. So the mechanical energy, which is the sum of kinetic energy and potential energy, should also be zero. The formula is $$\dfrac{1}{2} m \mathbf{v}_{2}^{2} - \dfrac{GMm}{R} = 0 \quad\leftrightarrow\quad \mathbf{v}_{2} = \sqrt{\dfrac{2GM}{R}} = \sqrt{2gR} = 11.2 \mathrm{km/s}$$ for the earth.
-- Third Cosmic Velocity: known as the minimum velocity to escape from the solar system. When the earth revolves around the sun, all objects on the earth have an initial velocity which is $29.8 \mathrm{km/s}$. So the total energy that object needed is $$\frac{1}{2}m \mathbf{v}_{3}^{2} = \frac{1}{2}m \mathbf{v}_{2}^{2} +\frac{1}{2}m \Delta \mathbf{v}^{2} \quad\leftrightarrow\quad \mathbf{v}_{3} = \sqrt{11.2^{2} + 12.3^{2}} = 16.7 \mathrm{km/s}.$$
+- **First Cosmic Velocity:** known as the orbital velocity, will bring a rocket or other projectile into orbit around the Earth. The gravity of the earth on an object is exactly equal to the centripetal force of the object in motion, so we can state that $$G\dfrac{Mm}{R^{2}} = m\dfrac{\mathbf{v}_{1}^{2}}{R^{2}} \quad\leftrightarrow\quad \mathbf{v}_{1} = \sqrt{\dfrac{GM}{R}} = 7.9 \mathrm{km/s},$$ for the earth.
+- **Second Cosmic Velocity:** known as the escape velocity. The potential energy on the surface of earth is $-G\dfrac{Mm}{R}$; and the velocity when the object escape from the earth is zero. So the mechanical energy, which is the sum of kinetic energy and potential energy, should also be zero. The formula is $$\dfrac{1}{2} m \mathbf{v}_{2}^{2} - \dfrac{GMm}{R} = 0 \quad\leftrightarrow\quad \mathbf{v}_{2} = \sqrt{\dfrac{2GM}{R}} = \sqrt{2gR} = 11.2 \mathrm{km/s}$$ for the earth.
+- **Third Cosmic Velocity:** known as the minimum velocity to escape from the solar system. When the earth revolves around the sun, all objects on the earth have an initial velocity which is $29.8 \mathrm{km/s}$. So the total energy that object needed is $$\frac{1}{2}m \mathbf{v}_{3}^{2} = \frac{1}{2}m \mathbf{v}_{2}^{2} +\frac{1}{2}m \Delta \mathbf{v}^{2} \quad\leftrightarrow\quad \mathbf{v}_{3} = \sqrt{11.2^{2} + 12.3^{2}} = 16.7 \mathrm{km/s}.$$
 
-**Kepler's Laws of Planetary Motion:**
+#### Kepler's Laws of Planetary Motion
+
 - **First law:** The orbit of every planet is an ellipse with the Sun at one of the two foci.
 - **Second law:** A line joining a planet and the Sun sweeps out equal areas during equal intervals of time. <img src="./img/1-3-1.gif" alt="Kepler's Second Law">
 - **Third law:** The ratio of the square of an object's orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary. By expressing the angular velocity in terms of the orbital period we find $$mr(\dfrac{2 \pi}{T})^{2} = G\dfrac{mM}{r^{2}} \quad\rightarrow\quad T^{2} = \dfrac{4 \pi ^{2}}{GM}r^{3} \quad\rightarrow\quad T^{2}\propto r^{3}.$$ A more detailed derivation can be done with general elliptical orbits, instead of circles, as well as orbiting the center of mass, instead of just the large mass. This results in replacing a circular radius, $r$, with the semi-major axis, $a$, of the elliptical relative motion of one mass relative to the other, as well as replacing the large mass $M$ with $M + m$. The full corresponding formula is $$\dfrac{a^{3}}{T^{2}} = \dfrac{G(M+m)}{4 \pi ^{2}} \approx \dfrac{GM}{4 \pi ^{2}} \approx 7.496 \times 10^{-6} (\dfrac{{\text{AU}}^{3}}{{\text{days}}^{2}}) \text{ is constant.}$$
 
-**Energy:** defined as the “capacity to do work”. The formula is $$W = \mathbf{F} \times \mathbf{x},$$ which $W$ is the work, $F$ is the force applied on the object, and $x$ is the displacement. In addition, energy comes in many different types, such as Mechanical Energy, Thermal Energy, Chemical Energy, Electromagnetic Energy and Nuclear Energy……
+#### Energy
 
-**Momentum ($\mathbf{p}$) and Impulse ($\mathbf{I}$):** $$\mathbf{p} = m \mathbf{v} = \mathbf{I} = \int \mathbf{F} \mathrm{d}t.$$
+It defined as the “capacity to do work”. The formula is $$W = \mathbf{F} \times \mathbf{x},$$ which $W$ is the work, $F$ is the force applied on the object, and $x$ is the displacement. In addition, energy comes in many different types, such as Mechanical Energy, Thermal Energy, Chemical Energy, Electromagnetic Energy and Nuclear Energy……
 
-**Conservation of Energy:** Energy cannot be created or destroyed. It can only be converted from one form to another.
+#### Momentum ($\mathbf{p}$) and Impulse ($\mathbf{I}$)
 
-**Conservation of Momentum:** In a closed system (one that does not exchange any matter with its surroundings and is not acted on by external forces) the total momentum is constant. $$m_{1} \mathbf{u}_{1} + m_{2} \mathbf{u}_{2} = m_{1} \mathbf{v}_{1} + m_{2} \mathbf{v}_{2}.$$
+$$\mathbf{p} = m \mathbf{v} = \mathbf{I} = \int \mathbf{F} \mathrm{d}t.$$
+
+#### Conservation of Energy
+
+Energy cannot be created or destroyed. It can only be converted from one form to another.
+
+#### Conservation of Momentum
+
+In a closed system (one that does not exchange any matter with its surroundings and is not acted on by external forces) the total momentum is constant. $$m_{1} \mathbf{u}_{1} + m_{2} \mathbf{u}_{2} = m_{1} \mathbf{v}_{1} + m_{2} \mathbf{v}_{2}.$$
 
 The mechanical energy of a system is the sum of the **potential energy** (which is measured by the position of the parts of the system) and the **kinetic energy** (which is also called the energy of motion): $$E_{\mathrm{mechanical}} = E_{\mathrm{potential}} + E_{\mathrm{kinetic}},$$ it remains constant in time as long as the system is free of friction and other non-conservative forces.
 
-**Atoms:**
+#### Atoms
+
 - Atomic Nucleus (+):
     - Protons (+) - positively charged particles.
     - Neutrons - electrically neutral particles.
 - Electrons (-) - very light negatively charged particles.
 <img src="./img/1-3-2.jpg" alt="Nuclear Notation" width="640">
 
-**Isotopes:** Atoms that have the same number of protons in the nucleus but a different number of neutrons.
+#### Isotopes
 
-**Molecules:** Atoms combine together to form molecules.
+Atoms that have the same number of protons in the nucleus but a different number of neutrons.
 
-**Different Phases of Matters:**
+#### Molecules
+
+Atoms combine together to form molecules.
+
+#### Different Phases of Matters
+
 <img src="./img/1-3-3.jpg" alt="Phases of Water" width="480">
 
-**Ideal Gas Law:** $$PV=nRT$$ where $P$, $V$ and $T$ are the pressure, volume and temperature; $n$ is the amount of substance; and $R$ is the ideal gas constant.
+#### Ideal Gas Law
 
-**Electromagnetic Radiation:** $$f = \frac{1}{T} = \frac{\mathbf{v}}{\lambda},$$ where $f$ is the frequency, $T$ is the period, $\mathbf{v}$ is the velocity of wave and $\lambda$ is the wavelength.
+$$PV=nRT$$ where $P$, $V$ and $T$ are the pressure, volume and temperature; $n$ is the amount of substance; and $R$ is the ideal gas constant.
+
+#### Electromagnetic Radiation
+
+$$f = \frac{1}{T} = \frac{\mathbf{v}}{\lambda},$$ where $f$ is the frequency, $T$ is the period, $\mathbf{v}$ is the velocity of wave and $\lambda$ is the wavelength.
 <img src="./img/1-3-4.png" alt="Electromagnetic Radiation" width="640">
 
-**The amplitude** of a periodic variable is a measure of its change in a single period (such as time or spatial period). There are various definitions of amplitude, which are all functions of the magnitude of the differences between the variable's extreme values.
+#### Amplitude
 
-**Standing Wave** is a wave which oscillates in time but whose peak amplitude profile does not move in space. The peak amplitude of the wave oscillations at any point in space is constant with time, and the oscillations at different points throughout the wave are in phase. The locations at which the absolute value of the amplitude is minimum are called nodes, and the locations where the absolute value of the amplitude is maximum are called antinodes.
+The amplitude of a periodic variable is a measure of its change in a single period (such as time or spatial period). There are various definitions of amplitude, which are all functions of the magnitude of the differences between the variable's extreme values.
 
-**Thermal radiation** is one of the main sources of the electromagnetic radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.*
+#### Standing Wave
 
-**Wien Displacement Law:**
+Standing wave is a wave which oscillates in time but whose peak amplitude profile does not move in space. The peak amplitude of the wave oscillations at any point in space is constant with time, and the oscillations at different points throughout the wave are in phase. The locations at which the absolute value of the amplitude is minimum are called nodes, and the locations where the absolute value of the amplitude is maximum are called antinodes.
+
+#### Thermal Radiation
+
+Thermal radiation is one of the main sources of the electromagnetic radiation. Stars also emit thermal radiation. The temperature of a star determines its colour. The simulation below allows you to change the temperature of a star and observe how this affects the wavelengths of the peak of intensity of emission coming from the star. For example very hot stars will emit most radiation in blue and this is why we see them as bluish in colour. Cooler stars emit their energy mostly in red and this is why they appear reddish.
+
+#### Wien Displacement Law
+
 Wien's displacement law states that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. The shift of that peak is a direct consequence of the Planck radiation law, which describes the spectral brightness of black-body radiation as a function of wavelength at any given temperature.
 
 According to Wien Displacement Law the maximum wavelength of thermal radiation is inversely proportional to the temperature of the object. The curve has maximum at shorter wavelengths and the intensity of this maximum gets higher when the temperature goes up; and the maximum is at longer wavelengths and its intensity gets lower when the temperature goes down. We can state that $$\lambda_{peak} = \dfrac{b}{T},$$ where T is the absolute temperature. $b$ is a constant of proportionality called Wien's displacement constant, approach to $2.898 \times 10^{-3}$ m⋅K.
@@ -287,58 +350,6 @@ According to Wien Displacement Law the maximum wavelength of thermal radiation i
 ### 1.4 Techniques of Astronomy
 
 > Telescopes and instruments for different wavelength regions. Observing methods. Spectra and the Doppler shift. Effect of the atmosphere. Observations from space.
-
-**Telescopes:**
-1. Refracting Telescopes:
-    - <img src="./img/1-4-1.jpg" alt="Refracting Telescopes" width="480">
-    - The 1 m refractor telescope at Yerkes Observatory in Chicago is the largest such telescope.
-    - It is really not feasible to make refracting telescopes any bigger than about 1 m in aperture, because the lens simply deforms under **its own weight**.
-2. Reflecting Telescopes:
-    - <img src="./img/1-4-2.jpg" alt="Reflecting Telescopes" width="480">
-    - Reflecting telescopes use a curved mirror instead of a lens to focus light.
-    - Larger mirror could be made and hold steadily compared with the lens by support edges.
-3. Others:
-    - Telescopes were first used by Galileo in 1609, and it is a refracting telescope.
-    - The **aperture** is the diameter of a primary mirror or primary lens of the telescope.
-    - **The light collecting power** of the telescope is determined by the area of its collecting mirror or lens, which in turn depends on the aperture of the telescope.
-    - For example, a lens that’s twice as big will collect four times as much light because its area is four times larger.
-    - **The resolving power** of the telescope, which is the telescope’s ability to see fine detail, is also depending on the aperture.
-    - Astronomers are always wanting to build bigger telescopes.
-
-**Large Optical Telescopes:**
-| Year       | Name                       | Aoerture       | Image                                                |
-|------------|----------------------------|----------------|------------------------------------------------------|
-| 1917       | Mount Wilson 100"          | 2.5 m (100")   | <img src="./img/1-4-3.jpg" alt="Wilson" width="480"> |
-| 1948       | Hale Telescope             | 5 m (200")     | <img src="./img/1-4-4.jpg" alt="Hale" width="480">   |
-| 1996       | Keck Telescopes            | 10 m           | <img src="./img/1-4-5.jpg" alt="Keck" width="480">   |
-| Developing | Extremely Large Telescopes | 20, 30 or 40 m |                                                      |
-| 1974       | Anglo Australian Telescope | 3.9 m          | <img src="./img/1-4-6.jpg" alt="AAT" width="480">    |
-
-**Observation Techniques History:**
-- Visual Observation: It is subjective and could be influenced by pre-conceptions, by optical illusions, and just by poor eyesight. Eg. Percival Lowell found the *not existed* canals on the Mars.
-- Photography: Long exposures could be used to record much fainter objects.
-- Electronic Devices: Use Charge Coupled Devices (CCDs) which has better sensitivity and could be stored in computers.
-
-**CCD Cameras: in Astronomy Observation:**
-- A focal length far longer than any normal camera lens. Eg. Keck Telescope has a focus 15 m (150,000 m).
-- Using arrays of detectors to obtain images with vast numbers of pixels could be hundreds of mega-pixels.
-- Astronomical Telescope has usually been cooled with liquid nitrogen or closed cycle coolers to shallow temperatures. So an astronomical CCD is generally mounted in a dewar.
-
-*Imaging observations can be used to study the structure of objects such as galaxies and nebulae. The images can be used to measure the brightness of stars and by using images made at different wavelengths through different filters we can measure the colours of stars – this is a technique that is called photometry. You can use the images to measure positions of objects and this is useful, for example, for looking for the motion of the objects that can be due to stellar parallaxes or proper motion.*
-
-**Spectrographs:** The spectrograph is sitting at the base of the telescope receiving the light from the telescope. And it consists of a slit, which is a narrow opening that allows the light from a single star to pass through into the spectrograph. the light from the slit goes to a collimator which makes the rays of light parallel, and then that parallel beam of light is fed to the diffraction grating, and the dispersed spectrum comes off the diffraction grating and goes to another curved mirror – which is a camera mirror – and focusses the spectrum onto a CCD detector. The CCD then records an image of the spectrum of the light of the star.
-<img src="./img/1-4-7.jpg" alt="Spectrographs" width="480">
-
-**Theorem of Spectral Lines:**
-The importance of a spectrum is that we can see the signatures of individual atoms and molecules through what are called spectral lines.
-
-Spectral lines are discrete wavelengths at which a particular atom or molecule can emit or absorb radiation and they are related to energy levels in the atom or molecule. Electrons in an atom can gain or loose only a specified amount of energy.
-
-This specific amounts of energy are govern by the rules of quantum mechanics. Each atom or molecule has a set of energy levels that an electron can jump onto. As a result of these quantum rules electron can only absorb or emit exactly as much energy as it is needed to account for a difference between two different energy levels.
-
-When the electron in an atom jumps between one energy level and another it can emit light of a particular wavelength and it can absorb light of a particular wavelength. When light is emitted this means that the electron lost energy and jumped to a lower energy level. When the light is absorbed the electron gained energy and it is now on a higher energy level.
-
-These spectral lines show as the dark or bright lines across the spectrum.
 
 ## 2. The Solar System
 
