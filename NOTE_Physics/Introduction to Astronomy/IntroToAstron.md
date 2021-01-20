@@ -85,6 +85,7 @@ The **distance** that light travels in one year, about $9,460,700,000,000$ km ($
 #### Scale of the Solar System
 
 It takes light about 8 minutes 20 seconds to get from the Sun to the Earth, and 4 hours to get from the Earth out to the orbit of Neptune.
+
 <img src="./img/1-1-7.png" alt="The Solar System" width="640">
 
 #### Scale of the Milky Way Galaxy
@@ -104,7 +105,9 @@ There are dwarf galaxies containing only 100 million stars, and giant galaxies c
 *Our own Milky Way galaxy is part of a small group of galaxies called the Local Group, and this is part of a much larger group of galaxies called the local super cluster.*
 
 #### Anglo-Australian Telescope (AAT)
+
 It used an instrument called the **Two-degree Field (2dF)**. 2dF was able to measure the spectra of 400 galaxies at one time. From the spectrum it is possible to determine the distance to each galaxy, and so plot these galaxies on a 3D map.
+
 <img src="./img/1-1-8.jpg" alt="2dF" width="480">
 
 #### Hubble Space Telescope
@@ -306,6 +309,7 @@ The mechanical energy of a system is the sum of the **potential energy** (which 
     - Protons (+) - positively charged particles.
     - Neutrons - electrically neutral particles.
 - Electrons (-) - very light negatively charged particles.
+
 <img src="./img/1-3-2.jpg" alt="Nuclear Notation" width="640">
 
 #### Isotopes
@@ -327,6 +331,7 @@ $$PV=nRT$$ where $P$, $V$ and $T$ are the pressure, volume and temperature; $n$ 
 #### Electromagnetic Radiation
 
 $$f = \frac{1}{T} = \frac{\mathbf{v}}{\lambda},$$ where $f$ is the frequency, $T$ is the period, $\mathbf{v}$ is the velocity of wave and $\lambda$ is the wavelength.
+
 <img src="./img/1-3-4.png" alt="Electromagnetic Radiation" width="640">
 
 #### Amplitude
@@ -351,7 +356,8 @@ According to Wien Displacement Law the maximum wavelength of thermal radiation i
 
 > Telescopes and instruments for different wavelength regions. Observing methods. Spectra and the Doppler shift. Effect of the atmosphere. Observations from space.
 
-**Telescopes:**
+#### Telescopes Types
+
 1. Refracting Telescopes:
     - <img src="./img/1-4-1.jpg" alt="Refracting Telescopes" width="480">
     - The 1 m refractor telescope at Yerkes Observatory in Chicago is the largest such telescope.
@@ -368,7 +374,8 @@ According to Wien Displacement Law the maximum wavelength of thermal radiation i
     - **The resolving power** of the telescope, which is the telescope’s ability to see fine detail, is also depending on the aperture.
     - Astronomers are always wanting to build bigger telescopes.
 
-**Large Optical Telescopes:**
+#### Large Optical Telescopes
+
 | Year       | Name                       | Aoerture       | Image                                                |
 |------------|----------------------------|----------------|------------------------------------------------------|
 | 1917       | Mount Wilson 100"          | 2.5 m (100")   | <img src="./img/1-4-3.jpg" alt="Wilson" width="480"> |
@@ -377,22 +384,28 @@ According to Wien Displacement Law the maximum wavelength of thermal radiation i
 | Developing | Extremely Large Telescopes | 20, 30 or 40 m |                                                      |
 | 1974       | Anglo Australian Telescope | 3.9 m          | <img src="./img/1-4-6.jpg" alt="AAT" width="480">    |
 
-**Observation Techniques History:**
+#### Observation Techniques History
+
 - Visual Observation: It is subjective and could be influenced by pre-conceptions, by optical illusions, and just by poor eyesight. Eg. Percival Lowell found the *not existed* canals on the Mars.
 - Photography: Long exposures could be used to record much fainter objects.
 - Electronic Devices: Use Charge Coupled Devices (CCDs) which has better sensitivity and could be stored in computers.
 
-**CCD Cameras: in Astronomy Observation:**
+#### CCD Cameras in Astronomy Observation
+
 - A focal length far longer than any normal camera lens. Eg. Keck Telescope has a focus 15 m (150,000 m).
 - Using arrays of detectors to obtain images with vast numbers of pixels could be hundreds of mega-pixels.
 - Astronomical Telescope has usually been cooled with liquid nitrogen or closed cycle coolers to shallow temperatures. So an astronomical CCD is generally mounted in a dewar.
 
 *Imaging observations can be used to study the structure of objects such as galaxies and nebulae. The images can be used to measure the brightness of stars and by using images made at different wavelengths through different filters we can measure the colours of stars – this is a technique that is called photometry. You can use the images to measure positions of objects and this is useful, for example, for looking for the motion of the objects that can be due to stellar parallaxes or proper motion.*
 
-**Spectrographs:** The spectrograph is sitting at the base of the telescope receiving the light from the telescope. And it consists of a slit, which is a narrow opening that allows the light from a single star to pass through into the spectrograph. the light from the slit goes to a collimator which makes the rays of light parallel, and then that parallel beam of light is fed to the diffraction grating, and the dispersed spectrum comes off the diffraction grating and goes to another curved mirror – which is a camera mirror – and focusses the spectrum onto a CCD detector. The CCD then records an image of the spectrum of the light of the star.
+#### Spectrographs
+
+The spectrograph is sitting at the base of the telescope receiving the light from the telescope. And it consists of a slit, which is a narrow opening that allows the light from a single star to pass through into the spectrograph. the light from the slit goes to a collimator which makes the rays of light parallel, and then that parallel beam of light is fed to the diffraction grating, and the dispersed spectrum comes off the diffraction grating and goes to another curved mirror – which is a camera mirror – and focusses the spectrum onto a CCD detector. The CCD then records an image of the spectrum of the light of the star.
+
 <img src="./img/1-4-7.jpg" alt="Spectrographs" width="480">
 
-**Theorem of Spectral Lines:**
+#### Theorem of Spectral Lines
+
 The importance of a spectrum is that we can see the signatures of individual atoms and molecules through what are called spectral lines.
 
 Spectral lines are discrete wavelengths at which a particular atom or molecule can emit or absorb radiation and they are related to energy levels in the atom or molecule. Electrons in an atom can gain or loose only a specified amount of energy.
@@ -403,9 +416,10 @@ When the electron in an atom jumps between one energy level and another it can e
 
 These spectral lines show as the dark or bright lines across the spectrum.
 
-**Types of Spectra:**
+#### Types of Spectra
+
 - **Continuous Spectrum:**
-    - It obeys Wien's Law, which has been noted at the end of Chapter 1.3. Eg. We move it further to the blue if we increase temperature.
+    - It obeys Wien's Law, which has been noted at the end of [Chapter 1.3](#wien-displacement-law). Eg. We move it further to the blue if we increase temperature.
     - Atoms are emitting light of all wavelengths in such packed environment because atoms collide very often, and electrons can exist in many different energy states. That depends only on the amount of thermal energy available for them, which depends on the temperature of the object.
 - **Emission Line Spectrum:**
     - This is what we observe when we look at the spectrum of a rarified gas that is hot, so it is glowing. The spectrum emits light at a few specific wavelengths. And we look at different gases we see a different spectrum. Eg. Neon has a different pattern of lines than hydrogen.
@@ -414,7 +428,8 @@ These spectral lines show as the dark or bright lines across the spectrum.
     - An absorption line spectrum that arises where we have a source of the continuous spectrum (like a light globe or the Sun) and we look at it through a cloud of gas. In this case gas absorbs light of specific wavelengths. These wavelengths are the same as the wavelengths of emission lines in a hot gas of the same composition.  The result is that we have a spectrum that is a combination of the continuous spectrum from the globe and the absorption spectrum from the gas.
     - If we look at different gases we will see different absorption lines. Thus the spectral lines are the signatures of specific elements, and this is how we can learn about the composition of different gases through spectroscopy.
 
-**Doppler Effect:**
+#### Doppler Effect
+
 In classical physics, where the speeds of source and the receiver relative to the medium are lower than the velocity of waves in the medium, the relationship between observed frequency $f$ and emitted frequency $f_{0}$ is given by: $$f = \left(\dfrac{c \pm v_{r}}{c \pm v_{s}}\right)f_{0}$$ where
 - $c$ is the propagation speed of waves in the medium;
 - $v_{r}$ is the speed of the receiver relative to the medium, added to $c$ if the receiver is moving towards the source, subtracted if the receiver is moving away from the source;
@@ -428,6 +443,54 @@ Equivalently, under the assumption that the source is either directly approachin
 - $\lambda$ is the wavelength.
 
 <img src="./img/1-4-8.gif" alt="Doppler Effect" width="480">
+
+#### Timing Observations
+
+Timing observation is when we look at how some property of an object varies with time. One common example is observing the variations in the brightness of a variable star. If we make observations at many different times, we can plot it out against time, and this results in what’s called a light curve – a plot of brightness against time.
+
+#### Problems of Ground-based Telescopes
+
+All ground-based telescopes have to contend with the effects of looking through the Earth’s atmosphere and this causes a number of problems for observing.
+- The atmosphere absorbs radiation of some wavelengths of light.
+- The effect of turbulence in the Earth’s atmosphere might blurs images.
+- Cloud could make observations not possible by getting in the way.
+
+#### Radio Telescopes and Interferometers
+
+- **Radio Telescopes:**
+    - It really started just after World War 2 and built on new techniques that had been developed during the war for things such as RADAR.
+    - Radio telescopes observe the sky at radio wavelengths, so that means wavelengths from cm to m.
+    - The dish in a radio telescope reflects radio waves in exactly the same way a mirror in an optical telescope reflects visible light.
+    - Sensitive radio receivers are mounted at the focus of the dish and receive the reflected radio signals.
+    - Big dishes needed to obtain good resolving power which scales with the wavelength. So for long wavelengths you need a much larger telescope than you need at short wavelengths for optical astronomy.
+- **Interferometers:**
+    - An interferometer has multiple dishes, their signals are combined electronically.
+    - A system can provide **the same resolution (or ability to see fine detail) of a telescope much bigger than any of the individual dishes**, in effect it can be like a telescope several km across.
+    - However, **the sensitivity  (i.e. the ability to see faint radio sources) is only determined by the actual collecting area of the combined dishes**.
+
+#### Observatory Sites and Radio Telescopes
+
+| Name                              | Location     | Properties                                                                                       |
+|-----------------------------------|--------------|--------------------------------------------------------------------------------------------------|
+| Mauna Kea Observatory             | Hawaii       | At high altitude 4000 m, not too much water vapour and good seeing.                              |
+| Parkes                            | NSW          | Build in 1960, a radio dish 64 m in diameter which is Australia's major astronomical facilities. |
+| Radio telescope at Arecibo        | Puerto Rico  | Until recently the largest single dish of 305 m diameter.                                        |
+| FAST                              | China        | A single dish of 500 m diameter currently designed and built.                                    |
+| Australia Telescope Compact Array | Narrabri NSW | Interferometer has multiple dishes, their signals are combined electronically.                   |
+
+#### Telescopes in Space
+
+*Visible light, radio waves and some infrared wavelengths can be observed from ground based telescopes as we’ve seen – they get through the Earth’s atmosphere. But many other wavelengths, and these include gamma-rays, X-rays, ultraviolet, and some infrared wavelengths, can only be observed from space. So, space telescopes are used for these observations. In fact, space telescopes can also provide improved data even at visible wavelengths.*
+
+| Name                   | Properties                                                                                       | Imaged by Telescopes |
+|------------------------|--------------------------------------------------------------------------------------------------|----------------------|
+| Hubble Space Telescope | The HST was launched in 1990 from the Space Shuttle Atlantis and running in an orbit that astronauts could improve by the space shuttle. It’s a telescope that operates at **ultraviolet wavelengths** that are waves can only be observed from space.  But it also works at **visible wavelengths**. | <img src="./img/1-4-9.jpg" alt="The Eagle Nebula" width="240"> |
+| Spitzer                | Spitzer is a 0.85 m aperture **infrared** telescope.  The atmosphere is bright in the telescope observation because even low-temperature objects emit at infrared wavelengths. The whole telescope is cryogenically cooled so that the infrared background radiation from the telescope is minimal and because the atmosphere has been got rid of this makes it extremely sensitive to infrared radiation. | <img src="./img/1-4-10.jpg" alt="RCW49" width="240"> |
+| Chandra                | Another example of a space telescope is the Chandra **X-ray** telescope. At X-ray wavelengths, you can’t use a conventional telescope design because you can’t reflect X-rays with a mirror. X-rays can only be reflected at grazing angles of incidence, so the type of mirrors used in the X-ray telescope are these nested cylinders where the X-rays come in and are reflected at these very shallow angles. This creates an X-ray telescope with an effective focal length of about 10 m, producing an image at its focus that can then be detected by special X-ray detectors. | <img src="./img/1-4-11.jpg" alt="Cassiopeia" width="240"> |
+
+#### Gravitational Waves
+
+A major advance in astronomy was reported on Feb 11th 2016 when a large consortium of scientists reported the first detection of gravitational waves from space. These are waves in the fabric of spacetime predicted by Einstein's general theory of relativity 100 years earlier.
 
 ## 2. The Solar System
 
