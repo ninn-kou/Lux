@@ -498,6 +498,89 @@ A major advance in astronomy was reported on Feb 11th 2016 when a large consorti
 
 > Introduction to the solar system. Terrestrial and giant planets, satellites, dwarf planets., small solar system bodies. The formation of the solar system.
 
+#### Earth, Sun and Other Components
+
+- A key feature of the Earth, is that it is the only place we know that hosts life.
+- The Earth orbits a star called the Sun.
+- The energy that comes from the Sun is fundamental to life. All living organisms depend on energy and all of that energy, in almost every case, originally comes from the Sun.
+- There are now only 8 proper, fully-fledged planets in our Solar System.
+- <img src="./img/2-1-1.jpg" alt="Earth and Sun" width="640">
+
+| Name                      | Radius               |
+|---------------------------|----------------------|
+| Terrestrial planets       | 0.4 to 1.5 AU        |
+| The main asteroid belt    | 2 to 4 AU            |
+| Giant planets             | 5 to 30 AU           |
+| The Edgeworth-Kuiper belt | 35 to 500 AU         |
+| The Oort cloud            | From Sun to 50000 AU |
+
+#### Inner Solar System
+
+| Planets     | Key Features                                                                                                                           |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Mercury** | Mercury is the closest planet to the Sun which has be explored by NASA Messenger in 2011.                                              |
+| **Venus**   | The European Space Agency Venus Express spacecraft reached orbit around Venus in 2006 and made observations.                           |
+|             | The Venus is similar to the earth in both size and mass. And It is completely covered with clouds that extend to an altitude of 70 km. |
+|             | There is a very dense atmosphere composed mainly of **carbon dioxide (CO<sub>2</sub>)**.                                               |
+|             | The atmosphere on Venus which make the pressure reaches up to 90 times that on the Earth at the surface of the planet.                 |
+| **Earth**   | 70% surface is covered by oceans and it has clouds of liquid water. The Earth is an example of what we call a "habitable planet".      |
+|             | Earth is that it is the only terrestrial planet that has a large moon. The Moon is about a quarter of the radius of the Earth.         |
+|             | This is a very large relative size, and the Earth-Moon system is often thought of as a **double planet**.                              |
+| **Mars**    | It has a thin atmosphere composed mainly of **carbon dioxide** with **occasional clouds**.                                             |
+|             | It has polar caps are composed partly of **carbon dioxide ice**, as a result of the Martian air freezing out on the polar caps.        |
+|             | Under these CO<sub>2</sub> caps, there are also permanent polar caps made of water ice.                                                |
+|             | Mars has some areas: large plains, extinct volcanoes (with the largest volcanoes in the Solar System - Olympus Mons) and canyon systems, which could have been eroded by liquid water in the early history of the planet. |
+|             | Its moons (Deimos and Phobos) are tiny, and are probably captured asteroids. They were discovered by Asaph Hall in 1877.               |
+
+#### Outer Solar System
+
+- All four outer planets have ring systems. Though Saturn's are by far the most prominent, Jupiter also has a faint ring system as does Uranus and Neptune.
+
+| Planets     | Key Features                                                                                                                           |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Jupiter** | Jupiter is a gas giant or "Jovian" planet. This means it has no solid surface and is almost entirely made of gas.                      |
+|             | It is possible that it has a small and enormously compressed rock/ice core at its centre.                                              |
+|             | However, this core would be a very small fraction of the total mass of the planet.                                                     |
+|             | Most of the planet is made of **hydrogen (H<sub>2</sub>) and helium gas (He)**, with a similar composition to the Sun. And a few other molecules in Jupiter's composition, such as **methane (CH<sub>4</sub>) and ammonia (NH<sub>3</sub>)**. |
+|             | The fact that Jupiter is made of gas means that its density is very low compared with the terrestrial planets.                         |
+|             | The spots and features we see on it are permanent storm systems are the larger active cyclones than we get on the Earth.               |
+|             | Jupiter has a large system of more than 70 moons, and this is a general feature of all the giant planets.                              |
+| **Saturn**  | Saturn is also a gas giant or a Jovian planet with the most distinctive features: its system of rings.                                 |
+|             | These rings are thought to be the fragments of satellites that have broken up as a result of getting too close to the planet. In such a scenario the resulting tidal forces - the difference in the gravitational field experienced by the inner and outer side of an object as it orbits Saturn -  can be strong enough to pull it apart. |
+|             | So we think that these rings are the small fragments of ice, and possibly rocks.                                                       |
+|             | Saturn also has a large system of moons (62 are currently known), the largest one called Titan, the only moon of the planets with a dense atmosphere which composed of nitrogen and methane. Titan has methane clouds, that can produce methane rain, and there appear to be rivers and lakes of hydrocarbons (like methane and ethane) on the surface of the moon. |
+|             | Enceladus is another moons that to be ejecting plumes of ice into space by the observation of the Cassini spacecraft.                  |
+| **Uranus**  | It has an icy and rocky core which occupied most of its amounts.                                                                       |
+|             | Uranus orbits the Sun on its side, which means that its axis of rotation is inclined by about 90 degrees to the plane of its orbit.    |
+| **Neptune** | It has an icy and rocky core which occupied most of its amounts. It is the last planet in the solar system.                            |
+
+#### Kuiper Belt Objects
+
+- The Kuiper belt is a ring of bodies orbiting in the outer Solar System, mostly beyond the planet Neptune.
+- <img src="./img/2-1-2.jpg" alt="6 Largest Kuiper Belt Objects" width="480">
+- Kuiper belt objects orbit the Sun in the outer Solar System mostly outside the orbit of the outermost planet Neptune. However Pluto actually has an orbit that crosses over Neptune's orbit. So sometimes Pluto is inside the orbit of Neptune, making it closer to the Sun than Neptune.
+- <img src="./img/2-1-3.jpg" alt="Neptune and Pluto" width="480">
+
+#### Dwarf Planets, Asteroids and Comets
+
+- **Planets and dwarf planets have a spherical shape.** This is because they are sufficiently massive that their gravity is strong enough to pull them into a spherical form. This does not happen for small objects, and they end up shaped as broken, irregular pieces of rock.
+- **Asteroids have an irregular shape.**
+    - The larger asteroids: **Vesta** with a mean diameter of about 525 km.
+    - A dwarf planet: **Ceres**, the largest object in the asteroid belt with a 945 km in diameter to make it a dwarf planet rather than an asteroid.
+- **Comets** are small icy bodies, sometimes describes as "dirty snowballs". The tail of a comet is formed by the solar energy that heats ice and releases gas and dust when it is approaching the Sun.
+    - Here are two types of comets. One of them can be periodic, which means that their orbits form closed ellipses, and so they return to the inner Solar System regularly.
+    - The most famous is Halley's comet which has a period of 76 years and most recently returned in 1986.
+    - There are also non-periodic comets, which come from way out of the Solar System and only visit the inner Solar System once. They move in hyperbolic, or "open", orbits. These orbits are often not aligned with the plane of the Solar System. Most of the non-periodic comets are thought to originate from the vast Oort Cloud.
+    - In 2004 the European Space Agency launched Rosetta, a robotic space mission to explore the comet 67P/Churyumov–Gerasimenko (named after its two discoverers Churyumov and Gerasimenko). The spacecraft carried a lander called Philae, that made the first ever soft landing on a comet on the 12th November 2014.
+
+#### Formation of the Solar System
+
+- It is now established that the Solar System formed about 4.56 billion years ago. This estimate comes from looking at meteorites.  We can use radiometric dating techniques looking at the decay of radioactive elements to measure their age, and these deliver the oldest ages we can measure for Solar System bodies.
+- For the Moon, we can use the rocks that were brought back by astronauts from the Apollo missions. We find that all these rocky bodies appear to form rather quickly, within tens of millions of years after the initial formation of the Solar System, 4.56 billion years ago.
+- **Another feature of the Solar System that provides the clues to its origin is the fact that all planets orbit the Sun in the same plane to within a few degrees, and they all move in the same direction, and almost all of them rotate around their axes in the same sense as well. There are a couple of exception to this: Venus rotates slowly backwards compared with the rest of the Solar System, and Uranus (as mentioned before) appears to spin on its side.**
+
+#### The Solar Nebula Theory
+
 ### 2.2 The Earth - Evolution of a habitable planet
 
 > Formation of the Earth and Moon. Age of the Earth. The heavy bombardment. Plate tectonics. Formation of oceans and continents. Evolution of the atmosphere. The faint-young Sun paradox and its resolution.
