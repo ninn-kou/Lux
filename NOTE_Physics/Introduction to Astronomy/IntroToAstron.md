@@ -534,7 +534,7 @@ A major advance in astronomy was reported on Feb 11th 2016 when a large consorti
 
 #### Outer Solar System
 
-- All four outer planets have ring systems. Though Saturn's are by far the most prominent, Jupiter also has a faint ring system as does Uranus and Neptune.
+All four outer planets have ring systems. Though Saturn's are by far the most prominent, Jupiter also has a faint ring system as does Uranus and Neptune.
 
 | Planets     | Key Features                                                                                                                           |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -559,7 +559,7 @@ A major advance in astronomy was reported on Feb 11th 2016 when a large consorti
 - The Kuiper belt is a ring of bodies orbiting in the outer Solar System, mostly beyond the planet Neptune.
 - <img src="./img/2-1-2.jpg" alt="6 Largest Kuiper Belt Objects" width="480">
 - Kuiper belt objects orbit the Sun in the outer Solar System mostly outside the orbit of the outermost planet Neptune. However Pluto actually has an orbit that crosses over Neptune's orbit. So sometimes Pluto is inside the orbit of Neptune, making it closer to the Sun than Neptune.
-- <img src="./img/2-1-3.jpg" alt="Neptune and Pluto" width="480">
+- <img src="./img/2-1-3.png" alt="Neptune and Pluto" width="480">
 
 #### Dwarf Planets, Asteroids and Comets
 
@@ -575,11 +575,40 @@ A major advance in astronomy was reported on Feb 11th 2016 when a large consorti
 
 #### Formation of the Solar System
 
-- It is now established that the Solar System formed about 4.56 billion years ago. This estimate comes from looking at meteorites.  We can use radiometric dating techniques looking at the decay of radioactive elements to measure their age, and these deliver the oldest ages we can measure for Solar System bodies.
-- For the Moon, we can use the rocks that were brought back by astronauts from the Apollo missions. We find that all these rocky bodies appear to form rather quickly, within tens of millions of years after the initial formation of the Solar System, 4.56 billion years ago.
-- **Another feature of the Solar System that provides the clues to its origin is the fact that all planets orbit the Sun in the same plane to within a few degrees, and they all move in the same direction, and almost all of them rotate around their axes in the same sense as well. There are a couple of exception to this: Venus rotates slowly backwards compared with the rest of the Solar System, and Uranus (as mentioned before) appears to spin on its side.**
+It is now established that the Solar System formed about 4.56 billion years ago. This estimate comes from looking at meteorites.  We can use radiometric dating techniques looking at the decay of radioactive elements to measure their age, and these deliver the oldest ages we can measure for Solar System bodies.
+
+For the Moon, we can use the rocks that were brought back by astronauts from the Apollo missions. We find that all these rocky bodies appear to form rather quickly, within tens of millions of years after the initial formation of the Solar System, 4.56 billion years ago.
+
+**Another feature of the Solar System that provides the clues to its origin is the fact that all planets orbit the Sun in the same plane to within a few degrees, and they all move in the same direction, and almost all of them rotate around their axes in the same sense as well. There are a couple of exception to this: Venus rotates slowly backwards compared with the rest of the Solar System, and Uranus (as mentioned before) appears to spin on its side.**
 
 #### The Solar Nebula Theory
+
+It offered explanations for a variety of properties of the Solar System, including the **nearly circular and coplanar orbits of the planets**, and their motion **in the same direction as the Sun's rotation**. Some elements of the original nebular theory are echoed in modern theories of **planetary formation**, but most elements have been superseded. [Wikipedia](https://en.wikipedia.org/wiki/Nebular_hypothesis)
+
+<img src="./img/2-1-4.jpg" alt="Various planet formation processes, including exocomets and other planetesimals, around Beta Pictoris, a very young type A V star (NASA artist's conception)." width="480">
+
+- **Planets:**
+    - We believe that the planets form out of this dusty material by a process called accretion.
+    - This builds up large bodies from small dust grains. Initially dust grains combine together to form kilometre-sized bodies called planetesimals.
+    - These then combine to form proto-planets several hundred kilometres in size. The largest proto-planets accrete more material to become planets.
+    - In the inner Solar System it is hot enough that planets can only form out of the dust that makes rocky planets.
+    - In the outer Solar System, where it is colder outside what is called a "frost line", there are also ices available as a material to form planetary cores.
+    - If the core of such a planet gets sufficiently massive (around ten Earth masses) it will have enough mass to pull in gas from the nebula and so form a gas giant planet. The result is the formation of giant planets in the outer parts, and the rocky planets in the inner parts, of the Solar System.
+- **Planetary Satellites:**
+    - The large satellite systems of giant planets probably formed from the disks of materials around the planet. That is, the giant planets formed like Solar System in miniature, each with their own accretion disk. In addition, some of the smaller satellites are probably captured asteroids or comets. This would include the Martian satellites Phobos and Deimos and probably many of the smaller satellites of outer planets.
+    - **Moon:**
+        - The mostly accepted theory for the formation of the Moon is that it arose from the collision of the Earth with a Mars size body very early in the Solar System's history.
+        - The models of this collision have determined that you can produce an object like the Moon when a body of mass similar to Mars (which is about one 10th of the mass of the Earth) hits our planet.
+        - This impact model explains a number of features of the Earth-Moon system, such as a very large angular momentum, which can be produced by the momentum carried by the impacting body. It also explains the low density of the Moon, because the Moon formed from the outer mantle parts impactor, while the core of the impacting body ended up in the core of the Earth. The model also explains the lack of volatile elements on the Moon.
+    - **The Unusual Rotation of Venus or Uranus:**
+        - Venus rotates slowly backwards, Uranus rotates on its side with its rotation axis inclined at about 90 degrees.
+        - This could be explained by it being knocked over by a collision with another object in the early Solar System.
+    - So it looks like there was a relatively violent phase in the early Solar System when there were many collisions between proto-planetary objects. The images of our own Moon and Mercury show a cratered surface that bears the scars of such violent bombardment by the small bodies left-over from the early phase of planetary formation processes.
+- **Planetary Atmospheres:**
+    - The giant planets have what are called "primary atmospheres" that were probably accreted from the Solar Nebula. These are made out from the original gases in the Solar Nebula (mainly hydrogen and helium), from which they also form molecules like methane and ammonia.
+    - However terrestrial planets are not massive enough to hold on to this original atmosphere of hydrogen (hydrogen atoms are so low in mass that it easily escapes fro the Earth's gravitational pull).
+    - So the terrestrial planets' atmospheres are thought to be secondary atmospheres. The main process that is thought to be important in the formation of such atmospheres are gasses coming from the planet itself, in a process called outgassing.
+    - Volcanism puts gases including carbon dioxide, nitrogen, carbon monoxide, water vapour and sulphur oxides into the atmosphere There would not have been any oxygen in the atmospheres of the terrestrial planets initially. There is no oxygen currently in the atmosphere of Mars and Venus. Oxygen is something that was added later to the Earth's atmosphere by the action of life, through photosynthesis in cyanobacteria originally, and later in plants.
 
 ### 2.2 The Earth - Evolution of a habitable planet
 
