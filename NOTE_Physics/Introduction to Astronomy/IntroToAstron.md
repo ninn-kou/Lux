@@ -609,6 +609,10 @@ It offered explanations for a variety of properties of the Solar System, includi
     - However terrestrial planets are not massive enough to hold on to this original atmosphere of hydrogen (hydrogen atoms are so low in mass that it easily escapes fro the Earth's gravitational pull).
     - So the terrestrial planets' atmospheres are thought to be secondary atmospheres. The main process that is thought to be important in the formation of such atmospheres are gasses coming from the planet itself, in a process called outgassing.
     - Volcanism puts gases including carbon dioxide, nitrogen, carbon monoxide, water vapour and sulphur oxides into the atmosphere There would not have been any oxygen in the atmospheres of the terrestrial planets initially. There is no oxygen currently in the atmosphere of Mars and Venus. Oxygen is something that was added later to the Earth's atmosphere by the action of life, through photosynthesis in cyanobacteria originally, and later in plants.
+- **Archean Earth:**
+    - If we look at all the objects in the Solar System that have old surfaces, we see that these surfaces are all heavily cratered. This is evidence of the final stage of the building up of planets by accretion. So for example we see craters on Mars, on the Moon and on Mercury.
+    - Even on objects like Callisto and Enceladus in the outer Solar System, we see cratered surfaces, though these craters are seen in ice - it is cold enough in the outer Solar System that ices behave very much like a rock.
+    - So these cratered surfaces can be regarded as the evidence of the final stage of planetary formation and the proof of the accretion theory of the formation of planets.
 
 ### 2.2 The Earth - Evolution of a habitable planet
 
