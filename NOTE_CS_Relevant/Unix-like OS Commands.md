@@ -2,13 +2,13 @@
 
 ## Representation of Paths
 
-| PATH                | COMMAND |
-|---------------------|---------|
-| Root Directory      | `/`     |
-| Directory Separator | `/`     |
-| Current Directory   | `.`     |
-| Parent Directory    | `..`    |
-| Home Directory      | `~`     |
+| PATH                | COMMAND | EXAMPLE                  |
+|---------------------|---------|--------------------------|
+| Root Directory      | `/`     | `cd /`                   |
+| Home Directory      | `~`     | `~/.rcinfo`              |
+| Directory Separator | `/`     |                          |
+| Current Directory   | `.`     | `./inthisdir`            |
+| Parent Directory    | `..`    | `../../greatgrandparent` |
 
 ## Basic Shell Commands
 
