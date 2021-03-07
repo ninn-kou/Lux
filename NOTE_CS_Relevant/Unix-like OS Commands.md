@@ -1,4 +1,16 @@
-# Unix Commands
+# Unix-like OS Commands
+
+## Representation of Paths
+
+| PATH                | COMMAND |
+|---------------------|---------|
+| Root Directory      | `/`     |
+| Directory Separator | `/`     |
+| Current Directory   | `.`     |
+| Parent Directory    | `..`    |
+| Home Directory      | `~`     |
+
+## Basic Shell Commands
 
 - `pwd`: Show the current full path.
 - `ls`: **List** files in the current direction.
