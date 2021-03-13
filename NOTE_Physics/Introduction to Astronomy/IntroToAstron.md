@@ -618,6 +618,7 @@ It offered explanations for a variety of properties of the Solar System, includi
 
 > Formation of the Earth and Moon. Age of the Earth. The heavy bombardment. Plate tectonics. Formation of oceans and continents. Evolution of the atmosphere. The faint-young Sun paradox and its resolution.
 
+| Body / Method                                                         | Age (Byr)     |
 ### 2.3 Exploring the Solar System
 
 > Getting to a planet. Types of space missions. The key planetary exploration mission and what we have learnt from them. Ground-based studies of the planets.
