@@ -4,28 +4,11 @@ TODO: Re-style this documents.
 
 ## Some Useful Commands
 
-### Paths
-
-- `/.`
-- `/..`
-- `./`
-- `../`
-- `../../`
-- `~/`
-
 ### Basic Commands
 
-- `cd`
 - `cp`
-- `mkdir`
-- `ls`
-  - `ls -a`
 - `ssh`
 - `git`
-- `rm`
-  - `rm -r`
-  - `rm -f`
-- `mv`
 
 ### Remove Specific Files Recursively
 
