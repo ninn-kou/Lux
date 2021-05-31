@@ -14,12 +14,12 @@
 
 ```
 ... 0 1 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 1 ... // Infinitely Long Type
-					|----^----|				// Head --> Read & Move
-				111010(B) = 58(Decimal)
-											// State Register
-											// 1. Replace/Erase
-											// 2. L/F/N
-											// 3. Keep/Change to another state
+                    |----^----|             // Head --> Read & Move
+                111010(B) = 58(Decimal)
+                                            // State Register
+                                            // 1. Replace/Erase
+                                            // 2. L/F/N
+                                            // 3. Keep/Change to another state
 ```
 
 ### Hardware
@@ -58,7 +58,7 @@ Eg. for NPC: Subset sum problem --> O(2^n);
 
 #### Analysis of Algorithms
 
-- Bubbble Sort -> O(n^2)
+- Bubble Sort -> O(n^2)
 
 - Merge Sort -> O(n\*log(n))
 
@@ -79,10 +79,10 @@ How **to** slove the problem by computers?
 ### Scheduling
 
 ```
-		Steam		Videos		Browser		Music		// Processes
-	[________________________________________________]
-							|
-						Scheduler --> CPU(1,2,3,4....)	// Multiprocessing
+    Steam      Videos      Browser      Music      // Processes
+[________________________________________________]
+                        |
+                    Scheduler --> CPU(1,2,3,4....) // Multiprocessing
 ```
 
 ### Computer Architecture
@@ -90,9 +90,9 @@ How **to** slove the problem by computers?
 Central Processing Unit.
 
 ```
-	Input --> CPU --> Output
-			   |
-			Memory Unit
+Input --> CPU --> Output
+           |
+        Memory Unit
 ```
 
 GPU --> Multiprocessors  
@@ -101,12 +101,14 @@ FPGA --> Logic Block, Interconnection, Input/Output, Switch Box, Connect Block
 ### Software and Programming Languages
 
 ```
-	Silicon --> BIOS --> Operating System --> Applications --> Browser --> Web Apps
+Silicon --> BIOS --> Operating System --> Applications --> Browser --> Web Apps
+```
 
-			Assembly		C 					SQL			PERL		JavaScript
-							C++					PHP			Python
-									C#			Swift
-									Java
+```
+Assembly     C     SQL     PERL     JavaScript
+             C++   PHP     Python
+             C#    Swift
+             Java
 ```
 
 #### Compliers
