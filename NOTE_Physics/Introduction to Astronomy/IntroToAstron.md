@@ -618,7 +618,32 @@ It offered explanations for a variety of properties of the Solar System, includi
 
 > Formation of the Earth and Moon. Age of the Earth. The heavy bombardment. Plate tectonics. Formation of oceans and continents. Evolution of the atmosphere. The faint-young Sun paradox and its resolution.
 
+#### Age of Earth
+
+- The isotopes have been used to determine the age of planets.
+- The Earth and the Moon formed pretty early in the history of the Solar system.
+
 | Body / Method                                                         | Age (Byr)     |
+| Age of Earth's differentiation (U-Pb and Hf-W methods) (McCulloch 1996, JRSWA, 79, 131; Kleine et al. 2002, Nature, 418, 952) | Age of Earth's differentiation (U-Pb and Hf-W methods) (McCulloch 1996, JRSWA, 79, 131; Kleine et al. 2002, Nature, 418, 952) | 4.49 - 4.53 |
+| **The Moon**                                                          |               |
+| Oldest Lunar Rocks                                                    | 4.42 - 4.51   |
+| Lunar Crust Formation (Hf-W)                                          | 4.53 ± 0.01   |
+| **Meteorites**                                                        |               |
+| Oldest Chondrites                                                     | 4.555         |
+| CAIs in Allende meteorite (Allegre et al. 1995, GCA, 59, 1445)        | 4.566 ± 0.002 |
+| **The Sun**                                                           |               |
+| From Solar oscillation data (Guenther & Demarque 1997, ApJ, 484, 937) | 4.5 ± 0.1     |
+
+#### Structure of Earth
+
+<img src="./img/2-2-1.gif" alt="Inner regions of Earth" width="640">
+
+#### Continental Drift
+
+- There had been evidence to suggest that continents moved around on the Earth’s surface, the idea of continental drift. This idea had been championed by Alfred Wegener as early as 1912.
+- Part of this evidence came from the coastlines of the continents. South America and Africa for example, seemed to fit together quite well. Which suggested that they’d originally been together and then slowly moved apart.
+- Further evidence came form the occurrence of similar fossils on different continents.
+
 ### 2.3 Exploring the Solar System
 
 > Getting to a planet. Types of space missions. The key planetary exploration mission and what we have learnt from them. Ground-based studies of the planets.
