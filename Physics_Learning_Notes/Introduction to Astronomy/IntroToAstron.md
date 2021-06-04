@@ -624,6 +624,9 @@ It offered explanations for a variety of properties of the Solar System, includi
 - The Earth and the Moon formed pretty early in the history of the Solar system.
 
 | Body / Method                                                         | Age (Byr)     |
+|-----------------------------------------------------------------------|---------------|
+| **The Earth**                                                         |               |
+| Oldest Minerals (Wilde et al. 2001, Nature, 409, 175)                 | 4.404±0.008   |
 | Age of Earth's differentiation (U-Pb and Hf-W methods) (McCulloch 1996, JRSWA, 79, 131; Kleine et al. 2002, Nature, 418, 952) | Age of Earth's differentiation (U-Pb and Hf-W methods) (McCulloch 1996, JRSWA, 79, 131; Kleine et al. 2002, Nature, 418, 952) | 4.49 - 4.53 |
 | **The Moon**                                                          |               |
 | Oldest Lunar Rocks                                                    | 4.42 - 4.51   |
