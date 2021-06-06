@@ -31,6 +31,16 @@
 - [X] [1528. Shuffle String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1528.%20Shuffle%20String/1528.%20Shuffle%20String.md) `C`
 - [X] [1716. Calculate Money in LeetCode Bank](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1716.%20Calculate%20Money%20in%20LeetCode%20Bank/1716.%20Calculate%20Money%20in%20LeetCode%20Bank.md) `C`
 
+## Computer Science Relevant Notes
+
+## Mathematics Notes
+
+## Physics Notes
+
+## App Ideas
+
+## Other Codes or Files
+
 ## Copyright
 
 *All rights reserved until further notice to change it.*
