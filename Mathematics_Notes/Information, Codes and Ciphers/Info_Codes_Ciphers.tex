@@ -1,6 +1,7 @@
 \documentclass{article}
 
 \usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage{thmtools}
 \usepackage{graphicx}
 \usepackage{setspace}
 \usepackage{geometry}
@@ -8,10 +9,32 @@
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+\usepackage{framed}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tcolorbox}
 
-\newtheorem{theorem}{Theorem}[section]
-\newtheorem{proposition}[theorem]{Proposition}
-\newtheorem{principle}[theorem]{Principle}
+\colorlet{LightGray}{White!90!Periwinkle}
+\colorlet{LightOrange}{Orange!15}
+\colorlet{LightGreen}{Green!15}
+
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}}
+\onehalfspacing
+
+\declaretheoremstyle[name=Theorem,]{thmsty}
+\declaretheorem[style=thmsty,numberwithin=section]{theorem}
+\tcolorboxenvironment{theorem}{colback=LightGray}
+
+\declaretheoremstyle[name=Proposition,]{prosty}
+\declaretheorem[style=prosty,numberlike=theorem]{proposition}
+\tcolorboxenvironment{proposition}{colback=LightOrange}
+
+\declaretheoremstyle[name=Principle,]{prcpsty}
+\declaretheorem[style=prcpsty,numberlike=theorem]{principle}
+\tcolorboxenvironment{principle}{colback=LightGreen}
+
+\declaretheoremstyle[name=Example,]{egsty}
+\declaretheorem[style=egsty,numberlike=theorem]{example}
+\tcolorboxenvironment{example}{colback=Red}
 
 \setstretch{1.2}
 \geometry{
@@ -25,17 +48,29 @@
 
 \begin{document}
 
-\title{Information, Codes and Ciphers \\
-       \vspace{.625em} Course Summary Notes \footnote{MATH3411, UNSW 20T3.}}
-\author{Hao Ren}
-\date{November 2, 2020}
-\maketitle
+% ------------------------------------------------------------------------------
+% Cover Page and ToC
+% ------------------------------------------------------------------------------
 
+\title{ \normalsize \textsc{}
+		\\ [2.0cm]
+		\HRule{1.5pt} \\
+		\LARGE \textbf{\uppercase{Information, Codes and Ciphers}
+		\HRule{2.0pt} \\ [0.6cm] \LARGE{Course Summary Notes} \vspace*{10\baselineskip}}
+		}
+\date{}
+\author{\textbf{Hao Ren} \\ 
+		Computer Science Undergraduate Student \\
+		University of New South Wales \\
+		Course: MATH3411, 2020 Term 3}
+
+\maketitle
 \newpage
 
 \tableofcontents
-
 \newpage
+
+% ------------------------------------------------------------------------------
 
 \setcounter{section}{-1}
 
