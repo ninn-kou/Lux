@@ -1,5 +1,5 @@
 // Hao Ren
-// z5237203@student.edu.au
+// z5237203@student.unsw.edu.au
 // November 19, 2019
 // It is a functions file for better understanding of linked list.
 // Linked List of Names (Maybe use it in "Contacts:)".
