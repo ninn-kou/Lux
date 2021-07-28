@@ -16,6 +16,7 @@
 - [X] [0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) `C`
 - [X] [0263. Ugly Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0263.%20Ugly%20Number/263.%20Ugly%20Number.md) `C`
 - [X] [0283. Move Zeroes](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0283.%20Move%20Zeroes/283.%20Move%20Zeroes.md) `C`
+- [X] [0289. Game of Life](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0289.%20Game%20of%20Life/289.%20Game%20of%20Life.md) `Java`
 - [X] [0326. Power of Three](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0326.%20Power%20of%20Three/326.%20Power%20of%20Three.md) `C`
 - [X] [0344. Reverse String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0344.%20Reverse%20String/344.%20Reverse%20String.md) `C` `Python`
 - [X] [0345. Reverse Vowels of a String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String/345.%20Reverse%20Vowels%20of%20a%20String.md) `C`
