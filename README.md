@@ -12,6 +12,7 @@
 - [X] [🟠 0075. Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md) `C`
 - [X] [🟢 0121. Best Time to Buy and Sell Stock](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) `C`
 - [X] [🟢 0125. Valid Palindrome](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0125.%20Valid%20Palindrome/125.%20Valid%20Palindrome.md) `C`
+- [X] [🟢 0141. Linked List Cycle](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0141.%20Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.md) `C`
 - [X] [🟢 0206. Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md) `C`
 - [X] [🟢 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) `C`
 - [X] [🟢 0263. Ugly Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0263.%20Ugly%20Number/263.%20Ugly%20Number.md) `C`
