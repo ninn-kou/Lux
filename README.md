@@ -33,52 +33,79 @@
 
 ## Computer Science
 
-### CS - Map of CS
-
-### CS - Unix-like OS Commands
-
 ### COMP - Programming Fundamentals
+
+[Markdown Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Programming%20Fundamentals/Programming%20Fundamentals.md)
+- [ ] 1. "Hello World!"
+  - [X] 1.1 Comments
+  - [X] 1.2 The First C Program
+  - [X] 1.3 #include <...>
+  - [ ] 1.4 Why Do We Need the "stdio.h"?
+  - [X] 1.5 What Is the "printf(...)"?
+  - [X] 1.6 Main Function
+- [ ] 2. C Foundations
+  - [ ] 2.1 Basic Data Types
+  - [X] 2.2 If Statements
+  - [X] 2.3 Loop Statements
+  - [ ] 2.4 Switch, continue And break
+  - [ ] 2.5 Struct
+- [ ] 3. Functions in C Standard Libraries
+- [X] 4. Pointers and Addresses
+  - [X] 4.1 A Pointer Example
+  - [X] 4.2 Demonstrations
+  - [X] 4.3 No Dangling Pointer
+- [ ] 5. Multiple Files and Arguments
+- [ ] 6. Arrays and Strings
+- [ ] 7. Linked Lists
+- [ ] 8. Two ADTs
+  - [ ] 8.1 Stacks
+  - [ ] 8.2 Queues
+
+### Others CS-related Short Notes
+
+- [Map of CS](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Others/map-of-cs.md)
+- [Unix-like OS Commands](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Others/Unix-like%20OS%20Commands.md)
+
 
 ## Mathematics
 
 ### MATH - Information, Codes and Ciphers
 
-  - [ ] Chapter 1. Introduction
-  - [ ] Chapter 2. Error Detecting and Correcting Codes
-  - [X] Chapter 3. Compression Coding
-  - [ ] Chapter 4. Information Theory
-  - [ ] Chapter 5. Algebra and Number Theory
-  - [ ] Chapter 6. Algebraic Coding
-  - [ ] Chapter 7. Cryptography (Ciphers)
+[PDF Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Mathematics/Information%2C%20Codes%20and%20Ciphers/Info_Codes_Ciphers.pdf)
+[LaTeX Source](https://www.overleaf.com/project/609e81b35a26a707b6a2c8fa)
+- [ ] Chapter 1. Introduction
+- [ ] Chapter 2. Error Detecting and Correcting Codes
+- [X] Chapter 3. Compression Coding
+- [ ] Chapter 4. Information Theory
+- [ ] Chapter 5. Algebra and Number Theory
+- [ ] Chapter 6. Algebraic Coding
+- [ ] Chapter 7. Cryptography (Ciphers)
 
 ## Physics
 
 ### PHYS - Introduction to Astronomy
 
-  - [X] 1.1 Introduction to Astronomy
-  - [X] 1.2 Introduction to Astrobiology
-  - [X] 1.3 Key Concepts
-  - [X] 1.4 Techniques of Astronomy
-  - [X] 2.1 The Solar System
-  - [X] 2.2 The Earth - Evolution of a habitable planet
-  - [ ] 2.3 Exploring the Solar System
-  - [ ] 2.4 Habitability in the Solar System
-  - [ ] 3.1 What is Life?
-  - [ ] 3.2 The History of Life on Earth
-  - [ ] 3.3 The Origin of Life
-  - [ ] 3.4 Life in the Solar System
-  - [ ] 4.1 Our Star, The Sun
-  - [ ] 4.2 Properties and Evolution of Stars
-  - [ ] 4.3 Extrasolar Planets
-  - [ ] 4.4 Habitability and Life on Exoplanets
-  - [ ] 5.1 Our Milky Way Galaxy
-  - [ ] 5.2 Recycling of Material in the Galaxy
-  - [ ] 5.3 Galaxies and their Evolution
-  - [ ] 5.4 Cosmology
-
-## App Ideas
-
-## Other Codes or Files
+[Markdown Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Physics/Introduction%20to%20Astronomy/IntroToAstron.md)
+- [X] 1.1 Introduction to Astronomy
+- [X] 1.2 Introduction to Astrobiology
+- [X] 1.3 Key Concepts
+- [X] 1.4 Techniques of Astronomy
+- [X] 2.1 The Solar System
+- [X] 2.2 The Earth - Evolution of a habitable planet
+- [ ] 2.3 Exploring the Solar System
+- [ ] 2.4 Habitability in the Solar System
+- [ ] 3.1 What is Life?
+- [ ] 3.2 The History of Life on Earth
+- [ ] 3.3 The Origin of Life
+- [ ] 3.4 Life in the Solar System
+- [ ] 4.1 Our Star, The Sun
+- [ ] 4.2 Properties and Evolution of Stars
+- [ ] 4.3 Extrasolar Planets
+- [ ] 4.4 Habitability and Life on Exoplanets
+- [ ] 5.1 Our Milky Way Galaxy
+- [ ] 5.2 Recycling of Material in the Galaxy
+- [ ] 5.3 Galaxies and their Evolution
+- [ ] 5.4 Cosmology
 
 ## Copyright
 
