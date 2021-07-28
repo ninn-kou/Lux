@@ -31,11 +31,50 @@
 - [X] [1528. Shuffle String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1528.%20Shuffle%20String/1528.%20Shuffle%20String.md) `C`
 - [X] [1716. Calculate Money in LeetCode Bank](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1716.%20Calculate%20Money%20in%20LeetCode%20Bank/1716.%20Calculate%20Money%20in%20LeetCode%20Bank.md) `C`
 
-## Computer Science Relevant Notes
+## Computer Science
 
-## Mathematics Notes
+### CS - Map of CS
 
-## Physics Notes
+### CS - Unix-like OS Commands
+
+### COMP - Programming Fundamentals
+
+## Mathematics
+
+### MATH - Information, Codes and Ciphers
+
+  - [ ] Chapter 1. Introduction
+  - [ ] Chapter 2. Error Detecting and Correcting Codes
+  - [X] Chapter 3. Compression Coding
+  - [ ] Chapter 4. Information Theory
+  - [ ] Chapter 5. Algebra and Number Theory
+  - [ ] Chapter 6. Algebraic Coding
+  - [ ] Chapter 7. Cryptography (Ciphers)
+
+## Physics
+
+### PHYS - Introduction to Astronomy
+
+  - [X] 1.1 Introduction to Astronomy
+  - [X] 1.2 Introduction to Astrobiology
+  - [X] 1.3 Key Concepts
+  - [X] 1.4 Techniques of Astronomy
+  - [X] 2.1 The Solar System
+  - [X] 2.2 The Earth - Evolution of a habitable planet
+  - [ ] 2.3 Exploring the Solar System
+  - [ ] 2.4 Habitability in the Solar System
+  - [ ] 3.1 What is Life?
+  - [ ] 3.2 The History of Life on Earth
+  - [ ] 3.3 The Origin of Life
+  - [ ] 3.4 Life in the Solar System
+  - [ ] 4.1 Our Star, The Sun
+  - [ ] 4.2 Properties and Evolution of Stars
+  - [ ] 4.3 Extrasolar Planets
+  - [ ] 4.4 Habitability and Life on Exoplanets
+  - [ ] 5.1 Our Milky Way Galaxy
+  - [ ] 5.2 Recycling of Material in the Galaxy
+  - [ ] 5.3 Galaxies and their Evolution
+  - [ ] 5.4 Cosmology
 
 ## App Ideas
 
