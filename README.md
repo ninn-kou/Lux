@@ -33,7 +33,7 @@
 - [X] [🟢 1512. Number of Good Pairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1512.%20Number%20of%20Good%20Pairs/1512.%20Number%20of%20Good%20Pairs.md) `C`
 - [X] [🟢 1528. Shuffle String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1528.%20Shuffle%20String/1528.%20Shuffle%20String.md) `C`
 - [X] [🟢 1716. Calculate Money in LeetCode Bank](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1716.%20Calculate%20Money%20in%20LeetCode%20Bank/1716.%20Calculate%20Money%20in%20LeetCode%20Bank.md) `C`
-- [X] [🟢 1952. Three Divisors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1952.%20Three%20Divisors/1952.%20Three%20Divisors.md) `C`
+- [X] [🟢 1952. Three Divisors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1952.%20Three%20Divisors/1952.%20Three%20Divisors.md) `C` `Python` `Java`
 
 ## Computer Science
 
