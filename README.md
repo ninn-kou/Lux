@@ -33,7 +33,7 @@
 - [X] [🟢 1512. Number of Good Pairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1512.%20Number%20of%20Good%20Pairs/1512.%20Number%20of%20Good%20Pairs.md) `C`
 - [X] [🟢 1528. Shuffle String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1528.%20Shuffle%20String/1528.%20Shuffle%20String.md) `C`
 - [X] [🟢 1716. Calculate Money in LeetCode Bank](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1716.%20Calculate%20Money%20in%20LeetCode%20Bank/1716.%20Calculate%20Money%20in%20LeetCode%20Bank.md) `C`
-- [X] [🟢 1929. Concatenation of Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1929.%20Concatenation%20of%20Array/1929.%20Concatenation%20of%20Array.md) `Python`
+- [X] [🟢 1929. Concatenation of Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1929.%20Concatenation%20of%20Array/1929.%20Concatenation%20of%20Array.md) `C` `Python`
 - [X] [🟢 1952. Three Divisors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1952.%20Three%20Divisors/1952.%20Three%20Divisors.md) `C` `Python` `Java` <br> [🌟 LeetCode Discussion Page](https://leetcode.com/problems/three-divisors/discuss/1388527/Easy-math-with-explanation-or-100-faster-for-ALL-languages-or-O(log5+epsilon(n))-fastest)
 
 ## Computer Science
