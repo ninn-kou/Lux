@@ -72,9 +72,9 @@ int findValue(SinglyList *linkedList, int value) {
     return isFound;
 }
 
-int size(SinglyList *linkedlist) {
+int size(SinglyList *linkedList) {
     int size = 0;
-    ListNode *current = linkedlist->head;
+    ListNode *current = linkedList->head;
     while (current != NULL) {
         size++;
         current = current->next;
