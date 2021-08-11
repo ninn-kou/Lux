@@ -9,6 +9,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * The singly linked list data structure.
+ */
 
 typedef struct node {
     int val;
@@ -19,6 +22,9 @@ typedef struct list {
     ListNode *head;
 } SinglyList;
 
+/**
+ * Initializing.
+ */
 
 SinglyList *createSinglyList() {
     SinglyList *list = (SinglyList *)malloc(sizeof(SinglyList));
@@ -33,6 +39,10 @@ ListNode *createNode(int value) {
     return new;
 }
 
+/**
+ * Node inserting.
+ */
+
 void insertNodeAfter(ListNode *node, ListNode *insert) {
     insert->next = node->next;
     node->next = insert;
@@ -42,6 +52,10 @@ void insertNodeHead(SinglyList *linkedList, ListNode *insert) {
     insert->next = linkedList->head;
     linkedList->head = insert;
 }
+
+/**
+ * Node removing.
+ */
 
 void removeNodeAfter(ListNode *node) {
     if (node->next != NULL) {
@@ -64,6 +78,10 @@ void removeNodeHead(SinglyList *linkedList) {
         printf("The node you want to delete does not exist.\n");
     }
 }
+
+/**
+ * Other singly linked list related functions.
+ */
 
 int findValue(SinglyList *linkedList, int value) {
     int isFound = 0;
@@ -116,6 +134,8 @@ void freeList(SinglyList *linkedList) {
 
 
 /**
+ * @Test
+ *
  * To run tests, execute following commands:
  *   $ clang singly_linked_list.c -o singly_linked_list
  *   $ ./singly_linked_list
