@@ -19,7 +19,12 @@ typedef struct list {
     ListNode *head;
 } SinglyList;
 
-// ----------------------------------------------------------------------------
+
+SinglyList *createSinglyList() {
+    SinglyList *list = (SinglyList *)malloc(sizeof(SinglyList));
+    list->head = NULL;
+    return list;
+}
 
 ListNode *createNode(int value) {
     ListNode *new = (ListNode *)malloc(sizeof(ListNode));
@@ -109,7 +114,6 @@ void freeList(SinglyList *linkedList) {
     linkedList = NULL;
 }
 
-// ----------------------------------------------------------------------------
 
 /**
  * To run tests, execute following commands:
@@ -118,9 +122,7 @@ void freeList(SinglyList *linkedList) {
  * and expected outputs would be showed below each testing part.
  */
 void testVisually_SinglyLinkedList() {
-    SinglyList *singly = (SinglyList *)malloc(sizeof(SinglyList));
-    singly->head = NULL;
-
+    SinglyList *singly = createSinglyList();
     ListNode *one = createNode(1);
     ListNode *two = createNode(2);
     ListNode *four = createNode(4);
@@ -218,7 +220,6 @@ void testVisually_SinglyLinkedList() {
     freeList(singly);
 }
 
-// ----------------------------------------------------------------------------
 
 int main(void) {
     testVisually_SinglyLinkedList();
