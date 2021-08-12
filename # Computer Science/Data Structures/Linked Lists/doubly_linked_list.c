@@ -88,22 +88,18 @@ void insertNodeTail(DoublyList *linkedList, ListNode *new) {
  */
 
 void removeNode(DoublyList *linkedList, ListNode *node) {
-    if (node != NULL) {
-        if (node->prev != NULL) {
-            node->prev->next = node->next;
-        } else {
-            linkedList->head = node->next;
-        }
-        if (node->next != NULL) {
-            node->next->prev = node->prev;
-        } else {
-            linkedList->tail = node->prev;
-        }
-        free(node);
-        node = NULL;
+    if (node->prev != NULL) {
+        node->prev->next = node->next;
     } else {
-        printf("removeNode(): DNE ERROR\n");
+        linkedList->head = node->next;
     }
+    if (node->next != NULL) {
+        node->next->prev = node->prev;
+    } else {
+        linkedList->tail = node->prev;
+    }
+    free(node);
+    node = NULL;
 }
 
 /**
@@ -315,6 +311,38 @@ void testVisually_DoublyLinkedList() {
     insertNodeBefore(doubly, max, five_dump3);
     insertNodeBefore(doubly, fifty, five_dump4);
     printf("Search five: %d\n", search(doubly, 5));
+    printf("Size: %d\n", size(doubly));
+    printDoublyListForwards(doubly);
+    printDoublyListBackwards(doubly);
+
+    // Testing: removeNode();
+    // Head, Tail and Normal Cases
+    //
+    // Expected Output:
+    //     Size: 6
+    //     NULL <-> 1 <-> 5 <-> 10 <-> 20 <-> 30 <-> 50 <-> NULL
+    //     NULL <-> 50 <-> 30 <-> 20 <-> 10 <-> 5 <-> 1 <-> NULL
+    removeNode(doubly, doubly->head);
+    removeNode(doubly, doubly->tail);
+    removeNode(doubly, five_dump1);
+    removeNode(doubly, five_dump2);
+    removeNode(doubly, five_dump3);
+    removeNode(doubly, five_dump4);
+    printf("Size: %d\n", size(doubly));
+    printDoublyListForwards(doubly);
+    printDoublyListBackwards(doubly);
+
+    // Testing: removeNode();
+    // node->prev and node->next Cases
+    //
+    // Expected Output:
+    //     Size: 2
+    //     NULL <-> 1 <-> 50 <-> NULL
+    //     NULL <-> 50 <-> 1 <-> NULL
+    removeNode(doubly, ten->prev);
+    removeNode(doubly, ten->next);
+    removeNode(doubly, ten->next);
+    removeNode(doubly, ten);
     printf("Size: %d\n", size(doubly));
     printDoublyListForwards(doubly);
     printDoublyListBackwards(doubly);
