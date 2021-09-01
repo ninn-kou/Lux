@@ -40,6 +40,10 @@
 
 ## Computer Science
 
+### COMP - Data Structures
+
+### COMP - Rabbit's Python Tutorials (Data Aspect)
+
 ### COMP - Programming Fundamentals
 
 [Markdown Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Programming%20Fundamentals/Programming%20Fundamentals.md)
@@ -72,7 +76,6 @@
 
 - [Map of CS](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Others/map-of-cs.md)
 - [Unix-like OS Commands](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Others/Unix-like%20OS%20Commands.md)
-
 
 ## Mathematics
 
