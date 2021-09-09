@@ -7,6 +7,7 @@
 ## LeetCode Problems & Solutions
 
 - [X] [🟢 0001. Two Sum](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0001.%20Two%20Sum/1.%20Two%20Sum.md) `C`
+- [X] [🟢 0027. Remove Element](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0027.%20Remove%20Element/27.%20Remove%20Element.md) `Python`
 - [X] [🟠 0050. Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md) `C`
 - [X] [🟢 0058. Length of Last Word](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0058.%20Length%20of%20Last%20Word/58.%20Length%20of%20Last%20Word.md) `C`
 - [X] [🟠 0075. Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md) `C`
