@@ -28,6 +28,7 @@
 - [X] [🟢 0876. Middle of the Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) `C`
 - [X] [🟢 1119. Remove Vowels from a String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1119.%20Remove%20Vowels%20from%20a%20String/1119.%20Remove%20Vowels%20from%20a%20String.md) `C`
 - [X] [🟠 1227. Airplane Seat Assignment Probability](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1227.%20Airplane%20Seat%20Assignment%20Probability/1227.%20Airplane%20Seat%20Assignment%20Probability.md) `C` `Python`
+- [X] [🟢 1290. Convert Binary Number in a Linked List to Integer](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) `C`
 - [X] [🟢 1342. Number of Steps to Reduce a Number to Zero](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.md) `C`
 - [X] [🟢 1480. Running Sum of 1d Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1480.%20Running%20Sum%20of%201d%20Array/1480.%20Running%20Sum%20of%201d%20Array.md) `C`
 - [X] [🟢 1486. XOR Operation in an Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1486.%20XOR%20Operation%20in%20an%20Array/1486.%20XOR%20Operation%20in%20an%20Array.md) `C`
