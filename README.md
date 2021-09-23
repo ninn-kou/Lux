@@ -42,6 +42,8 @@
 
 ## Computer Science
 
+### COMP - Algorithms & Programming Techniques
+
 ### COMP - Data Structures
 
 ### COMP - Rabbit's Python Tutorials (Data Aspect)
