@@ -23,6 +23,7 @@
 - [X] [🟢 0326. Power of Three](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0326.%20Power%20of%20Three/326.%20Power%20of%20Three.md) `C`
 - [X] [🟢 0344. Reverse String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0344.%20Reverse%20String/344.%20Reverse%20String.md) `C` `Python`
 - [X] [🟢 0345. Reverse Vowels of a String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0345.%20Reverse%20Vowels%20of%20a%20String/345.%20Reverse%20Vowels%20of%20a%20String.md) `C`
+- [X] [🟢 0495. Teemo Attacking](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0495.%20Teemo%20Attacking/495.%20Teemo%20Attacking.md) `C` `Python`
 - [X] [🟢 0541. Reverse String II](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0541.%20Reverse%20String%20II/541.%20Reverse%20String%20II.md) `C`
 - [X] [🟢 0709. To Lower Case](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0709.%20To%20Lower%20Case/709.%20To%20Lower%20Case.md) `C`
 - [X] [🟢 0876. Middle of the Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) `C`
