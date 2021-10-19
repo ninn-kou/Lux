@@ -14,6 +14,7 @@
 - [X] [🟢 0083. Remove Duplicates from Sorted List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) `C`
 - [X] [🟢 0121. Best Time to Buy and Sell Stock](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) `C`
 - [X] [🟢 0125. Valid Palindrome](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0125.%20Valid%20Palindrome/125.%20Valid%20Palindrome.md) `C`
+- [X] [🟢 0136. Single Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0136.%20Single%20Number/136.%20Single%20Number.md) `C`
 - [X] [🟢 0141. Linked List Cycle](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0141.%20Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.md) `C`
 - [X] [🟢 0206. Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md) `C`
 - [X] [🟢 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) `C`
