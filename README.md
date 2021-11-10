@@ -10,6 +10,7 @@
 - [X] [🟢 0027. Remove Element](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0027.%20Remove%20Element/27.%20Remove%20Element.md) `Python`
 - [X] [🟠 0050. Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md) `C`
 - [X] [🟢 0058. Length of Last Word](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0058.%20Length%20of%20Last%20Word/58.%20Length%20of%20Last%20Word.md) `C`
+- [X] [🟢 0070. Climbing Stairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0070.%20Climbing%20Stairs/70.%20Climbing%20Stairs.md) `Java`
 - [X] [🟠 0074. Search a 2D Matrix](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0074.%20Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.md) `Python`
 - [X] [🟠 0075. Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md) `C`
 - [X] [🟢 0083. Remove Duplicates from Sorted List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) `C`
