@@ -1,6 +1,6 @@
-# Unix-like OS Commands
+## Unix-like OS Commands
 
-## Representation of Paths
+### Representation of Paths
 
 | PATH                | COMMAND | EXAMPLE                  |
 |---------------------|---------|--------------------------|
@@ -10,7 +10,7 @@
 | Current Directory   | `.`     | `./inthisdir`            |
 | Parent Directory    | `..`    | `../../greatgrandparent` |
 
-## Basic Shell Commands
+### Basic Shell Commands
 
 - `pwd`: Show the current full path.
 - `ls`: List files in the current direction.
@@ -22,21 +22,21 @@
 - `mv {old_path} {new_path}`: Move a file from "old_path" to "new_path", or rename it. Actually, they are same.
 - `cp {source_file} {target_folder}`: Copy files or directories (use "-R" Parameter to indicate recursively copying) to target path.
 
-## Examples
+### Examples
 
-### Remove Specific Files Recursively
+#### Remove Specific Files Recursively
 
 ```
 find . -name "{file_name}" -exec rm -rf {} \;
 ```
 
-### Connect to a Remote Server
+#### Connect to a Remote Server
 
 ```
 ssh {remote_server}
 ```
 
-### Transfer Files between Server and Local PC
+#### Transfer Files between Server and Local PC
 
 ```
 scp {source_file} {target_folder}

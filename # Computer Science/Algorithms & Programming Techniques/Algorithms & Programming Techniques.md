@@ -1,18 +1,18 @@
-# Algorithms and Programming Techniques
+## Algorithms and Programming Techniques
 
 This file is the personal notes of Hao Ren which is based on the course COMP3121 in 2021 Term 3, UNSW.
 
 [TOC]
 
-## 1.Introduction
+### 1.Introduction
 
-### What is an algorithm?
+#### What is an algorithm?
 
 An **algorithm** is **a collection of precisely defined steps** that are executable using certain specified mechanical methods.
 
 By “mechanical” we mean the methods that do not involve any creativity, intuition or even intelligence. Thus, algorithms are specified by detailed, easily repeatable “recipes”.
 
-### Algorithm Example: n-thieves divide the loot fairly
+#### Algorithm Example: n-thieves divide the loot fairly
 
 **Two Thieves:**
 

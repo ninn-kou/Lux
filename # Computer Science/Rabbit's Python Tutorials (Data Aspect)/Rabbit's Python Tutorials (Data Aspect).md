@@ -1,4 +1,4 @@
-# Python Guide for 🐰
+## Python Guide for 🐰
 
 This tutorial is for the Princess of Rabbit, who is a member of the Rabbit Star 🌏 royal family. (Just a joke 😋) It is based on Hao Ren's personal learning notes, 2020 to 2021. Here might be some imprecise descriptions, even some errors. A little part of the contents might be copied from the course COMP1531 in 2020 Term 2, UNSW. It is also based on some open-source learning platforms.
 

@@ -1,6 +1,6 @@
-# [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+## [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
-## Theoretical Computer Science
+### Theoretical Computer Science
 
 - Graph Theory
 - Automata Theory
@@ -10,7 +10,7 @@
 - Formal Methods
 - ......
 
-### Alan Turing -> Turing Machine
+#### Alan Turing -> Turing Machine
 
 ```
 ... 0 1 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 1 ... // Infinitely Long Type
@@ -22,7 +22,7 @@
                                             // 3. Keep/Change to another state
 ```
 
-### Hardware
+#### Hardware
 
 Input, Output and Calculation(Lambda Calculus).
 
@@ -34,7 +34,7 @@ Input, Output and Calculation(Lambda Calculus).
 - Mouse & Keyboard
 - Sound & Monitor
 
-### Computational Complexity
+#### Computational Complexity
 
 Which problems can you solve with a computer?
 
@@ -45,7 +45,7 @@ How problems Scale?
 2. Number of steps
 ```
 
-#### P versus NP problem
+##### P versus NP problem
 
 If the solution to a problem is easy to **check** for correctness, must the problem be easy to solve?
 
@@ -56,13 +56,13 @@ If the solution to a problem is easy to **check** for correctness, must the prob
 Eg. for P =? NP: 53308290611 % 224737 = 0;  
 Eg. for NPC: Subset sum problem --> O(2^n);
 
-#### Analysis of Algorithms
+##### Analysis of Algorithms
 
 - Bubble Sort -> O(n^2)
 
 - Merge Sort -> O(n\*log(n))
 
-### Information Theory
+#### Information Theory
 
 Relating to Coding Theory.
 
@@ -72,11 +72,11 @@ Eg. [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)
 >
 >Answer this question, and write an algorithm for the general case.
 
-## Computer Engineering
+### Computer Engineering
 
 How **to** slove the problem by computers?
 
-### Scheduling
+#### Scheduling
 
 ```
     Steam      Videos      Browser      Music      // Processes
@@ -85,7 +85,7 @@ How **to** slove the problem by computers?
                     Scheduler --> CPU(1,2,3,4....) // Multiprocessing
 ```
 
-### Computer Architecture
+#### Computer Architecture
 
 Central Processing Unit.
 
@@ -98,7 +98,7 @@ Input --> CPU --> Output
 GPU --> Multiprocessors  
 FPGA --> Logic Block, Interconnection, Input/Output, Switch Box, Connect Block
 
-### Software and Programming Languages
+#### Software and Programming Languages
 
 ```
 Silicon --> BIOS --> Operating System --> Applications --> Browser --> Web Apps
@@ -107,15 +107,15 @@ Silicon --> BIOS --> Operating System --> Applications --> Browser --> Web Apps
 ```
 Assembly     C     SQL     PERL     JavaScript
              C++   PHP     Python
-             C#    Swift
+             C##    Swift
              Java
 ```
 
-#### Compliers
+##### Compliers
 
 Translation from programming languages to mechine code(Binary).
 
-#### Operating System
+##### Operating System
 
 - macOS
 - iOS
@@ -124,11 +124,11 @@ Translation from programming languages to mechine code(Binary).
 - Android
 - ......
 
-#### Software Engineering
+##### Software Engineering
 
 Make the program possible to run.
 
-### Networking
+#### Networking
 
 Create Computer Graphics.
 
@@ -136,7 +136,7 @@ Create Computer Graphics.
 - Data Management
 - Performance
 
-## Applications
+### Applications
 
 - Optimisation
 - Boolean Satisfiability

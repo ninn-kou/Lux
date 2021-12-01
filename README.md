@@ -1,10 +1,10 @@
-# Lux: My Computing Science Study Voyage
+## Lux: My Computing Science Study Voyage
 
-## Table of Contents
+### Table of Contents
 
 [TOC]
 
-## LeetCode Problems & Solutions
+### LeetCode Problems & Solutions
 
 - [X] [🟢 0001. Two Sum](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0001.%20Two%20Sum/1.%20Two%20Sum.md) `C`
 - [X] [🟢 0027. Remove Element](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0027.%20Remove%20Element/27.%20Remove%20Element.md) `Python`
@@ -45,15 +45,15 @@
 - [X] [🟢 1935. Maximum Number of Words You Can Type](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.md) `Python`
 - [X] [🟢 1952. Three Divisors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1952.%20Three%20Divisors/1952.%20Three%20Divisors.md) `C` `Python` `Java` <br> [🌟 LeetCode Discussion Page](https://leetcode.com/problems/three-divisors/discuss/1388527/Easy-math-with-explanation-or-100-faster-for-ALL-languages-or-O(log5+epsilon(n))-fastest)
 
-## Computer Science
+### Computer Science
 
-### COMP - Algorithms & Programming Techniques
+#### COMP - Algorithms & Programming Techniques
 
-### COMP - Data Structures
+#### COMP - Data Structures
 
-### COMP - Rabbit's Python Tutorials (Data Aspect)
+#### COMP - Rabbit's Python Tutorials (Data Aspect)
 
-### COMP - Programming Fundamentals
+#### COMP - Programming Fundamentals
 
 [Markdown Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Programming%20Fundamentals/Programming%20Fundamentals.md)
 - [ ] 1. "Hello World!"
@@ -81,14 +81,14 @@
   - [ ] 8.1 Stacks
   - [ ] 8.2 Queues
 
-### Others CS-related Short Notes
+#### Others CS-related Short Notes
 
 - [Map of CS](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Others/map-of-cs.md)
 - [Unix-like OS Commands](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Others/Unix-like%20OS%20Commands.md)
 
-## Mathematics
+### Mathematics
 
-### MATH - Information, Codes and Ciphers
+#### MATH - Information, Codes and Ciphers
 
 [PDF Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Mathematics/Information%2C%20Codes%20and%20Ciphers/Info_Codes_Ciphers.pdf)
 [LaTeX Source](https://www.overleaf.com/project/609e81b35a26a707b6a2c8fa)
@@ -100,9 +100,9 @@
 - [ ] Chapter 6. Algebraic Coding
 - [ ] Chapter 7. Cryptography (Ciphers)
 
-## Physics
+### Physics
 
-### PHYS - Introduction to Astronomy
+#### PHYS - Introduction to Astronomy
 
 [Markdown Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Physics/Introduction%20to%20Astronomy/IntroToAstron.md)
 - [X] 1.1 Introduction to Astronomy
@@ -126,6 +126,6 @@
 - [ ] 5.3 Galaxies and their Evolution
 - [ ] 5.4 Cosmology
 
-## Copyright
+### Copyright
 
 *All rights reserved until further notice to change it.*

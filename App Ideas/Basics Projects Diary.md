@@ -1,11 +1,11 @@
-# Base Projects Diary
+## Base Projects Diary
 
-## 1. Bin2Dec
+### 1. Bin2Dec
 
 - [Readme Document](https://github.com/flying-yogurt/Lux/blob/master/My%20Base%20Projects/Bin2Dec/Bin2Dec-App.md)
 - [Codes in C](https://github.com/flying-yogurt/Lux/blob/master/My%20Base%20Projects/Bin2Dec/Bin2Dec.c)
 
-### 1.1 Aim
+#### 1.1 Aim
 
 Read a string-type binary number and output a decimal number in command line. $$\text{Input}_{2} = \text{Output}_{10}$$.
 
@@ -18,7 +18,7 @@ Output: Binary : 10101010
  Decimal: 170
 ```
 
-### 1.2 Ideas
+#### 1.2 Ideas
 
 In mathematics we use the follow algorithm to convert $n$ bits binary number:
 $$\text{Decimal}=d_{1}\times2^{n-1}+d_{2}\times2^{n-2}+\cdots+d_{n-1}\times2^{1}+d_{n}\times2^{0}\text{.}$$
@@ -27,7 +27,7 @@ $$111001_{2}=1\times2^{5}+1\times2^{4}+1\times2^{3}+0\times2^{2}+0\times2^{1}+1\
 
 To apply this algorithm into programming, we need to reverse the given string first, then count the products and sum as a decimal number.
 
-### 1.3 Notes
+#### 1.3 Notes
 
 1. Bonus for the project:
    - Try to use `Python` to rewrite for the object-oriented programming.

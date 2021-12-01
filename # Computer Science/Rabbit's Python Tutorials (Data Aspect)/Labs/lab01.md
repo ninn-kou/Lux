@@ -1,4 +1,4 @@
-# Lab: Environment Setup 🐯
+## Lab: Environment Setup 🐯
 
 In this lab exercise, you need to finish the following to-do list:
 

@@ -1,4 +1,4 @@
-# Programming Fundamentals
+## Programming Fundamentals
 
 This file is the personal `C` notes of Hao Ren which is based on the course COMP1511 in 2019 Term 3, UNSW. Here might be some imprecise descriptions, even some errors. And here are also some unfinished part, we could learn them in further study career.
 
@@ -34,7 +34,7 @@ This file is the personal `C` notes of Hao Ren which is based on the course COMP
     * [8\.1 Stacks](#81-stacks)
     * [8\.2 Queues](#82-queues)
 
-## 1. "Hello World!"
+### 1. "Hello World!"
 
 This part is an introduction to get in touch with my notes. I tried to help a first-year beginner student from the University of New South Wales to understand some foundational properties in C programming. So there is nothing profoundly and many questions remaining to solve in the following study voyage.
 
@@ -47,7 +47,7 @@ TODO: Make sure here are some links to the following parts to explain knowledge 
   - Basic Data Type
   - Return Value
 
-### 1.1 Comments
+#### 1.1 Comments
 
 For me, comments are my favourite part when I am writing codes. Not only for clearly reading but also for me as a proud. In C programming language, here are two ways to add your comment. Comments are used to add some sentences for the human being to understand what you think or how the code works. Besides, if we want parts of code not working temporarily, for example when we want to find the line caused the bug, we could comment them rather than delete them, unless you hate what you did.
 
@@ -56,7 +56,7 @@ For me, comments are my favourite part when I am writing codes. Not only for cle
 
 The difference between these two methods is that the first one only comments to the end of its line; however, the second method would comment anything between `/*` and next `*/`. For multiple lines to comment, we could only use `/* ... */`, but for other circumstances, I recommend to use `// ...`, which is beneficial for your coding style.
 
-### 1.2 The First C Program
+#### 1.2 The First C Program
 
 Now, look at our first short executable program, and try to understand it line by line. Please put yourself as a computing scientist, not a beginner with coding. How does the compiler translate your codes to machine-readable binary codes?
 
@@ -70,19 +70,19 @@ int main(void) {
 
 Here are only four lines. However, it is not an easy job to understand them 100 per cent. I will try to put some self-thinking demonstration in the parts below.
 
-### 1.3 \#include <...>
+#### 1.3 \#include <...>
 
 When you are writing an essay, you may need others' opinions or data to support your viewpoints. So you try to add some quotation into the article; However, if you use them, do not forget to put them on your reference list. In programming, here are some existed tools that had been written for use. For example, if you want to calculate square root for an integer, there is no need to pay attention into the complicated job, you need to do `sqrt(i)`, and then you can obtain the result you want.
 
 However, where does the `sqrt()` function come from? How could your computer recognize this order? They are from another file called `math.h`, which is another C standard library. In conclusion, it just likes the hammer. If you tried to fix a broken table, raise your hammer on the nail, hit it. DO NOT TRY TO MAKE A HAMMER BY YOURSELF!
 
-### 1.4 Why Do We Need the "stdio.h"?
+#### 1.4 Why Do We Need the "stdio.h"?
 
-### 1.5 What Is the "printf(...)"?
+#### 1.5 What Is the "printf(...)"?
 
-#### 1.5.1 An Inner Function in stdio.h
+##### 1.5.1 An Inner Function in stdio.h
 
-#### 1.5.2 What is the "\n"?
+##### 1.5.2 What is the "\n"?
 
 `\n` likes a mark to tell your computer that you need to print a new line here.
 
@@ -92,11 +92,11 @@ However, where does the `sqrt()` function come from? How could your computer rec
 - `\n`: LF (Line Feed) → Used as a new line character in Unix/Mac OS X;
 - `\r\n`: CR + LF → Used as a new line character in Windows.
 
-### 1.6 Main Function
+#### 1.6 Main Function
 
-#### 1.6.1 `int main(void)`
+##### 1.6.1 `int main(void)`
 
-#### 1.6.2 `return 0`
+##### 1.6.2 `return 0`
 
 Here are two questions that might be confusing for beginners in C computing.
 
@@ -128,11 +128,11 @@ Just like the explanation above, we could try to use a single data type when we 
 
 All in all, the question of the second question is very incredible. Because the main function is an `int` function, so computer scientists put a value '0' into it, just in case.
 
-## 2. C Foundations
+### 2. C Foundations
 
-### 2.1 Basic Data Types
+#### 2.1 Basic Data Types
 
-### 2.2 If Statements
+#### 2.2 If Statements
 
 ```C
 if (expression_1) {
@@ -144,7 +144,7 @@ if (expression_1) {
 }
 ```
 
-### 2.3 Loop Statements
+#### 2.3 Loop Statements
 
 Here are two options if you need a loop: a `while` statement or a `for` statement. However, before I show the syntax of them, we need to know some basic properties of a loop. Most C programming cases, we need a variable "counter" to calculate the number we execute this loop and compare the value of the counter and the condition to control statements. However, if there is another easy way to determine if the loop is required to continue, we do not need the counter. One most important thing is if you used a counter, **DO NOT FORGET to operate it after each loop!** Otherwise, you might fall into the mire, which is a forever-running program. A `while` loop just like this:
 
@@ -166,15 +166,15 @@ for (init; expression; increment) {
 
 **Hint: The symbol you used to separate these three parts is a `;` rather than a ','.**
 
-### 2.4 Switch, `continue` And `break`
+#### 2.4 Switch, `continue` And `break`
 
-### 2.5 Struct
+#### 2.5 Struct
 
-## 3. Functions in C Standard Libraries
+### 3. Functions in C Standard Libraries
 
-## 4. Pointers and Addresses
+### 4. Pointers and Addresses
 
-### 4.1 A Pointer Example
+#### 4.1 A Pointer Example
 
 To create a pointer, we need to **declare it with a \***. **Also, all pointers should be initialized with an address to any data or put it empty with a `NULL`.**
 
@@ -190,7 +190,7 @@ printf("The value at %p is %d.\n", pointer, *pointer);
 The value at 0x7ffee3559928 is 65535.
 ```
 
-### 4.2 Demonstrations
+#### 4.2 Demonstrations
 
 When we declare a pointer, we need a star mark '\*' to tell the computer that the variable is a pointer, which contains the address of the other variable we want. **After declaration**, the pointer variable without star `pointer` express the address, but the pointer with a star '*' `*pointer` define the value of the variable which was pointed to.
 
@@ -218,7 +218,7 @@ Besides, we could know that the pointer aims to the same address with the origin
 The value at 0x7ffeeb706928 is 32767.
 ```
 
-### 4.3 No Dangling Pointer
+#### 4.3 No Dangling Pointer
 
 If the pointed object has been freed or deleted, but no change to the pointer itself, we caused a "dangling pointer". This is a dangerous behaviour when computing because even the content changed, the address stayed here. We don't know what would be allocated into this address, and then, if we do anything to the pointer, something might be wrong.
 
@@ -226,7 +226,7 @@ Here are two tips to avoid this situation. The first one is, never leaves a poin
 
 Secondly, every pointer should be a `NULL` after using. It is beneficial, and it could avoid most memory leak errors by incorrect addresses.
 
-## 5. Multiple Files and Arguments
+### 5. Multiple Files and Arguments
 
 ```C
 int main(int argc, char *argv[]) {
@@ -234,7 +234,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-## 6. Arrays and Strings
+### 6. Arrays and Strings
 
 Pointers and arrays are **similar** but **not same**. Refer to *Chapter 4, Expert C Programming* by Peter van der Linden for more details.
 
@@ -244,10 +244,10 @@ int *array[];
 int **array;
 ```
 
-## 7. Linked Lists
+### 7. Linked Lists
 
-## 8. Two ADTs
+### 8. Two ADTs
 
-### 8.1 Stacks
+#### 8.1 Stacks
 
-### 8.2 Queues
+#### 8.2 Queues
