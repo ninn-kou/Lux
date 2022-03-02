@@ -8,6 +8,7 @@
 
 - [X] [🟢 0001. Two Sum](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0001.%20Two%20Sum/1.%20Two%20Sum.md) `C`
 - [X] [🟢 0027. Remove Element](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0027.%20Remove%20Element/27.%20Remove%20Element.md) `Python`
+- [X] [🟢 0035. Search Insert Position](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0035.%20Search%20Insert%20Position/35.%20Search%20Insert%20Position.md) `Python`
 - [X] [🟠 0050. Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md) `C`
 - [X] [🟢 0058. Length of Last Word](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0058.%20Length%20of%20Last%20Word/58.%20Length%20of%20Last%20Word.md) `C`
 - [X] [🟢 0070. Climbing Stairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0070.%20Climbing%20Stairs/70.%20Climbing%20Stairs.md) `Java`
