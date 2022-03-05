@@ -148,7 +148,7 @@ This document is used to summarise the following book, all rights are reserved b
 
 * With the increasing sophistication of our scientific tools, and new knowledge from cognitive science, behavioral science, and neuroscience, we now realize that no contribution to psychological disorders occurs in isolation. Our behavior, both normal and abnormal, is a product of a continual interaction of psychological, biological, and social influences.
 
-[[BACK TO TOP]](#book-summary)
+[[BACK TO TOP]](#psyc1023-abnormal-psychology)
 
 ### Chapter 2: Clinical Assessment, Diagnosis, and Research in Psychopathology
 
@@ -206,7 +206,7 @@ The DSM-5 categories are based on empirical findings to identify the criteria fo
 * Ethics are important to the research process, and ethical guidelines are spelled out by many professional organizations in an effort to ensure the well-being of research participants.
 * Ethical concerns are being addressed through informed consent and through the inclusion of consumers in research design, implementation, and interpretation.
 
-[[BACK TO TOP]](#book-summary)
+[[BACK TO TOP]](#psyc1023-abnormal-psychology)
 
 ### Chapter 3: An Integrative Approach to Psychopathology
 
@@ -264,7 +264,7 @@ The DSM-5 categories are based on empirical findings to identify the criteria fo
 
 * In considering a multidimensional integrative approach to psychopathology, it is important to remember the principle of equifinality, which reminds us that we must consider the various paths to a particular outcome, not just the result.
 
-[[BACK TO TOP]](#book-summary)
+[[BACK TO TOP]](#psyc1023-abnormal-psychology)
 
 ### Chapter 10: Mood Disorders and Suicide
 
@@ -311,7 +311,7 @@ The DSM-5 categories are based on empirical findings to identify the criteria fo
 * Suicide is often associated with mood disorders but can occur in their absence or in the presence of other disorders. It is the 10th leading cause of death among all people in the United States, but among adolescents, it is the 3rd leading cause of death.
 * In understanding suicidal behavior, three indices are important: suicidal ideation (serious thoughts about committing suicide), suicidal plans (a detailed method for killing oneself), and suicidal attempts (that are not successful). Important, too, in learning about risk factors for suicides is the psychological autopsy, in which the psychological profile of an individual who has committed suicide is reconstructed and examined for clues.
 
-[[BACK TO TOP]](#book-summary)
+[[BACK TO TOP]](#psyc1023-abnormal-psychology)
 
 ### Chapter 11: Anxiety, Trauma-and Stressor-Related, and Obsessive-Compulsive and Related Disorders
 
@@ -411,7 +411,7 @@ The DSM-5 categories are based on empirical findings to identify the criteria fo
 * Treatment approaches are similar to those for OCD but are less successful.
 * Repetitive and compulsive hair pulling, resulting in a significant noticeable loss of hair or repetitive and compulsive picking of the skin, leading to tissue damage, characterize trichotillomania and excoriation disorders respectively.
 
-[[BACK TO TOP]](#book-summary)
+[[BACK TO TOP]](#psyc1023-abnormal-psychology)
 
 ### Chapter 12: Substance-Related, Addictive, and Impulse-Control Disorders
 
@@ -477,4 +477,4 @@ The DSM-5 categories are based on empirical findings to identify the criteria fo
 
 * In DSM-5, impulse-control disorders include three separate disorders: intermittent explosive disorder, kleptomania, and pyromania.
 
-[[BACK TO TOP]](#book-summary)
+[[BACK TO TOP]](#psyc1023-abnormal-psychology)
