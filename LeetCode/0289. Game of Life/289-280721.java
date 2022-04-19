@@ -3,7 +3,7 @@ class Solution {
      * Java solution for LeetCode problem No.289
      * Game of Life
      * 28 July, 2021
-     * @author Hao Ren, hao.ren@student@unsw.edu.au
+     * @author Hao Ren, hao.ren@student.unsw.edu.au
      */
     private int size_row;
     private int size_col;
