@@ -52,6 +52,7 @@
 - [X] [🟢 1929. Concatenation of Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1929.%20Concatenation%20of%20Array/1929.%20Concatenation%20of%20Array.md) `C` `Python`
 - [X] [🟢 1935. Maximum Number of Words You Can Type](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.md) `Python`
 - [X] [🟢 1952. Three Divisors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1952.%20Three%20Divisors/1952.%20Three%20Divisors.md) `C` `Python` `Java` <br> [🌟 LeetCode Discussion Page](https://leetcode.com/problems/three-divisors/discuss/1388527/Easy-math-with-explanation-or-100-faster-for-ALL-languages-or-O(log5+epsilon(n))-fastest)
+- [X] [🟢 2278. Percentage of Letter in String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/2278.%20Percentage%20of%20Letter%20in%20String/2278.%20Percentage%20of%20Letter%20in%20String.md) `C`
 
 ### Computer Science
 
