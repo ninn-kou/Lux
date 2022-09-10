@@ -47,6 +47,7 @@
 - [X] [🟢 1512. Number of Good Pairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1512.%20Number%20of%20Good%20Pairs/1512.%20Number%20of%20Good%20Pairs.md) `C`
 - [X] [🟢 1528. Shuffle String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1528.%20Shuffle%20String/1528.%20Shuffle%20String.md) `C`
 - [X] [🟢 1672. Richest Customer Wealth](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1672.%20Richest%20Customer%20Wealth/1672.%20Richest%20Customer%20Wealth.md) `Python`
+- [X] [🟢 1683. Invalid Tweets](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1683.%20Invalid%20Tweets/1683.%20Invalid%20Tweets.md) `SQL`
 - [X] [🟢 1716. Calculate Money in LeetCode Bank](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1716.%20Calculate%20Money%20in%20LeetCode%20Bank/1716.%20Calculate%20Money%20in%20LeetCode%20Bank.md) `C`
 - [X] [🟢 1757. Recyclable and Low Fat Products](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1757.%20Recyclable%20and%20Low%20Fat%20Products/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) `SQL`
 - [X] [🟢 1929. Concatenation of Array](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1929.%20Concatenation%20of%20Array/1929.%20Concatenation%20of%20Array.md) `C` `Python`
