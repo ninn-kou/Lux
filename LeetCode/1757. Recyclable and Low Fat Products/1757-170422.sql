@@ -1,8 +1,8 @@
 /**
-* Hao Ren
-* 17 April, 2022
-* 1757. Recyclable and Low Fat Products
-*/
+ * Hao Ren
+ * 17 April, 2022
+ * 1757. Recyclable and Low Fat Products
+ */
 
 SELECT
     product_id
