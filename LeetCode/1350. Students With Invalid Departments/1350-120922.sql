@@ -1,7 +1,7 @@
 /**
  * Hao Ren
  * 17 April, 2022
- *1350. Students With Invalid Departments
+ * 1350. Students With Invalid Departments
  */
 
 SELECT
