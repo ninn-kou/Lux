@@ -20,6 +20,7 @@
 - [X] [🟢 0136. Single Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0136.%20Single%20Number/136.%20Single%20Number.md) `C`
 - [X] [🟢 0141. Linked List Cycle](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0141.%20Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.md) `C`
 - [X] [🟢 0175. Combine Two Tables](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0175.%20Combine%20Two%20Tables/175.%20Combine%20Two%20Tables.md) `SQL`
+- [X] [🟠 0176. Second Highest Salary](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0176.%20Second%20Highest%20Salary/176.%20Second%20Highest%20Salary.md) `SQL`
 - [X] [🟢 0203. Remove Linked List Elements](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0203.%20Remove%20Linked%20List%20Elements/203.%20Remove%20Linked%20List%20Elements.md) `C`
 - [X] [🟢 0206. Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md) `C`
 - [X] [🟢 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) `C`
