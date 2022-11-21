@@ -28,7 +28,7 @@
 | [🟢 0181. Employees Earning More Than Their Managers](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0181.%20Employees%20Earning%20More%20Than%20Their%20Managers/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md) | `SQL` |  |
 | [🟢 0203. Remove Linked List Elements](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0203.%20Remove%20Linked%20List%20Elements/203.%20Remove%20Linked%20List%20Elements.md) | `C` |  |
 | [🟢 0206. Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md) | `C` |  |
-| [🟢 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `C` |  |
+| [🟠 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `C` |  |
 | [🟢 0263. Ugly Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0263.%20Ugly%20Number/263.%20Ugly%20Number.md) | `C` |  |
 | [🟢 0283. Move Zeroes](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0283.%20Move%20Zeroes/283.%20Move%20Zeroes.md) | `C` |  |
 | [🟠 0289. Game of Life](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0289.%20Game%20of%20Life/289.%20Game%20of%20Life.md) | `Java` |  |
