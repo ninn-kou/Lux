@@ -34,6 +34,7 @@
 - [X] [🟢 0485. Max Consecutive Ones](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0485.%20Max%20Consecutive%20Ones/485.%20Max%20Consecutive%20Ones.md) `C`
 - [X] [🟢 0495. Teemo Attacking](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0495.%20Teemo%20Attacking/495.%20Teemo%20Attacking.md) `C` `Python`
 - [X] [🟢 0541. Reverse String II](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0541.%20Reverse%20String%20II/541.%20Reverse%20String%20II.md) `C`
+- [X] [🟢 0595. Big Countries](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0595.%20Big%20Countries/595.%20Big%20Countries.md) `SQL`
 - [X] [🟢 0704. Binary Search](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0704.%20Binary%20Search/704.%20Binary%20Search.md) `Python`
 - [X] [🟢 0709. To Lower Case](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0709.%20To%20Lower%20Case/709.%20To%20Lower%20Case.md) `C`
 - [X] [🟢 0836. Rectangle Overlap](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0836.%20Rectangle%20Overlap/836.%20Rectangle%20Overlap.md) `C` `Python` `Java`
