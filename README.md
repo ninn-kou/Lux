@@ -7,7 +7,7 @@
 ### LeetCode Problems & Solutions
 
 | Problems | Languages & Notes | Labels |
-|----------|:-----------------:|--------|
+|----------|:-----------------:|:------:|
 | [🟢 0001. Two Sum](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0001.%20Two%20Sum/1.%20Two%20Sum.md) | `C` |  |
 | [🟢 0027. Remove Element](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0027.%20Remove%20Element/27.%20Remove%20Element.md) | `Python` |  |
 | [🟢 0035. Search Insert Position](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0035.%20Search%20Insert%20Position/35.%20Search%20Insert%20Position.md) | `Python` |  |
@@ -39,6 +39,7 @@
 | [🟢 0485. Max Consecutive Ones](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0485.%20Max%20Consecutive%20Ones/485.%20Max%20Consecutive%20Ones.md) | `C` |  |
 | [🟢 0495. Teemo Attacking](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0495.%20Teemo%20Attacking/495.%20Teemo%20Attacking.md) | `C` `Python` |  |
 | [🟢 0541. Reverse String II](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0541.%20Reverse%20String%20II/541.%20Reverse%20String%20II.md) | `C` |  |
+| [🟢 0577. Employee Bonus](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0577.%20Employee%20Bonus/577.%20Employee%20Bonus.md) | `SQL` |  |
 | [🟢 0595. Big Countries](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0595.%20Big%20Countries/595.%20Big%20Countries.md) | `SQL` |  |
 | [🟢 0704. Binary Search](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0704.%20Binary%20Search/704.%20Binary%20Search.md) | `Python` |  |
 | [🟢 0709. To Lower Case](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0709.%20To%20Lower%20Case/709.%20To%20Lower%20Case.md) | `C` |  |
