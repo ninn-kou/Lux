@@ -6,6 +6,10 @@
 
 ### LeetCode Problems & Solutions
 
+```
+LL : Linked list
+```
+
 | Problems | Languages & Notes | Labels |
 |----------|:-----------------:|:------:|
 | [🟢 0001. Two Sum](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0001.%20Two%20Sum/1.%20Two%20Sum.md) | `C` |  |
@@ -13,22 +17,22 @@
 | [🟢 0035. Search Insert Position](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0035.%20Search%20Insert%20Position/35.%20Search%20Insert%20Position.md) | `Python` |  |
 | [🟠 0050. Pow(x, n)](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0050.%20Pow(x%2C%20n)/50.%20Pow(x%2C%20n).md) | `C` |  |
 | [🟢 0058. Length of Last Word](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0058.%20Length%20of%20Last%20Word/58.%20Length%20of%20Last%20Word.md) | `C` |  |
-| [🟠 0061. Rotate List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0061.%20Rotate%20List/61.%20Rotate%20List.md) | `C` |  |
+| [🟠 0061. Rotate List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0061.%20Rotate%20List/61.%20Rotate%20List.md) | `C` | `LL` |
 | [🟢 0070. Climbing Stairs](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0070.%20Climbing%20Stairs/70.%20Climbing%20Stairs.md) | `Java` |  |
 | [🟠 0074. Search a 2D Matrix](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0074.%20Search%20a%202D%20Matrix/74.%20Search%20a%202D%20Matrix.md) | `Python` |  |
 | [🟠 0075. Sort Colors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0075.%20Sort%20Colors/75.%20Sort%20Colors.md) | `C` |  |
-| [🟢 0083. Remove Duplicates from Sorted List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `C` |  |
+| [🟢 0083. Remove Duplicates from Sorted List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `C` | `LL` |
 | [🟢 0121. Best Time to Buy and Sell Stock](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `C` |  |
 | [🟢 0125. Valid Palindrome](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0125.%20Valid%20Palindrome/125.%20Valid%20Palindrome.md) | `C` |  |
 | [🟢 0136. Single Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0136.%20Single%20Number/136.%20Single%20Number.md) | `C` |  |
-| [🟢 0141. Linked List Cycle](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0141.%20Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.md) | `C` |  |
+| [🟢 0141. Linked List Cycle](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0141.%20Linked%20List%20Cycle/141.%20Linked%20List%20Cycle.md) | `C` | `LL` |
 | [🟢 0175. Combine Two Tables](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0175.%20Combine%20Two%20Tables/175.%20Combine%20Two%20Tables.md) | `SQL` |  |
 | [🟠 0176. Second Highest Salary](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0176.%20Second%20Highest%20Salary/176.%20Second%20Highest%20Salary.md) | `SQL` |  |
 | [🟠 0177. Nth Highest Salary](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0177.%20Nth%20Highest%20Salary/177.%20Nth%20Highest%20Salary.md) | `SQL` |  |
 | [🟢 0181. Employees Earning More Than Their Managers](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0181.%20Employees%20Earning%20More%20Than%20Their%20Managers/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md) | `SQL` |  |
-| [🟢 0203. Remove Linked List Elements](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0203.%20Remove%20Linked%20List%20Elements/203.%20Remove%20Linked%20List%20Elements.md) | `C` |  |
-| [🟢 0206. Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md) | `C` |  |
-| [🟠 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `C` |  |
+| [🟢 0203. Remove Linked List Elements](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0203.%20Remove%20Linked%20List%20Elements/203.%20Remove%20Linked%20List%20Elements.md) | `C` | `LL` |
+| [🟢 0206. Reverse Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.md) | `C` | `LL` |
+| [🟠 0237. Delete Node in a Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0237.%20Delete%20Node%20in%20a%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `C` | `LL` |
 | [🟢 0263. Ugly Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0263.%20Ugly%20Number/263.%20Ugly%20Number.md) | `C` |  |
 | [🟢 0283. Move Zeroes](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0283.%20Move%20Zeroes/283.%20Move%20Zeroes.md) | `C` |  |
 | [🟠 0289. Game of Life](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0289.%20Game%20of%20Life/289.%20Game%20of%20Life.md) | `Java` |  |
@@ -44,7 +48,7 @@
 | [🟢 0704. Binary Search](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0704.%20Binary%20Search/704.%20Binary%20Search.md) | `Python` |  |
 | [🟢 0709. To Lower Case](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0709.%20To%20Lower%20Case/709.%20To%20Lower%20Case.md) | `C` |  |
 | [🟢 0836. Rectangle Overlap](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0836.%20Rectangle%20Overlap/836.%20Rectangle%20Overlap.md) | `C` `Python` `Java` |  |
-| [🟢 0876. Middle of the Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `C` |  |
+| [🟢 0876. Middle of the Linked List](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `C` | `LL` |
 | [🟠 0877. Stone Game](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/0877.%20Stone%20Game/877.%20Stone%20Game.md) | `C` |  |
 | [🟢 1119. Remove Vowels from a String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1119.%20Remove%20Vowels%20from%20a%20String/1119.%20Remove%20Vowels%20from%20a%20String.md) | `C` |  |
 | [🟢 1137. N-th Tribonacci Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1137.%20N-th%20Tribonacci%20Number/1137.%20N-th%20Tribonacci%20Number.md) | `Java` |  |
