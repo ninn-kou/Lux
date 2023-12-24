@@ -75,7 +75,8 @@
 
 #### COMP - Programming Fundamentals
 
-[Markdown Notes](https://github.com/flying-yogurt/Lux/blob/master/%23%20Computer%20Science/Programming%20Fundamentals/Programming%20Fundamentals.md)
+[Markdown Notes](https://github.com/ninn-kou/Lux/blob/master/%23%20Computer%20Science/Programming%20Fundamentals%20in%20C/Programming%20Fundamentals%20in%20C.md)
+
 - [ ] 1. "Hello World!"
   - [X] 1.1 Comments
   - [X] 1.2 The First C Program
