@@ -53,6 +53,7 @@ LL : Linked list
 | [🟢 1119. Remove Vowels from a String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1119.%20Remove%20Vowels%20from%20a%20String/1119.%20Remove%20Vowels%20from%20a%20String.md) | `C` |  |
 | [🟢 1137. N-th Tribonacci Number](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1137.%20N-th%20Tribonacci%20Number/1137.%20N-th%20Tribonacci%20Number.md) | `Java` |  |
 | [🟠 1227. Airplane Seat Assignment Probability](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1227.%20Airplane%20Seat%20Assignment%20Probability/1227.%20Airplane%20Seat%20Assignment%20Probability.md) | `C` `Python` |  |
+| [🟠 1265. Print Immutable Linked List in Reverse]() | `Python` |  |
 | [🟢 1290. Convert Binary Number in a Linked List to Integer](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | `C` | `LL` |
 | [🟢 1342. Number of Steps to Reduce a Number to Zero](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.md) | `C` |  |
 | [🟢 1350. Students With Invalid Departments](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1350.%20Students%20With%20Invalid%20Departments/1350.%20Students%20With%20Invalid%20Departments.md) | `SQL` |  |
@@ -68,6 +69,7 @@ LL : Linked list
 | [🟢 1935. Maximum Number of Words You Can Type](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.md) | `Python` |  |
 | [🟢 1952. Three Divisors](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/1952.%20Three%20Divisors/1952.%20Three%20Divisors.md) | `C` `Python` `Java` <br> [🌟 LeetCode Discussion Page](https://leetcode.com/problems/three-divisors/discuss/1388527/Easy-math-with-explanation-or-100-faster-for-ALL-languages-or-O(log5+epsilon(n))-fastest) |  |
 | [🟢 2278. Percentage of Letter in String](https://github.com/flying-yogurt/Lux/blob/master/LeetCode/2278.%20Percentage%20of%20Letter%20in%20String/2278.%20Percentage%20of%20Letter%20in%20String.md) | `C` |  |
+| [🟢 2879. Display the First Three Rows]() | `Python: Pandas` |  |
 
 ### Computer Science
 
